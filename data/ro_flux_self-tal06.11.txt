@@ -1,0 +1,353 @@
+//Reference=Talairach
+//KrŠmer et al., 2010; Emotional > neutral stimuli			
+// Subjects=16			
+31	26	51	
+-2	44	34	
+-63	-30	28	
+-49	-57	13	
+-42	28	-8	
+-3	38	-9	
+			
+//KrŠmer et al., 2010; Neutral > emotional stimuli			
+// Subjects=16			
+39	47	25	
+			
+//KrŠmer et al., 2010; Social relation > single person			
+// Subjects=16			
+2	-55	33	
+3	-80	18	
+-43	-65	14	
+55	-36	7	
+54	3	-15	
+47	-53	13	
+2	44	24	
+50	22	22	
+			
+//Blackwood et al., 2003; Internal > external			
+// Subjects=12			
+-22	-48	-22	
+-44	6	42	
+42	-12	52	
+20	-90	-2	
+			
+//Blackwood et al., 2003; External > internal			
+// Subjects=12			
+-58	-58	16	
+			
+//Blackwood et al., 2003; Self-serving bias > Non-self-serving bias			
+// Subjects=12			
+8	-7	17	
+-6	-1	17	
+			
+//Blackwood et al., 2003; Non-self-serving bias > Self-serving bias			
+// Subjects=12			
+44	-64	38	
+-28	36	-20	
+55	-54	14	
+			
+//Ebisch et al., 2014; [(hand/human hand > hand/fake hand) _ (object/human hand > object/fake hand)]			
+// Subjects=16			
+-31	-41	57	
+			
+//Ebisch et al., 2014; [(object/human hand > object/fake hand) _ (hand/human hand > hand/fake hand)]			
+// Subjects=16			
+-43	-32	33	
+-49	-65	3	
+			
+//Ebisch et al., 2014; [human hand > fake hand] _ Modality effect: [object > hand]			
+// Subjects=16			
+-58	-5	30	
+-37	-35	42	
+-46	-8	15	
+			
+//Ebisch et al., 2014; [(hand/human hand > hand/fake hand) _ (object/human hand > object/fake hand)]			
+// Subjects=16			
+17	-56	-18	
+-7	40	3	
+			
+//Ebisch et al., 2014; [(object/human hand > object/fake hand) _ (hand/human hand > hand/fake hand)] _
+Target effect [human hand > fake hand] _ Modality effect: [hand > object]			
+// Subjects=16			
+-10	-92	-12	
+			
+//Ebisch et al., 2014; [(object/human hand > object/fake hand) _ (hand/human hand > hand/fake hand)] _
+Target effect [human hand > fake hand] _ Modality effect: [object > hand]			
+// Subjects=16			
+32	-26	60	
+41	-29	42	
+-37	-26	51	
+-10	-14	45	
+			
+//Anderson et al., 2013; Sex _ Condition			
+Subjects: 48			
+42	-1	-17	
+30	56	7	
+12	-31	10	
+-12	-22	-2	
+6	-55	-35	
+3	-37	-23	
+0	-7	-9	
+-6	26	13	
+-24	47	13	
+-24	-40	-26	
+-27	-10	-17	
+-45	14	-23	
+-45	-19	-11	
+			
+//Gordon et al., 2011; arm > baseline			
+// Subjects=22			
+42	-28	22	
+51	-46	4	
+30	32	10	
+45	-7	-26	
+18	-61	-20	
+12	32	40	
+-3	29	34	
+-9	23	52	
+-36	-61	-29	
+-48	-46	43	
+-54	-22	19	
+			
+//Gordon et al., 2011; palm > baseline			
+// Subjects=22			
+51	-40	28	
+42	-28	22	
+36	29	31	
+42	41	4	
+27	-40	-23	
+18	-49	-41	
+-18	-10	16	
+-21	-52	-32	
+-48	-22	25	
+			
+//Gordon et al., 2011; arm > palm			
+// Subjects=22			
+57	-55	13	
+36	-28	7	
+27	-25	61	
+6	-91	16	
+-24	-31	55	
+9	41	22	
+15	-43	-20	
+-45	-52	46	
+			
+//Harris et al., 2010; warm expectancy violation  >  consistent warmth expectancy			
+// Subjects=12			
+43	12	29	
+25	18	2	
+			
+//Harris et al., 2010; consistent warmth expectancy >  warm expectancy violation			
+// Subjects=12			
+			
+61	-6	-1	
+52	-27	47	
+22	-75	26	
+-33	-45	1	
+			
+//Harris et al., 2010; competence expectancy violation > consistant competence expectency			
+// Subjects=12			
+10	21	-4	
+			
+//Harris et al., 2010;  consistant competence expectency > competence expectancy violation			
+// Subjects=12			
+25	6	-16	
+-47	-26	32	
+			
+//Chauvigne et al., 2018a; Leading + Following + Mutual > Solo + Alone)			
+// Subjects=18			
+3	47	28	
+39	14	16	
+42	-7	16	
+-9	47	-5	
+39	17	-11	
+-48	-34	49	
+45	-28	52	
+45	-28	19	
+-12	-31	46	
+-51	-25	16	
+51	-61	7	
+48	-61	-8	
+51	-46	25	
+39	-55	16	
+-3	11	16	
+12	-16	1	
+33	-7	-5	
+42	-67	-20	
+15	-52	-17	
+			
+//Chauvigne et al., 2018a; Leading > Conjunction			
+// Subjects=18			
+-21	-16	58	
+0	-13	52	
+15	-16	55	
+45	2	7	
+0	-1	43	
+30	-43	55	
+-54	-37	19	
+45	-64	-23	
+			
+//Chauvigne et al., 2018a;  Following > Conjunction			
+// Subjects=18			
+-9	38	-5	
+-3	26	7	
+-9	-22	58	
+9	-19	61	
+-54	-37	25	
+48	-28	19	
+51	-43	22	
+-45	-61	4	
+39	-58	1	
+51	-67	10	
+-48	-52	10	
+3	-13	1	
+9	-28	1	
+-9	11	13	
+3	2	10	
+			
+//Chauvigne et al., 2018a; Mutual > Conjunction			
+// Subjects=18			
+3	44	31	
+0	-49	13	
+42	-52	25	
+48	-67	16	
+-45	-61	16	
+21	-1	-8	
+-6	14	4	
+			
+//Chauvigne et al., 2018a; Leading + Solo > Mutual + Alone 			
+// Subjects=18			
+-27	-16	52	
+0	-4	52	
+-12	5	37	
+18	-22	55	
+-48	32	31	
+-48	-1	28	
+45	2	7	
+-54	5	4	
+-18	-70	49	
+15	-64	55	
+-39	-55	52	
+-60	-40	19	
+0	-16	16	
+18	2	10	
+-24	-7	10	
+39	-70	-20	
+			
+//Chauvigne et al., 2018a; [Leading + Solo + Mutual + Alone] > Following			
+// Subjects=18			
+-42	32	37	
+6	-82	49	
+-12	-82	46	
+			
+//Chauvigne et al., 2018a; Leading > Solo			
+// Subjects=18			
+42	-34	58	
+-48	-34	46	
+0	-22	46	
+45	-34	22	
+			
+			
+//Chauvigne et al., 2018b; Activations: Leading > Following (Whole-group)			
+// Subjects=18			
+-4	-4	59	
+-6	8	37	
+-26	-13	54	
+-40	29	38	
+6	-73	42	
+-16	-73	36	
+47	-65	-17	
+			
+//Chauvigne et al., 2018b; Activations: Leading > Following (Leaders only)			
+// Subjects=11			
+3	5	58	
+-3	-13	64	
+0	2	40	
+21	-4	55	
+-30	-16	64	
+-48	32	31	
+-36	23	25	
+6	-73	49	
+-18	-79	43	
+			
+//Chauvigne et al., 2018; Activations: Leading > Following (Followers only)			
+// Subjects=10			
+-39	44	34	
+			
+//Chauvigne et al., 2018; Deactivations: Following > Leading (Whole-group)			
+// Subjects=18			
+3	-54	23	
+45	-59	25	
+-53	-63	23	
+17	-33	0	
+-21	-16	-6	
+			
+//Chauvigne et al., 2018; Deactivations: Following > Leading (Followers only)			
+// Subjects=10			
+3	-61	31	
+48	-61	31	
+48	-61	16	
+-51	-52	4	
+57	-16	-2	
+-48	5	-23	
+-42	-40	1	
+-30	-22	-11	
+21	-25	4	
+			
+//Chauvigne et al., 2018b; [Leading > Rest] and [Following > Rest] (leaders only)			
+// Subjects=11			
+33	-40	58	
+-39	-43	52	
+54	2	19	
+3	-13	52	
+48	-28	25	
+-51	-28	19	
+24	-61	58	
+-24	-61	58	
+51	-58	-8	
+-48	-58	4	
+15	-25	10	
+-15	-19	10	
+-3	-61	-17	
+15	-49	-17	
+-21	-49	-20	
+42	-58	-23	
+			
+//Chauvigne et al., 2018b; [Leading > Rest] and [Following > Rest] (followers only)			
+// Subjects=10			
+30	-37	61	
+-39	-37	55	
+54	8	7	
+0	-22	49	
+45	-34	31	
+-48	-34	19	
+24	-61	55	
+-27	-55	58	
+0	-16	16	
+3	-58	-14	
+12	-46	-17	
+-15	-52	-17	
+45	-58	-20	
+			
+//Dimenichi et al., 2016; Competition > No Competition			
+// Subjects=20			
+50	50	-53	21	
+47	47	22	21	
+11	11	58	18	
+29	29	22	-6	
+17	17	-47	-6	
+-28	-28	71	6	
+-37	-37	16	45	
+-49	-49	-62	18	
+-40	-40	58	3	
+-55	-55	-35	-3	
+			
+//Dimenichi et al., 2016; No Competition > Competition			
+// Subjects=20			
+29	29	-92	12	
+-22	-22	1	57	
+-16	-16	-71	45	
+-22	-22	10	15	
+-34	-34	-83	6	
+-40	-40	-35	42	
+-55	-55	1	33	
+			

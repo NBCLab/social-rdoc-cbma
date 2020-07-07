@@ -1,0 +1,774 @@
+//Reference=Talairach					
+"//Quadflieg et al., 2015; Incongruent Interactions > Congruent Interactions"					
+//Subjects: 12					
+	38	-65	6		
+	-40	-62	6		
+					
+"//Quadflieg et al., 2015; Incongruent Interactions > Non-Interactions"					
+//Subjects: 12					
+	50	-56	3		
+	-43	-62	3		
+	17	-44	-3		
+	-52	-44	9		
+					
+					
+"//Schneider et al., 2014; belief > photo/map trials"					
+//Subjects: 16					
+	45	-58	25		
+	-51	-52	28		
+	6	-55	31		
+	57	-19	-5		
+	-60	-31	-5		
+	-54	-1	-8		
+	-33	2	43		
+					
+					
+"//Suzuki et al., 2012; Simulated-otherÕs reward prediction error > Simulated-otherÕs action prediction error"					
+//Subjects: 39					
+	0	53	4		
+					
+"//Suzuki et al., 2012; Simulated-otherÕs action prediction error > Simulated-otherÕs reward prediction error"					
+//Subjects: 39					
+	45	11	43		
+	6	14	52		
+	39	-55	37		
+	-45	-52	37		
+	39	20	-5		
+	6	-19	-2		
+	12	-73	-8		
+					
+"//Suzuki et al., 2012; Reward probability (other) > Reward Prediction Error (other)"					
+//Subjects: 39					
+	3	56	4		
+	-54	-28	16		
+	54	-22	19		
+	36	-19	55		
+	-12	-1	34		
+	-39	-13	4		
+					
+"//Suzuki et al., 2012;  Reward Prediction Error (control) > Reward probability (other)"					
+//Subjects: 39					
+	6	53	-2		
+					
+"//Suzuki et al., 2012; Reward probability (other) >  Reward Prediction Error (control)"					
+//Subjects: 39					
+	-6	56	1		
+	45	-16	7		
+					
+"//Polosan et al., 2011; I(H + M) > C(H + M)"					
+//Subjects: 14					
+	12	6	67		
+	33	53	20		
+	6	8	45		
+	-39	0	48		
+	48	18	6		
+	15	30	18		
+	33	27	12		
+	36	-59	45		
+	-27	-49	61		
+	45	-65	-11		
+	-12	-73	49		
+	-3	-53	51		
+	12	-96	8		
+					
+"//Polosan et al., 2011; H(I + C) > M(I + C)"					
+//Subjects: 14					
+	-6	51	4		
+	-6	51	28		
+	51	33	4		
+	-6	51	8		
+	-45	9	18		
+	63	-27	18		
+	33	-15	-21		
+	30	-84	-7		
+	-30	-69	-10		
+	-27	-42	-7		
+					
+"//Polosan et al., 2011; [H(I > C)] > [M(I > C)]"					
+//Subjects: 14					
+	54	-9	52		
+	27	57	24		
+	12	30	24		
+	36	18	-4		
+	-54	-57	-14		
+	66	-48	-6		
+	30	-42	-18		
+					
+"//Klasen et al., 2011; (CAV >  A) _ (CAV >  V) _ (ICAV >  A) _ (ICAV >  V)"					
+//Subjects: 24					
+	56	-50	6		
+	14	-23	-3		
+	-16	-26	0		
+	-49	-47	6		
+					
+"//Klasen et al., 2011; (CAV >  A) _ (CAV >  V)"					
+//Subjects: 24					
+	56	-50	6		
+	-49	-44	6		
+	26	-2	-12		
+	-25	-2	-12		
+	8	-26	-3		
+	-16	-26	0		
+					
+"//Klasen et al., 2011; (ICAV >  A) _ (ICAV >  V)"					
+//Subjects: 24					
+	56	-47	6		
+	-58	-47	6		
+	-58	-29	-6		
+	-16	-26	-3		
+	20	-23	-3		
+					
+"//Klasen et al., 2011; CAV > ICAV"					
+//Subjects: 24					
+	12	-49	10		
+	-15	-46	7		
+	-45	-7	10		
+	48	-64	4		
+	-57	-25	13		
+	-21	-16	-11		
+	30	-7	-14		
+	39	-31	58		
+	9	2	13		
+	-9	-64	37		
+	6	-70	-20		
+	45	-52	37		
+	-3	20	49		
+	48	11	43		
+	-33	-52	34		
+	-15	-70	-26		
+	-15	-70	-26		
+					
+"//Klasen et al., 2011; Congruent happy AV > Incongruent"					
+//Subjects: 24					
+	-30	-7	-14		
+					
+"//Klasen et al., 2011; (C Neutral > Incongruent)  _ (C Angry > Incongruent)  _ (C Happy > Incongruent) corrected"					
+//Subjects: 24					
+	12	-46	10		
+					
+"//Klasen et al., 2011; (C Neutral > Incongruent)  _ (C Angry > Incongruent)  _ (C Happy > Incongruent) uncorrected"					
+//Subjects: 24					
+	-12	-49	7		
+					
+"//Klasen et al., 2011; ICAV > CAV"					
+//Subjects: 24					
+	27	20	4		
+	45	14	7		
+	-33	20	4		
+					
+"//Klasen et al., 2011; CAV > ICAV"					
+//Subjects: 24					
+	47	-56	39		
+	44	4	39		
+	44	19	30		
+	41	31	27		
+	38	-53	-39		
+	23	-65	24		
+	-37	10	27		
+	-43	-53	42		
+					
+"//Farrow et al., 2011; Social alliance vs. Ônumber equalÕ"					
+//Subjects: 22					
+	48	24	21		
+	57	26	21		
+	57	33	9		
+	-42	18	21		
+	-42	30	-13		
+	-34	22	-20		
+	8	46	33		
+	-6	48	36		
+	4	49	40		
+	-14	55	17		
+	0	30	56		
+	2	20	56		
+	-6	20	45		
+	-16	-100	12		
+	22	-95	-4		
+	40	-51	-19		
+	-24	-49	-9		
+	4	-51	19		
+	10	-29	-2		
+	-2	-27	-2		
+					
+"//Farrow et al., 2011; Social hierarchy vs. fame, age, gender and Ôno. higher / lowerÕ "					
+//Subjects: 22					
+	-44	30	-13		
+	-49	25	-13		
+	-42	17	21		
+	-42	26	15		
+	-32	-82	-13		
+	-36	-86	-2		
+	18	-51	-4		
+	-2	-82	-3		
+	-2	-89	3		
+	-8	-99	9		
+	-40	-67	-17		
+	-44	-57	-22		
+	-6	-22	-21		
+					
+"//Heyda et al., 2010; Places > Bodies"					
+//Subjects: 12					
+	13	20	32		
+	-60	11	31		
+	49	-49	53		
+	60	-56	45		
+	8	-71	3		
+	-20	-6	49		
+	32	7	60		
+	49	7	34		
+	-36	9	49		
+	49	-63	57		
+	31	-54	41		
+					
+"//Heyda et al., 2010; Bodies > Places"					
+//Subjects: 12					
+	-34	5	-5		
+	-44	-68	39		
+	-20	8	-4		
+	-21	63	6		
+	55	-12	-7		
+	-57	-17	-9		
+	-19	-29	-4		
+	21	-29	-4		
+	-31	-28	67		
+	-15	50	19		
+	-37	-71	49		
+	-55	-52	27		
+					
+"//KrŠmer et al., 2010; Emotional > neutral stimuli"					
+//Subjects: 16					
+	31	26	51		
+	-2	44	34		
+	-63	-30	28		
+	-49	-57	13		
+	-42	28	-8		
+	-3	38	-9		
+					
+"//KrŠmer et al., 2010; Neutral > emotional stimuli"					
+//Subjects: 16					
+	39	47	25		
+					
+"//KrŠmer et al., 2010; Social relation > single person"					
+//Subjects: 16					
+	2	-55	33		
+	3	-80	18		
+	-43	-65	14		
+	55	-36	7		
+	54	3	-15		
+	47	-53	13		
+	2	44	24		
+	50	22	22		
+					
+//Saarela et al. 2008; STEP1 + STEP2 - REST					
+Subjects: 12					
+	-40	-32	14		
+	50	-24	9		
+	-59	-41	12		
+	-12	-16	33		
+	-18	-22	41		
+	-20	-6	38		
+	-43	-14	31		
+	-7	14	49		
+	43	7	16		
+	-14	-28	1		
+	13	-23	2		
+	-14	-13	6		
+	-6	-28	-8		
+	-17	-33	-18		
+					
+"//Saarela et al, 2008; NOISE1 + NOISE2 - REST"					
+Subjects: 12					
+	-42	-30	13		
+	48	-22	9		
+	-45	39	7		
+	-20	-22	43		
+	-8	-2	28		
+	-32	-10	9		
+	-39	-56	-5		
+	22	-26	42		
+	-25	-33	42		
+	-13	-27	1		
+	16	-24	1		
+					
+"//Saarela et al., 2008; (STEP2 - NOISE2) - (STEP1 - NOISE1)"					
+Subjects: 12					
+	19	-70	-36		
+					
+					
+"//Saarela et al., 2008; STEP1 - NOISE1"					
+Subjects: 12					
+	-54	-60	8		
+	-18	-7	-8		
+	45	-19	7		
+	-40	-29	8		
+	20	-69	-38		
+	-20	-40	-35		
+	27	-47	-30		
+	-35	-66	-41		
+	-27	-54	-37		
+	33	-71	7		
+	8	-67	-31		
+	3	-39	-25		
+					
+"//Saarela et al., 2008; STEP2 - NOISE2"					
+Subjects: 12					
+	31	-5	-14		
+	32	39	15		
+	28	23	8		
+	1	17	-3		
+	24	-37	44		
+	47	8	-17		
+	15	28	23		
+	20	-44	34		
+	42	-3	49		
+	8	2	57		
+	62	-13	32		
+	-45	-25	8		
+	49	-17	6		
+	38	-24	10		
+	47	-32	16		
+					
+"//Saarela et al., 2008; STEP1 - STEP1"					
+Subject: 12					
+	-20	-41	-34		
+	-6	-44	-26		
+	18	-43	-25		
+	-35	-30	36		
+					
+"//Harris et al., 2007; Vegetable>Age "					
+// Subjects: 18					
+	-3	53	20		
+	2	56	12		
+	-8	51	23		
+	-3	-53	27		
+	53	-9	-16		
+	-19	-9	-17		
+					
+"//Harris et al., 2007; interaction of Vegetable>Age with SE only"					
+// Subjects: 18					
+	-4	57	12		
+					
+"//Harris et al., 2007; interaction of Vegetable>Age with NS only"					
+// Subjects: 18					
+	-6	51	25		
+					
+"//Harris et al., 2007; Age> Vegetable"					
+// Subjects: 18					
+	-21	0	62		
+	-37	44	22		
+	-41	-6	37		
+	42	0	29		
+	-39	-13	54		
+	38	-47	42		
+	3	-38	41		
+	-33	14	8		
+"//Harris et al., 2007, 2007; SE>NS"					
+// Subjects: 18					
+	0	38	-1		
+	54	-36	-3		
+	1	-79	19		
+					
+"//Harris et al., 2007; interaction between SE>NS and age task"					
+// Subjects: 18					
+	-13	53	15		
+					
+"/Harris et al., 2007; interaction between SE>NS and vegetable task"					
+// Subjects: 18					
+	-11	38	-3		
+					
+"//Harris et al., 2007; Age> Vegetable"					
+// Subjects: 18					
+	-30	-40	-6		
+	34	-73	15		
+	-40	-72	13		
+					
+"//Blackwood et al., 2003; Internal > external"					
+// Subjects: 12					
+	-22	-48	-22		
+	-44	6	42		
+	42	-12	52		
+	20	-90	-2		
+					
+"//Blackwood et al., 2003; External > internal"					
+// Subjects: 12					
+	-58	-58	16		
+					
+"//Blackwood et al., 2003; Self-serving bias > Non-self-serving bias"					
+// Subjects: 12					
+	8	-7	17		
+	-6	-1	17		
+					
+"//Blackwood et al., 2003; Non-self-serving bias > Self-serving bias"					
+// Subjects: 12					
+	44	-64	38		
+	-28	36	-20		
+	55	-54	14		
+					
+"//Sassa et al., 2007; Communication > control"					
+//Subjects: 29 					
+	4	58	32		
+	58	4	-16		
+	-56	-50	14		
+	50	-60	12		
+					
+"//Sassa et al., 2007; Description > control"					
+//Subjects: 29 					
+	-56	-46	8		
+	62	-48	16		
+	50	-72	-4		
+	-32	-54	64		
+	30	-54	66		
+	-2	-70	58		
+	-2	-80	6		
+					
+"//Sassa et al., 2007; Communication > Description"					
+//Subjects: 29 					
+	-14	32	54		
+	6	52	16		
+	-10	56	28		
+	-14	32	54		
+	-54	8	-22		
+	52	14	-22		
+	-54	-50	24		
+					
+"//Sassa et al., 2007; Familiar communication > unfamiliar communication"					
+//Subjects: 29					
+	-2	58	22		
+	-2	-66	22		
+					
+"//Todorov et al., 2007; faces associated with nice behaviors > faces associated with neutral behaviors"					
+//Subjects: 9					
+	-44	-37	6		
+					
+"//Todorov et al., 2007; face associated with behavior > novel faces"					
+//Subjects: 9					
+	-5	50	37		
+	-14	31	31		
+	-26	26	-9		
+	-51	-18	-10		
+	-38	-52	18		
+	-48	-41	-11		
+	-54	-7	-17		
+	-31	-30	-9		
+	-36	-46	-3		
+					
+"//Todorov et al., 2007; faces associated with disgusting behaviors > faces associated with aggressive behaviors"					
+//Subjects: 9					
+	-33	35	-8		
+	-57	8	14		
+	1	6	35		
+	-44	4	1		
+	61	-26	20		
+	45	-19	5		
+	-1	-25	42		
+	-3	-8	45		
+	23	-18	13		
+	-22	-26	54		
+	30	-31	40		
+	-1	-36	58		
+	12	-39	45		
+	-13	-77	43		
+	1	-77	29		
+	21	-51	3		
+	42	-70	22		
+	40	5	0		
+					
+"//Todorov et al., 2007; faces associated with aggressive behaviors > faces associated with disgusting behaviors"					
+//Subjects: 9					
+	18	-98	0		
+	37	-50	-28		
+					
+"//Schilbach et al., 2006; SOC > ARB"					
+//Subjects:18					
+	0	42	-10		
+	2	-82	20		
+	-6	58	6		
+	48	-16	58		
+	18	-20	60		
+	42	-72	-28		
+	-12	-86	-16		
+	-22	28	56		
+	22	-80	-24		
+					
+"//Schilbach et al., 2006; ARB > SOC"					
+//Subjects:18					
+	-52	-68	2		
+	-38	-54	-16		
+	52	-58	4		
+	54	-36	4		
+	50	20	22		
+					
+"//Schilbach et al., 2006; ME > OTHER"					
+//Subjects:18					
+	-24	-74	-26		
+	4	54	20		
+	16	-78	-26		
+	-34	8	-10		
+					
+"//Schilbach et al., 2006; OTHER > ME"					
+//Subjects:18					
+	-34	-70	38		
+	0	-58	50		
+	10	-68	24		
+	-58	-48	14		
+	-50	-74	12		
+	-18	-64	4		
+	56	-38	28		
+	34	-76	36		
+	-12	-80	16		
+	6	2	56		
+					
+"//Schilbach et al., 2006; SOC x ME>Other"					
+//Subjects:18					
+	-24	-32	-8		
+	42	-44	20		
+	6	46	-6		
+					
+"//Schilbach et al., 2006; SOC x OTHER> ME"					
+//Subjects:18					
+	-40	-56	46		
+	36	-68	50		
+	-6	-62	52		
+					
+"//Montgomery et al., 2008; Facial expressions interaction with view > baseline"					
+//Subjects: 12					
+	49	-8	41		
+	-51	-8	40		
+	47	-19	42		
+	-45	-19	39		
+	46	2	30		
+	-51	3	25		
+	44	15	7		
+	-45	15	7		
+	45	-40	41		
+	-33	-49	41		
+	53	-37	5		
+	-52	-51	4		
+	36	-51	-17		
+	-37	-66	-15		
+	43	-69	5		
+	-48	-69	3		
+	35	3	9		
+	-38	4	10		
+					
+"//Montgomery et al., 2008; social hand gestures interaction with (imitate)> baseline same for social hand gestures interaction with (produce)> baseline "					
+//Subjects: 12					
+	-32	-22	64		
+	-37	-31	58		
+	50	3	32		
+	-54	2	30		
+	51	6	13		
+	-52	3	15		
+	50	-40	45		
+	-35	-40	46		
+	46	-44	3		
+	-52	-48	6		
+	42	-59	-11		
+	-44	-51	-14		
+	43	-69	2		
+	-49	-69	3		
+	39	3	7		
+	-38	4	10		
+					
+"//Montgomery et al., 2008; facial expressions > social hand gestures"					
+//Subjects: 12					
+	47	18	7		
+	-52	13	7		
+	37	-49	41		
+	-39	-50	40		
+	53	-37	3		
+	-52	-43	5		
+	30	-56	-19		
+	-36	-56	-18		
+					
+"//Montgomery et al., 2008; social hand gestures > facial expressions"					
+//Subjects: 12					
+	51	7	12		
+	-55	7	12		
+	39	-39	44		
+	-40	-50	42		
+	42	-37	3		
+	-52	-40	3		
+					
+"//Iacobani et al., 2004; Relational > alone "					
+//Subjects: 13					
+	-2	52	26		
+	-62	-16	-2		
+	-48	-68	12		
+	-4	-90	38		
+	-20	-72	-12		
+	8	6	64		
+	48	6	40		
+	56	22	0		
+	62	-10	-12		
+	52	-34	-4		
+	66	-54	6		
+	4	-54	56		
+	4	-60	44		
+	54	-68	8		
+	36	-82	-22		
+	6	-88	32		
+					
+"//Winston et al., 2002; Explicit > implicit"					
+//Subjects: 14					
+	2	-98	8		
+	56	-44	4		
+	10	14	70		
+	-48	-2	26		
+	-24	-76	32		
+	12	-40	56		
+	-30	-28	72		
+	-62	-40	34		
+	48	34	-6		
+	-42	12	40		
+	-6	10	54		
+					
+"//Winston et al., 2002; Iimplicit > Explicit"					
+//Subjects: 14					
+	-36	-36	-18		
+	4	-64	12		
+					
+"//Winston et al., 2002; Untrustworthy > Trustworthy"					
+//Subjects: 14					
+	-18	0	-24		
+	-50	-58	10		
+	22	-54	48		
+	-34	-90	24		
+	-16	-4	-20		
+	8	8	62		
+	-18	-30	-18		
+	66	-18	4		
+	-60	-14	-30		
+	-48	-48	-24		
+	44	-46	-22		
+	4	-12	14		
+	42	-4	12		
+	-58	-32	14		
+					
+"//Winston et al., 2002; Trustworthy > Untrustworthy"					
+//Subjects: 14					
+	-36	4	-4		
+	34	52	6		
+					
+"//Farrow et al., 2001; Empathic > Social Reasoning"					
+//Subjects: 10					
+	-57	-3	-18		
+	-14	60	26		
+	-53	25	-6		
+	2	49	-19		
+	-4	-62	33		
+					
+"//Farrow et al., 2001; Forgivability > Social Reasoning"					
+//Subjects: 10					
+	-12	56	34		
+	-2	43	44		
+	-4	65	17		
+	0	-47	28		
+					
+"//Farrow et al., 2001; Empathic > Forgivability"					
+//Subjects: 10					
+	-57	-3	-18		
+	-53	25	-6		
+	30	-94	16		
+					
+"//Farrow et al., 2001; Forgivability > Empathic"					
+//Subjects: 10					
+	0	-47	28		
+	-2	43	44		
+	-4	65	17		
+	2	58	-5		
+	0	51	18		
+	4	51	-19		
+	-10	-60	32		
+					
+"//Farrow et al., 2001; Conjunction analysis  Forgivability + Empathic"					
+//Subjects: 10					
+	-14	59	31		
+	-4	-64	32		
+	4	50	-19		
+					
+"//Ebisch et al., 2014; [(hand/human hand > hand/fake hand) _ (object/human hand > object/fake hand)]"					
+//Subjects: 16					
+	-31	-41	57		
+					
+"//Ebisch et al., 2014; [(object/human hand > object/fake hand) _ (hand/human hand > hand/fake hand)]"					
+//Subjects: 16					
+	-43	-32	33		
+	-49	-65	3		
+					
+"//Ebisch et al., 2014; [human hand > fake hand] _ Modality effect: [object > hand]"					
+//Subjects: 16					
+	-58	-5	30		
+	-37	-35	42		
+	-46	-8	15		
+					
+"//Ebisch et al., 2014; [(hand/human hand > hand/fake hand) _ (object/human hand > object/fake hand)]"					
+//Subjects: 16					
+	17	-56	-18		
+	-7	40	3		
+					
+"//Ebisch et al., 2014; [(object/human hand > object/fake hand) _ (hand/human hand > hand/fake hand)] _
+Target effect [human hand > fake hand] _ Modality effect: [hand > object]"					
+//Subjects: 16					
+	-10	-92	-12		
+					
+"//Ebisch et al., 2014; [(object/human hand > object/fake hand) _ (hand/human hand > hand/fake hand)] _
+Target effect [human hand > fake hand] _ Modality effect: [object > hand]"					
+//Subjects: 16					
+	32	-26	60		
+	41	-29	42		
+	-37	-26	51		
+	-10	-14	45		
+					
+"//Anderson et al., 2013; Sex _ Condition"					
+Subjects: 48					
+	42	-1	-17		
+	30	56	7		
+	12	-31	10		
+	-12	-22	-2		
+	6	-55	-35		
+	3	-37	-23		
+	0	-7	-9		
+	-6	26	13		
+	-24	47	13		
+	-24	-40	-26		
+	-27	-10	-17		
+	-45	14	-23		
+	-45	-19	-11		
+					
+"//Gordon et al., 2011; arm > baseline"					
+//Subjects: 22					
+	42	-28	22		
+	51	-46	4		
+	30	32	10		
+	45	-7	-26		
+	18	-61	-20		
+	12	32	40		
+	-3	29	34		
+	-9	23	52		
+	-36	-61	-29		
+	-48	-46	43		
+	-54	-22	19		
+					
+"//Gordon et al., 2011; palm > baseline"					
+//Subjects: 22					
+	51	-40	28		
+	42	-28	22		
+	36	29	31		
+	42	41	4		
+	27	-40	-23		
+	18	-49	-41		
+	-18	-10	16		
+	-21	-52	-32		
+	-48	-22	25		
+					
+"//Gordon et al., 2011; arm > palm"					
+//Subjects: 22					
+	57	-55	13		
+	36	-28	7		
+	27	-25	61		
+	6	-91	16		
+	-24	-31	55		
+	9	41	22		
+	15	-43	-20		
+	-45	-52	46		
