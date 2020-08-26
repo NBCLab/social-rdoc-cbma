@@ -4,7 +4,9 @@ import nimare as nim
 #from nimare.dataset import Dataset
 import nibabel as nib
 from datetime import date
-from nilearn.plotting import plot_stat_map
+from nilearn.plotting import plot_stat_map, plot_surf_stat_map
+from nilearn.surface import vol_to_surf
+from nilearn.datasets import fetch_surf_fsaverage
 
 print('NiMARE version:', nim.__version__)
 print('Nibabel version:', nib.__version__)
