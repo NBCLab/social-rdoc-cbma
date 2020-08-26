@@ -55,7 +55,7 @@ optional arguments:
                      Default is 'z'
   --verbose          If selected, script will narrate its progress. 
 ```
-Overall, you can use the code included here to run a meta-analysis and make figures with 3 commands, once you've prepared your Sleuth-style coordinate text files, navigate to the folder in which you've saved the `code` folder and run the following commands:
+Overall, you can use the code included here to run a meta-analysis and make figures with 3 commands, once you've prepared your Sleuth-style coordinate text files, navigate to the folder in which you've saved the `code` folder and run the following commands in a command line (e.g., Terminal on MacOS):
 ```
 bash code/setup.sh
 python code/nimare-ales.py /path/to/sleuth_file-mni.txt /path/to/sleuth_file-tal.txt /path/to/output-directory
