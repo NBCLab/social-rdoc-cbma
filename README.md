@@ -7,8 +7,9 @@ Coordinate-based meta-analysis of social neuroimaging research, including a focu
 ## Code
 `/code` contains Python scripts used to run each meta-analysis using [NiMARE](https://github.com/neurostuff/NiMARE), a Python library for coordinate- and image-based meta-analysis, along with a Python Jupyter notebook used to create figures following analyses using [Nilearn](https://nilearn.github.io/).
 ### Instructions for ALE meta-analysis
-1. To install dependencies using `pip`, run `setup.sh`.
-2. Perform meta-analysis using `nimare-ales.py`:
+1. Download this repository (or at least the `code` folder) and prepare your Sleuth-style text file with all coordinates for your meta-analysis.
+2. To install dependencies using `pip`, run `setup.sh`.
+3. Perform meta-analysis using `nimare-ales.py`:
 ```
 usage: nimare-ales.py [-h] [--iters ITERS] [--cores CORES]
                       in_file [in_file ...] out_dir
@@ -26,7 +27,9 @@ optional arguments:
   --iters ITERS  The number of iterations the FWE corrector should run, default=10000.
   --cores CORES  Number of computational cores this to be used for meta-
                  analysis.
-3. Make surface + slice figures with `make-figs.py`:
+```
+4. Make surface + slice figures with `make-figs.py`:
+```
 usage: make-figs.py [-h] [--cmaps [CMAPS]] [--nslices NSLICES]
                     [--orient ORIENT] [--verbose]
                     map_dir out_dir
@@ -50,9 +53,15 @@ optional arguments:
                      cuts are performed in orthogonal directions, 'tiled' -
                      three cuts are performed and arranged in a 2x2 grid.
                      Default is 'z'
-  --verbose          If selected, script will narrate its progress.
+  --verbose          If selected, script will narrate its progress. 
 ```
-
+Overall, you can use the code included here to run a meta-analysis and make figures with 3 commands, once you've prepared your Sleuth-style coordinate text files, navigate to the folder in which you've saved the `code` folder and run the following commands:
+```
+bash code/setup.sh
+python code/nimare-ales.py /path/to/sleuth_file-mni.txt /path/to/sleuth_file-tal.txt /path/to/output-directory
+python code/make-figs.py /path/to/output-directory/results /path/to/output-directory/figures
+```
+All other arguments are optional and without them, you'll run a perfectly good ALE meta-analysis. Make sure you replace all the `path/to/...` with file paths to your text files and to your output directory, respectively.
 
 ## Figures
 `/figs` contains .png files of the results of each meta-analysis performed by the scripts in `/code`.
