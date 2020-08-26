@@ -26,6 +26,31 @@ optional arguments:
   --iters ITERS  The number of iterations the FWE corrector should run, default=10000.
   --cores CORES  Number of computational cores this to be used for meta-
                  analysis.
+3. Make surface + slice figures with `make-figs.py`:
+usage: make-figs.py [-h] [--cmaps [CMAPS]] [--nslices NSLICES]
+                    [--orient ORIENT] [--verbose]
+                    map_dir out_dir
+
+Makes figures for all NiMARE-style cluster-corrected zmaps in 'map_dir'
+
+positional arguments:
+  map_dir            Absolute or relative path to directory where niftis live.
+  out_dir            Absolute or relative path to directory where figures will
+                     be saved.
+
+optional arguments:
+  -h, --help         show this help message and exit
+  --cmaps [CMAPS]    Matplotlib colormaps to be used for the different
+                     figures.
+  --nslices NSLICES  Number of slices in 2D slice figure (ignored if
+                     --orient='ortho' or 'tiled'). Default is 6.
+  --orient ORIENT    Orientation of slices {'ortho', 'tiled', 'x', 'y', 'z',
+                     'yx', 'xz', 'yz'} Choose the direction of the cuts: 'x' -
+                     sagittal, 'y' - coronal, 'z' - axial, 'ortho' - three
+                     cuts are performed in orthogonal directions, 'tiled' -
+                     three cuts are performed and arranged in a 2x2 grid.
+                     Default is 'z'
+  --verbose          If selected, script will narrate its progress.
 ```
 
 
