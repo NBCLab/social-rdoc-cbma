@@ -51,10 +51,8 @@ print(sleuth1, '\n', sleuth2, '\n', basename, '\n', out_dir, '\n', today,  '\nnc
 dset1 = nim.io.convert_sleuth_to_dataset(sleuth1)
 dset2 = nim.io.convert_sleuth_to_dataset(sleuth2)
 
-meta = nim.meta.ale.ALESubtraction()
+meta = nim.meta.ale.ALESubtraction(n_iters=n_iters)
 result = meta.fit(dset1, dset2)
-corrector = nim.correct.FWECorrector(method='montecarlo', n_iters=n_iters, n_cores=n_cores)
-cresult = corrector.transform(result)
 print(cresult.maps)
 
 for map_ in cresult.maps:
