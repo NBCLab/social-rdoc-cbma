@@ -53,7 +53,7 @@ dset2 = nim.io.convert_sleuth_to_dataset(sleuth2)
 
 meta = nim.meta.ale.ALESubtraction(n_iters=n_iters)
 result = meta.fit(dset1, dset2)
-print(cresult.maps)
+print(result.maps)
 
 for map_ in result.maps:
     nib.save(result.get_map(map_), '{0}/results/{1}-{2}-{3}.nii.gz'.format(out_dir, basename, map_, today))
