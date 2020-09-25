@@ -58,7 +58,7 @@ print(cresult.maps)
 for map_ in cresult.maps:
     nib.save(cresult.get_map(map_), '{0}/results/{1}-{2}-{3}.nii.gz'.format(out_dir, basename, map_, today))
     try:
-        g = plot_stat_map(cresult.get_map(map_), colorbar=False, title=map_, cut_coords=(0,0,0))
+        g = plot_stat_map(result.get_map(map_), colorbar=False, title=map_, cut_coords=(0,0,0))
         g.savefig('{0}/figures/{1}-{2}-{3}.png'.format(out_dir, basename,map_, today))
     except Exception as e:
         print('Figure for {0} not made because {1}'.format(map_,e))
