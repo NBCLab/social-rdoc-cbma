@@ -55,8 +55,8 @@ meta = nim.meta.ale.ALESubtraction(n_iters=n_iters)
 result = meta.fit(dset1, dset2)
 print(cresult.maps)
 
-for map_ in cresult.maps:
-    nib.save(cresult.get_map(map_), '{0}/results/{1}-{2}-{3}.nii.gz'.format(out_dir, basename, map_, today))
+for map_ in result.maps:
+    nib.save(result.get_map(map_), '{0}/results/{1}-{2}-{3}.nii.gz'.format(out_dir, basename, map_, today))
     try:
         g = plot_stat_map(result.get_map(map_), colorbar=False, title=map_, cut_coords=(0,0,0))
         g.savefig('{0}/figures/{1}-{2}-{3}.png'.format(out_dir, basename,map_, today))
