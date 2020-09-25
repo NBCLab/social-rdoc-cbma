@@ -20,8 +20,6 @@ parser.add_argument('-2', '--dset2', nargs='+', type=str,
 parser.add_argument('--out_dir', type=str, help='Absolute or relative path to directory where output (figures and results) will be saved.')
 parser.add_argument('--iters', type=int, 
                     help='The number of iterations the FWE corrector should run.')
-parser.add_argument('--cores', type=int, 
-                    help='Number of computational cores this to be used for meta-analysis.')
 args = parser.parse_args()
 
 sleuth1 = args.dset1
