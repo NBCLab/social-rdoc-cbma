@@ -40,11 +40,7 @@ if args.iters:
 else:
     n_iters = 10000
 
-if args.cores:
-    n_cores = args.cores
-else:
-    n_cores = 2
-print(sleuth1, '\n', sleuth2, '\n', basename, '\n', out_dir, '\n', today,  '\nncores =', n_cores, '\nniters =', n_iters)
+print(sleuth1, '\n', sleuth2, '\n', basename, '\n', out_dir, '\n', today, '\nniters =', n_iters)
 
 dset1 = nim.io.convert_sleuth_to_dataset(sleuth1)
 dset2 = nim.io.convert_sleuth_to_dataset(sleuth2)
