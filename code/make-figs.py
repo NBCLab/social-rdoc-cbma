@@ -22,6 +22,8 @@ parser.add_argument('--orient', type=str,
                     \'z\' - axial, \'ortho\' - three cuts are performed in orthogonal
                     directions, \'tiled\' - three cuts are performed
                     and arranged in a 2x2 grid. Default is \'z\'''')
+parser.add_argument('--subtraction', action='store_true', 
+                    help='If selected, script will use contrasting colormaps.')
 parser.add_argument('--verbose', action='store_true', 
                     help='If selected, script will narrate its progress.')
 args = parser.parse_args()
@@ -29,7 +31,10 @@ args = parser.parse_args()
 if args.cmaps:
     cmaps = args.cmaps
 else:
-    cmaps = ['PuRd', 'BuPu','GnBu', 'BuGn', 'OrRd']
+    if args.subtraction:
+        cmaps = ['PuOr', 'RdBu_r', 'PRGn_r', 'PiYG', 'BrBG', 'RdGy', ]
+    else:
+        cmaps = ['PuRd', 'BuPu','GnBu', 'BuGn', 'OrRd']
 
 if args.orient:
     orientation = args.orient
@@ -44,7 +49,7 @@ else:
 map_dir = args.map_dir
 out_dir = args.out_dir
 
-z_maps = glob('{0}/*z*voxel*.nii.gz'.format(map_dir))
+z_maps = glob('{0}/*z*.nii.gz'.format(map_dir))
 
 #make the surface + slices plots!
 fsaverage = datasets.fetch_surf_fsaverage()
@@ -69,29 +74,30 @@ if len(orientation) < 2:
 else:
     cuts = None
 
+thresh = 1.5
 
 for i in np.arange(0, len(z_maps)):
     basename = z_maps[i].split('/')[-1][:-7]
-    g = plot_stat_map(z_maps[i], colorbar=False, threshold=1.5,
+    g = plot_stat_map(z_maps[i], colorbar=True, threshold=thresh,
                       display_mode='z', cut_coords=cuts,
                       cmap=cmaps[i], draw_cross=False)
     g.savefig('{0}/{1}-slices.png'.format(out_dir,basename), dpi=300)
     r_texture = surface.vol_to_surf(z_maps[i], fsaverage.pial_right)
     l_texture = surface.vol_to_surf(z_maps[i], fsaverage.pial_left)
     h = plot_surf_stat_map(fsaverage.pial_right, r_texture,
-                           colorbar=False, cmap=cmaps[i], threshold=1.5,
+                           colorbar=False, cmap=cmaps[i], threshold=thresh,
                            bg_map=fsaverage.sulc_right, view='medial')
     h.savefig('{0}/{1}-surf-RL.png'.format(out_dir,basename), dpi=300)
     h = plot_surf_stat_map(fsaverage.pial_right, r_texture,
-                           colorbar=False, cmap=cmaps[i], threshold=1.5,
+                           colorbar=False, cmap=cmaps[i], threshold=thresh,
                            bg_map=fsaverage.sulc_right, view='lateral')
     h.savefig('{0}/{1}-surf-RM.png'.format(out_dir,basename), dpi=300)
     h = plot_surf_stat_map(fsaverage.pial_left, l_texture,
-                           colorbar=False, cmap=cmaps[i], threshold=1.5,
+                           colorbar=False, cmap=cmaps[i], threshold=thresh,
                            bg_map=fsaverage.sulc_left, view='medial')
     h.savefig('{0}/{1}-surf-LM.png'.format(out_dir,basename), dpi=300)
     h = plot_surf_stat_map(fsaverage.pial_left, l_texture,
-                           colorbar=False, cmap=cmaps[i], threshold=1.5,
+                           colorbar=False, cmap=cmaps[i], threshold=thresh,
                            bg_map=fsaverage.sulc_left, view='lateral')
     h.savefig('{0}/{1}-surf-LL.png'.format(out_dir,basename), dpi=300)
 
