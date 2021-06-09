@@ -27,7 +27,7 @@ dset1 = args.dset1
 print('dset1:', dset1)
 dset2 = args.dset2
 print('dset2:', dset2)
-basename = dset1[0].split('/')[-1][:-4] + '+' + dset2[0].split('/')[-1][:-4]
+basename = dset1[0].split('/')[-1][:-4] + '-' + dset2[0].split('/')[-1][:-4]
 print(basename)
 out_dir = args.out_dir
 today = date.today().strftime('%d_%m_%Y')
