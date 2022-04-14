@@ -1,0 +1,7 @@
+Cluster,x,y,z,Value,Volume (mm^3),Hemisphere,Label
+    1,    0,   50,   12,6.15257, 6480,L,Cingulate Ant
+    1,   -2,   32,    8,4.81506, 6480,,no label
+    1,    2,   56,   -6,4.80976, 6480,R,Frontal Med Orb
+    1,    2,   40,   -8,4.2668, 6480,R,Frontal Med Orb
+    2,  -40,  -56,   28,4.75574, 1584,L,Angular
+    2,  -46,  -64,   14,3.27717, 1584,L,Temporal Mid

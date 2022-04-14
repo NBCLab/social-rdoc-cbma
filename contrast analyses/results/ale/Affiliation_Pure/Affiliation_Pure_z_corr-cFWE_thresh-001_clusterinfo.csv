@@ -1,0 +1,7 @@
+Cluster,x,y,z,Value,Volume (mm^3),Hemisphere,Label
+    1,   -2,   34,  -14,4.58256, 1872,L,Frontal Med Orb
+    1,   -2,   38,    2,4.49968, 1872,L,Cingulate Ant
+    2,  -46,  -72,   42,5.16453, 1408,L,Angular
+    2,  -48,  -56,   36,3.62973, 1408,L,Angular
+    3,  -36,   16,   -2,4.80098, 1272,L,Insula
+    4,  -44,  -62,   26,4.20928,  360,L,Angular

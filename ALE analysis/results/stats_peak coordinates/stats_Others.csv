@@ -1,0 +1,70 @@
+Viewer,Image,Type,Value,X,Y,Z,Series,Label 1,Label 2,Label 3,Label 4
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 1 of 23,8.125890731811523,0,-54,36,1,Left Cerebrum,Parietal Lobe,Precuneus,Brodmann area 7
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 1 of 23,2.0140907764434814,-6,-50,28,1,Left Cerebrum,Limbic Lobe,Pos Cingulate,Brodmann area 31
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 1 of 23,8.125890731811523,0,-54,32,1,Left Cerebrum,Limbic Lobe,Cingulate Gyrus,Brodmann area 31
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 2 of 23,8.125890731811523,-46,-60,30,1,Left Cerebrum,Temporal Lobe,Mid Temporal Gyr,Brodmann area 39
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 2 of 23,2.0065274238586426,-46,-64,18,1,Left Cerebrum,Occipital Lobe,Mid Temporal Gyr,Brodmann area 19
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 2 of 23,8.125890731811523,-50,-60,26,1,Left Cerebrum,Temporal Lobe,Mid Temporal Gyr,Brodmann area 39
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 3 of 23,8.125890731811523,4,56,24,1,Right Cerebrum,Frontal Lobe,Med Frontal Gyrus,Brodmann area 9
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 3 of 23,2.023710012435913,0,54,26,1,Left Cerebrum,Frontal Lobe,Med Frontal Gyrus,Brodmann area 9
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 3 of 23,3.7190165519714355,0,58,22,1,Left Cerebrum,Frontal Lobe,Sup Frontal Gyrus,Brodmann area 9
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 4 of 23,3.7190165519714355,56,-44,20,1,Right Cerebrum,Temporal Lobe,Sup Temporal Gyr,Brodmann area 13
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 4 of 23,2.0102946758270264,60,-46,18,1,Right Cerebrum,Temporal Lobe,Sup Temporal Gyr,Brodmann area 13
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 4 of 23,3.7190165519714355,54,-46,18,1,Right Cerebrum,Temporal Lobe,Sup Temporal Gyr,Brodmann area 13
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 5 of 23,8.125890731811523,48,-72,2,1,Right Cerebrum,Occipital Lobe,Inf Temporal Gyrus,
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 5 of 23,2.002788543701172,48,-72,6,1,Right Cerebrum,Occipital Lobe,Mid Occipital Gyr,Brodmann area 37
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 5 of 23,3.7190165519714355,48,-70,2,1,Right Cerebrum,Occipital Lobe,Inf Temporal Gyrus,
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 6 of 23,8.125890731811523,58,-2,-20,1,Right Cerebrum,Temporal Lobe,Mid Temporal Gyr,Brodmann area 21
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 6 of 23,2.002788543701172,52,0,-22,1,Right Cerebrum,Temporal Lobe,Mid Temporal Gyr,Brodmann area 21
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 6 of 23,3.7190165519714355,56,-2,-20,1,Right Cerebrum,Temporal Lobe,Mid Temporal Gyr,Brodmann area 21
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 7 of 23,8.125890731811523,-32,20,2,1,Left Cerebrum,Sub-lobar,Insula,Brodmann area 13
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 7 of 23,2.000929355621338,-28,20,4,1,Left Cerebrum,Sub-lobar,Claustrum,
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 7 of 23,8.125890731811523,-32,20,0,1,Left Cerebrum,Sub-lobar,Insula,Brodmann area 13
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 8 of 23,8.125890731811523,-46,28,-8,1,Left Cerebrum,Frontal Lobe,Inf Frontal Gyrus,Brodmann area 47
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 8 of 23,2.000929355621338,-48,30,-14,1,Left Cerebrum,Frontal Lobe,Inf Frontal Gyrus,Brodmann area 47
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 8 of 23,8.125890731811523,-46,28,-10,1,Left Cerebrum,Frontal Lobe,Inf Frontal Gyrus,Brodmann area 47
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 9 of 23,2.967737913131714,-2,10,52,1,Left Cerebrum,Frontal Lobe,Med Frontal Gyrus,Brodmann area 6
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 9 of 23,2.0065274238586426,-4,8,52,1,Left Cerebrum,Frontal Lobe,Med Frontal Gyrus,Brodmann area 6
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 9 of 23,0.0,-4,16,52,1,Left Cerebrum,Frontal Lobe,Sup Frontal Gyrus,Brodmann area 6
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 10 of 23,3.7190165519714355,-60,-10,-14,1,Left Cerebrum,Temporal Lobe,Mid Temporal Gyr,Brodmann area 21
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 10 of 23,2.0663018226623535,-60,-10,-18,1,Left Cerebrum,Temporal Lobe,Inf Temporal Gyrus,Brodmann area 21
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 10 of 23,3.540083885192871,-60,-8,-14,1,Left Cerebrum,Temporal Lobe,Mid Temporal Gyr,Brodmann area 21
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 11 of 23,3.431614398956299,-8,54,36,1,Left Cerebrum,Frontal Lobe,Sup Frontal Gyrus,Brodmann area 8
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 11 of 23,2.0102946758270264,-4,54,34,1,Left Cerebrum,Frontal Lobe,Med Frontal Gyrus,Brodmann area 8
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 11 of 23,3.431614398956299,-8,54,36,1,Left Cerebrum,Frontal Lobe,Sup Frontal Gyrus,Brodmann area 8
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 12 of 23,3.431614398956299,2,56,-6,1,Right Cerebrum,Frontal Lobe,Med Frontal Gyrus,Brodmann area 10
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 12 of 23,2.049635648727417,0,58,-6,1,Left Cerebrum,Frontal Lobe,Med Frontal Gyrus,Brodmann area 10
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 12 of 23,2.988882303237915,0,56,-6,1,Left Cerebrum,Frontal Lobe,Med Frontal Gyrus,Brodmann area 10
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 13 of 23,3.2905266284942627,34,24,2,1,Right Cerebrum,Sub-lobar,Insula,Brodmann area 13
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 13 of 23,2.0315425395965576,34,24,4,1,Right Cerebrum,Sub-lobar,Insula,Brodmann area 13
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 13 of 23,3.2905266284942627,34,24,2,1,Right Cerebrum,Sub-lobar,Insula,Brodmann area 13
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 14 of 23,2.947842597961426,-40,-48,52,1,Left Cerebrum,Parietal Lobe,Inf Parietal Lob,Brodmann area 40
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 14 of 23,2.0084075927734375,-42,-48,50,1,Left Cerebrum,Parietal Lobe,Inf Parietal Lob,Brodmann area 40
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 14 of 23,1.751847743988037,-42,-46,54,1,Left Cerebrum,Parietal Lobe,Inf Parietal Lob,Brodmann area 40
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 15 of 23,2.6874494552612305,50,10,30,1,Right Cerebrum,Frontal Lobe,Inf Frontal Gyrus,Brodmann area 9
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 15 of 23,2.021771192550659,48,10,28,1,Right Cerebrum,Frontal Lobe,Inf Frontal Gyrus,Brodmann area 9
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 15 of 23,2.382404327392578,50,12,30,1,Right Cerebrum,Frontal Lobe,Inf Frontal Gyrus,Brodmann area 9
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 16 of 23,2.483769178390503,54,28,2,1,Right Cerebrum,Frontal Lobe,Inf Frontal Gyrus,Brodmann area 45
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 16 of 23,2.049635648727417,54,26,2,1,Right Cerebrum,Frontal Lobe,Inf Frontal Gyrus,Brodmann area 45
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 16 of 23,2.2292089462280273,54,28,4,1,Right Cerebrum,Frontal Lobe,Inf Frontal Gyrus,Brodmann area 45
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 17 of 23,2.5828075408935547,-54,-48,14,1,Left Cerebrum,Temporal Lobe,Sup Temporal Gyr,Brodmann area 22
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 17 of 23,2.000929355621338,-54,-50,14,1,Left Cerebrum,Temporal Lobe,Sup Temporal Gyr,Brodmann area 22
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 17 of 23,1.903310775756836,-56,-46,14,1,Left Cerebrum,Temporal Lobe,Sup Temporal Gyr,Brodmann area 22
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 18 of 23,2.357468843460083,-42,-80,0,1,Left Cerebrum,Occipital Lobe,Inf Occipital Gyr,Brodmann area 19
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 18 of 23,2.167457342147827,-42,-82,2,1,Left Cerebrum,Occipital Lobe,Inf Occipital Gyr,Brodmann area 19
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 18 of 23,1.8521798849105835,-44,-80,2,1,Left Cerebrum,Occipital Lobe,Inf Occipital Gyr,Brodmann area 19
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 19 of 23,2.318908452987671,-48,-66,10,1,Left Cerebrum,Temporal Lobe,Mid Temporal Gyr,Brodmann area 37
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 19 of 23,2.0374996662139893,-46,-68,10,1,Left Cerebrum,Temporal Lobe,Mid Temporal Gyr,Brodmann area 37
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 19 of 23,2.167457342147827,-48,-66,12,1,Left Cerebrum,Temporal Lobe,Mid Temporal Gyr,Brodmann area 37
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 20 of 23,2.3226120471954346,16,-90,0,1,Right Cerebrum,Occipital Lobe,Lingual Gyrus,Brodmann area 18
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 20 of 23,2.2262117862701416,16,-88,0,1,Right Cerebrum,Occipital Lobe,Lingual Gyrus,Brodmann area 18
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 20 of 23,2.2262117862701416,16,-88,0,1,Right Cerebrum,Occipital Lobe,Lingual Gyrus,Brodmann area 18
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 21 of 23,2.3697524070739746,-24,-80,-36,1,Left Cerebellum,Posterior Lobe,Inf Semi-Lunar Lob,
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 21 of 23,2.0065274238586426,-26,-80,-36,1,Left Cerebellum,Posterior Lobe,Inf Semi-Lunar Lob,
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 21 of 23,2.0065274238586426,-26,-80,-36,1,Left Cerebellum,Posterior Lobe,Inf Semi-Lunar Lob,
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 22 of 23,2.049635648727417,42,-50,-20,1,Right Cerebellum,Anterior Lobe,Culmen,
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 22 of 23,2.049635648727417,42,-50,-20,1,Right Cerebellum,Anterior Lobe,Culmen,
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 22 of 23,2.049635648727417,42,-50,-20,1,Right Cerebellum,Anterior Lobe,Culmen,
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 23 of 23,2.043529987335205,52,-60,28,1,Right Cerebrum,Temporal Lobe,Mid Temporal Gyr,Brodmann area 39
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 23 of 23,2.043529987335205,52,-60,28,1,Right Cerebrum,Temporal Lobe,Mid Temporal Gyr,Brodmann area 39
+MNI152_T1_2mm_brain,Others_MNI-z_level-voxel_corr-FWE_method-montecarlo-28_08_2020,Cluster 23 of 23,2.043529987335205,52,-60,28,1,Right Cerebrum,Temporal Lobe,Mid Temporal Gyr,Brodmann area 39

@@ -1,0 +1,3223 @@
+//Reference=MNI
+//Wolf et al., 2018; verbal > non-verbal interaction types; socialcommunication		
+// Subjects=16		
+-62	-26	-2
+62	0	-8
+		
+//Wolf et al., 2018; non-verbal > verbal interaction types; socialcommunication		
+// Subjects=16		
+-32	-64	-20
+28	-38	-22
+-28	-38	-22
+56	26	34
+44	0	58
+2	-60	54
+		
+//Zhang et al., 2018; Modality > Emotion; socialcommunication		
+// Subjects=25		
+39	-81	9
+48	-75	-3
+-48	-72	-3
+-38	-81	6
+51	-72	-6
+42	-57	-15
+-45	-72	-9
+51	-66	-3
+36	-54	-21
+33	-29	-24
+		
+//Zhang et al., 2018; Emotion > Modality; socialcommunication		
+// Subjects=25		
+51	-33	3
+54	-15	-6
+60	-6	-9
+51	-30	0
+51	-15	-12
+54	-24	-6
+-57	-21	-3
+-42	27	-9
+-30	21	-18
+48	30	0
+-51	21	6
+-48	27	0
+27	39	33
+-12	-81	3
+12	-63	-9
+-9	-81	0
+		
+//Zhang et al., 2018; Modality X Emotion; socialcommunication		
+// Subjects=25		
+60	-6	-6
+-63	-27	3
+-57	-12	-3
+42	-60	-12
+48	-63	-6
+45	-54	-24
+51	-66	0
+45	-75	9
+-48	-69	0
+-60	-15	-3
+-63	-30	3
+57	3	-12
+-48	-78	-6
+42	-63	-12
+45	-75	-3
+-48	-75	-3
+-42	-87	-9
+42	-78	0
+30	-90	9
+42	-60	-15
+39	-51	-18
+36	-69	-15
+-42	-81	-15
+-39	-54	-21
+		
+//Morawetz et al., 2016; Observe-angry > Observe-neutral; socialcommunication		
+// Subjects=60		
+-45	-68	30
+62	-58	29
+31	-74	8
+34	-61	18
+-3	-29	38
+-4	-86	21
+64	-31	-2
+64	-31	-2
+67	-32	7
+60	-10	11
+-58	-51	0
+-58	-51	0
+0	2	18
+7	40	-6
+23	-2	29
+23	-2	29
+28	22	19
+-25	-41	63
+-25	28	42
+-61	-29	12
+-61	-29	12
+-23	-7	29
+-42	-18	17
+-42	-18	17
+43	22	45
+-55	-19	-16
+-6	-53	61
+		
+//Morawetz et al., 2016; Observe-neutral > Observe-angry; socialcommunication		
+// Subjects=60		
+34	-83	-5
+26	-95	16
+12	-86	-2
+14	-97	2
+-38	-79	-4
+-13	 -96	-1	
+-22	-96	17
+-25	-90	-1
+40	-58	-12
+36	-42	-16
+24	-28	2
+-21	-26	0
+-8	6	50
+47	0	30
+11	14	44
+9	-26	1
+36	20	5
+-27	-57	43
+-44	2	28
+-34	22	4
+-29	-4	48
+9	-15	8
+47	-31	41
+33	-6	50
+31	-59	45
+-6	-15	6
+-39	-37	39
+50	-46	13
+-3	-25	24
+6	-21	-13
+-16	10	5
+19	9	5
+-48	-49	11
+3	3	28
+22	-9	-10
+-17	-23	-13
+-21	-7	-11
+51	-22	-4
+		
+//Morawetz et al., 2016; Observe-angry > Decrease; socialcommunication		
+// Subjects=60		
+62	-22	30
+45	-34	41
+32	-14	56
+61	4	28
+7	0	50
+53	-29	2
+25	-55	55
+56	-44	13
+-4	20	39
+-52	-29	34
+-56	-5	35
+-58	-22	29
+-19	1	-4
+22	-3	-8
+11	-26	-4
+-11	-28	-2
+6	-5	2
+-33	13	13
+30	-25	-7
+-12	-62	54
+-3	-20	7
+-33	-44	56
+0	-12	8
+-50	12	3
+-40	-9	17
+-26	1	15
+-42	14	28
+16	-8	14
+-29	-12	56
+-53	-63	7
+51	16	-2
+51	16	-2
+		
+//Morawetz et al., 2016; Decrease > Observe-angry; socialcommunication		
+// Subjects=60		
+-45	-68	30
+0	37	-12
+6	-57	25
+		
+//Morawetz et al., 2016; Observe-angry > Increase; socialcommunication		
+// Subjects=60		
+-41	-19	55
+-24	-50	56
+-7	-9	50
+-50	-24	19
+-11	6	44
+-40	-9	15
+-20	-70	16
+16	-6	-10
+11	-26	-4
+-22	7	-5
+-11	-20	-8
+6	-3	2
+-3	-12	14
+30	-25	-5
+-36	21	-4
+3	-4	10
+-57	-2	33
+62	22	30
+39	-43	38
+58	5	23
+-49	26	25
+33	24	4
+33	24	4
+20	28	-3
+29	-11	53
+-45	-63	4
+		
+//Morawetz et al., 2016; Increase > Observe-angry; socialcommunication		
+// Subjects=60		
+-45	-68	30
+42	-27	52
+-3	-60	25
+		
+//Morawetz et al., 2016; Observe-angry > Increase + Decrease; socialcommunication		
+// Subjects=60		
+62	-22	30
+58	5	26
+-49	-29	36
+-29	-12	56
+-41	-19	55
+-57	-2	33
+-19	1	-7
+19	-3	-8
+11	-26	-4
+-4	-6	53
+-27	-50	56
+-12	-62	54
+6	-3	2
+30	-25	-5
+-14	-20	-8
+-8	-28	0
+-3	-12	14
+-33	13	13
+-36	18	-1
+33	24	4
+-55	11	4
+13	-7	14
+-11	6	44
+48	16	-2
+-40	-9	15
+-46	23	28
+-4	20	39
+36	20	-9
+-19	-69	40
+-20	-70	16
+32	-14	56
+53	-31	2
+-53	-65	7
+		
+//Morawetz et al., 2016; Increase + Decrease > Observe-angry; socialcommunication		
+// Subjects=60		
+-45	-68	30
+-3	-60	25
+		
+//Mazzola et al., 2016; Angry > Joyful session; socialcommunication		
+// Subjects=20		
+-37	-7	5
+-37	-30	-5
+		
+//Mazzola et al., 2016; Grasping > Faces; socialcommunication		
+// Subjects=20		
+-48	-71	-5
+48	-82	5
+-26	4	50
+38	42	40
+-56	15	30
+-18	-30	0
+1	42	25
+-63	-11	-5
+1	-7	10
+		
+//Mazzola et al., 2016; Faces > Grasping; socialcommunication		
+// Subjects=20		
+57	-41	-5
+32	-58	-27
+32	-74	-23
+		
+//Mazzola et al., 2016; Interaction analysis between grasping and neutral grasping; socialcommunication		
+// Subjects=20		
+-14	30	50
+18	-28	-43
+		
+//Egorova et al., 2016; Words > Faces; socialcommunication		
+// Subjects=18		
+-48	-14	-2
+62	-16	-2
+-64	-36	8
+-50	-32	-16
+-22	10	22
+-38	-22	-8
+42	-30	-8
+48	-60	50
+		
+//Egorova et al., 2016; Request > Naming; socialcommunication		
+// Subjects=18		
+-42	-70	0
+42	-56	-2
+-22	-88	38
+-20	-98	22
+24	-90	32
+-12	-98	18
+40	-28	38
+-26	-8	60
+28	-10	58
+-38	30	10
+-46	28	8
+		
+//Liu et al., 2016; Disgust > Neutral; socialcommunication		
+// Subjects=26		
+39	9	-3
+-33	15	0
+48	3	51
+-33	12	57
+54	39	3
+57	-39	51
+44	-46	-20
+-42	-57	-18
+51	-54	0
+-51	-57	3
+45	-77	-6
+-36	-84	-6
+-12	-78	-45
+		
+		
+//Liu et al., 2016; Out-group > In-group; socialcommunication		
+// Subjects=26		
+-27	-6	-12
+27	-84	-12
+-32	-74	-18
+51	-54	0
+-51	-72	12
+27	-96	-9
+-15	-96	-9
+18	-96	0
+-15	-96	-3
+18	-12	0
+-3	-21	0
+-63	-21	33
+51	-3	45
+-12	-30	-45
+-9	-42	-54
+		
+//Liu et al., 2016; Disgusted out-group-neutral out-group > Disgusted In-group-neutral in-group; socialcommunication		
+// Subjects=26		
+30	0	-18
+45	21	-6
+-15	33	-18
+51	24	-6
+		
+//Caruana et al., 2015; RJA > RJAc; socialcommunication		
+// Subjects=13		
+34	52	0
+24	52	26
+-26	44	14
+3	42	36
+-34	22	2
+48	22	18
+46	24	8
+42	8	44
+52	-22	-14
+52	-44	24
+-60	-48	14
+52	-44	24
+-52	-48	34
+4	-62	58
+16	-6	-10
+		
+//Caruana et al., 2015; IJA > IJAc; socialcommunication		
+// Subjects=13		
+38	52	0
+38	36	34
+34	54	16
+-26	4	58
+-40	56	4
+8	44	48
+42	26	-6
+54	22	26
+-22	6	60
+4	40	12
+10	18	32
+-6	-6	32
+40	6	48
+-30	-2	58
+40	-52	-14
+48	-72	-2
+-46	-44	6
+56	-42	22
+-52	-46	18
+56	-40	40
+38	-60	-12
+8	-40	14
+10	-62	51
+4	-84	24
+0	-96	-2
+-22	-66	-4
+18	-82	32
+-46	-74	0
+12	-12	6
+-30	-70	-28
+		
+//Caruana et al., 2015; (IJA - IJAc) with (RJA - RJAc); socialcommunication		
+// Subjects=13		
+44	6	54
+54	22	26
+38	4	46
+58	-46	10
+54	-44	16
+48	-44	42
+2	-52	54
+		
+//Caruana et al., 2015; (IJA − IJAc) − (RJA − RJAc); socialcommunication		
+// Subjects=13		
+36	54	16
+38	0	56
+-28	2	60
+6	36	50
+48	36	8
+20	6	58
+18	12	68
+4	8	58
+-36	-4	50
+12	-32	46
+-4	-8	32
+-36	-4	50
+56	-58	-4
+-58	-50	20
+-46	-44	6
+54	-34	40
+-30	6	-26
+10	-54	46
+-4	-80	14
+30	-74	30
+-46	-74	0
+12	-12	6
+16	-72	-16
+		
+//Ihme et al., 2014; HA > NE; socialcommunication		
+// Subjects=50		
+-9	41	1
+		
+//Ihme et al., 2014; AN > NE; socialcommunication		
+// Subjects=50		
+-51	29	10
+		
+//Ihme et al., 2014; FE > NE; socialcommunication		
+// Subjects=50		
+-45	35	2
+-15	2	-8
+12	-79	-38
+-9	20	43
+9	5	4
+		
+//Cloutier et al., 2014; Status Type x Status Level > baseline; socialcommunication		
+// Subjects=20		
+-9	-15	66
+42	-15	30
+-21	-60	60
+-57	-12	30
+21	-99	-6
+-18	-99	-3
+15	-39	48
+-39	-36	21
+-21	39	33
+-9	48	-6
+18	-51	69
+		
+//Cloutier et al., 2014; Status Type > baseline; socialcommunication		
+// Subjects=20		
+42	-12	-27
+60	-45	-15
+42	-60	24
+		
+//Cloutier et al., 2014; Status Level > baseline; socialcommunication		
+// Subjects=20		
+18	-72	21
+39	-9	12
+60	-24	48
+-15	-27	3
+-27	-72	18
+-18	-84	42
+39	-3	-6
+-36	-12	9
+-39	-42	57
+48	-66	12
+-51	-21	45
+-42	-81	6
+-18	-72	0
+60	-21	9
+		
+//Beyer et al., 2014; Decision phase: Angry > neutral; socialcommunication		
+// Subjects=32		
+-2	44	40
+-44	-56	22
+-48	-28	-2
+-56	24	10
+52	20	18
+62	-54	6
+		
+//Beyer et al., 2014; Decision phase: Parametric modulation angry > neutral; socialcommunication		
+// Subjects=32		
+-2	10	34
+		
+//Beyer et al., 2014; Outcome phase: Angry > neutral; socialcommunication		
+// Subjects=32		
+-36	24	-22
+36	30	-6
+38	-48	-20
+-42	-8	56
+6	-4	6
+32	-54	52
+-48	-32	-6
+		
+//Hensel et al., 2013; [(TR−HA)∩(AT−HA)∩(TR−AG)∩(AT−AG)]; socialcommunication		
+// Subjects=44		
+-4	58	9
+-51	-56	36
+-22	52	24
+45	-60	30
+56	-58	36
+56	-51	32
+		
+//Hensel et al., 2013; [(TR−AG)∩(AT−AG)∩(HA−AG)]; socialcommunication		
+// Subjects=44		
+-57	-54	27
+-52	-44	27
+-51	32	-14
+-58	22	8
+-14	28	54
+-50	8	-38
+60	-60	14
+63	-50	22
+		
+//Hensel et al., 2013; [(TR−HA)∩(AT−HA)∩(AG−HA)]; socialcommunication		
+// Subjects=44		
+-8	-51	22
+-45	-70	32
+-4	-36	39
+-26	24	45
+		
+//Mainieri et al., 2013; (IMIO > CTO) ∩ (IMIE > CTE); socialcommunication		
+// Subjects=20		
+-4	8	50
+-48	-58	-2
+-24	-58	58
+-34	-38	40
+-54	-24	38
+-64	-50	19
+-14	-28	40
+-18	2	0
+26	-2	54
+50	-72	18
+48	-42	12
+54	6	28
+36	-36	54
+38	-66	4
+8	-22	-2
+24	12	-4
+		
+//Mainieri et al., 2013; [S (IMIO + CTO + IMIE + CTE) > NS (IMIO + CTO + IMIE + CTE)]; socialcommunication	
+// Subjects=20		
+12	32	32
+-10	32	-10
+24	52	12
+		
+//Mainieri et al., 2013; (S-IMIO>NS-IMIO) > (S-CTO > NS-CTO); socialcommunication		
+// Subjects=20		
+-8	-36	46
+50	-32	50
+		
+//Mainieri et al., 2013; [(S-IMIO > S-CTO) + (S-IMIE > S-CTE)] > [(NS-IMIO > NS-CTO) + (NS-IMIE > NS-CTE)]; socialcommunication	
+// Subjects=20		
+50	-34	46
+		
+//Mainieri et al., 2013; [(S-IMIO > NS-IMIO) > (S-CTO > NS-CTO)] > [(S-IMIE > NS-IMIE) > (S-CTE > NS- CTE)]; socialcommunication
+// Subjects=20		
+12	40	-4
+-33	23	-11
+15	20	49
+-6	41	46
+30	8	49
+-36	-25	58
+42	-52	-23
+-9	-7	1
+		
+//Contreras et al., 2011; Categorical knowledge (non-social > social); socialcommunication		
+// Subjects=19		
+-46	-36	44
+-58	-60	-4
+6	12	22
+-48	6	18
+14	-18	68
+42	-10	24
+-44	38	12
+-24	10	56
+		
+//Contreras et al., 2011; Categorical knowledge (social > non-social); socialcommunication		
+// Subjects=19		
+-4	-58	28
+-8	56	34
+-4	48	-8
+-50	-10	-22
+60	-2	-22
+-56	-60	24
+56	-56	18
+-12	-96	-4
+-26	-74	-16
+-10	38	50
+		
+//Wang et al., 2011; Hand movement task Cong > Catch; socialcommunication		
+// Subjects=20		
+-39	-19	55
+21	-52	-29
+-24	-10	1
+-42	32	-20
+-48	26	-11
+-45	38	1
+51	11	-38
+-45	-40	-26
+		
+//Wang et al., 2011; Hand movement task Incong > Catch; socialcommunication		
+// Subjects=20		
+15	-52	-26
+24	-52	-32
+-39	-19	55
+-54	23	13
+51	8	-41
+45	14	-44
+		
+//Wang et al., 2011; Inhibition of mimicry Main effect: Incong > Cong; socialcommunication		
+// Subjects=20		
+-54	-25	46
+-45	-31	37
+-30	-25	55
+6	-76	10
+-3	-94	10
+9	-88	19
+		
+//Wang et al., 2011; Inhibition of mimicry Simple effect: Averted-Incong > averted-Cong; socialcommunication	
+// Subjects=20		
+9	44	31
+9	41	22
+15	53	22
+63	-49	28
+57	-46	13
+63	-46	37
+18	-100	16
+3	-79	10
+-9	-79	7
+-36	-31	10
+-51	-25	-5
+-42	-31	-8
+-45	11	-14
+-54	5	-2
+42	20	-8
+39	23	4
+-9	-22	43
+0	-19	46
+21	-34	49
+24	20	49
+30	23	58
+6	-16	4
+24	-22	4
+-6	-16	-2
+-39	-25	40
+-48	-25	40
+-39	-28	28
+6	-79	37
+6	-79	49
+-6	-70	46
+0	-49	58
+-3	-49	49
+		
+//Wang et al., 2011; Eye contact effect Simple effect: Direct-Cong > Averted-Cong; socialcommunication		
+// Subjects=20		
+9	-10	1
+15	44	13
+48	-46	1
+48	-40	-5
+51	-31	-11
+51	-46	49
+54	-49	49
+45	-70	40
+		
+//Wang et al., 2011; Interaction (Direct-Cong > Direct-Incong) > (Averted-Cong > Averted-Incong); socialcommunication		
+// Subjects=20		
+-48	-19	-2
+-51	-28	-2
+-57	-34	4
+6	44	34
+15	44	16
+45	26	-17
+39	26	-23
+24	14	-26
+		
+//Mano et al., 2011; Retrieval of social context > Retrieval of self-generation; socialcommunication		
+// Subjects=24		
+10	62	12
+		
+//Mano et al., 2011; Retrieval of social context > Retrieval of self-generation; socialcommunication		
+// Subjects=24		
+-10	50	-2
+-4	-18	40
+		
+//Kohn et al., 2011; cartoons > neutral pictures; socialcommunication		
+// Subjects=29		
+-49	-63	32
+-4	52	14
+-7	46	10
+-4	-52	38
+-7	-10	10
+-10	56	38
+-52	-46	-4
+-49	-60	-24
+		
+//Schilbach et al., 2010; INC > CON; socialcommunication		
+// Subjects=23		
+-39	-35	39
+33	45	26
+44	-47	41
+30	-2	56
+6	8	30
+2	-24	42
+-32	30	-3
+29	-5	9
+-8	-28	-18
+6	-57	-18
+27	-12	71
+17	-44	38
+9	-27	-18
+		
+//Schilbach et al., 2010; OBJ > SOC; socialcommunication		
+// Subjects=23		
+29	-83	26
+-47	-68	0
+-9	-77	29
+-38	-42	39
+		
+//Schilbach et al., 2010; SOC > OBJ; socialcommunication		
+// Subjects=23		
+17	-98	-9
+24	-27	-5
+-24	-29	-8
+-44	-18	20
+-5	57	26
+-11	-30	54
+-60	-44	-17
+-3	53	-21
+53	11	-17
+5	-29	66
+		
+//Schilbach et al., 2010; INC X SOC; socialcommunication		
+// Subjects=23		
+-17	2	8
+-51	14	8
+-8	30	21
+-6	-14	8
+14	62	21
+		
+//Redcay et al., 2010a; Live > Recorded; socialcommunication		
+// Subjects=16		
+6	14	36
+2	36	14
+8	6	62
+-40	14	4
+38	16	0
+54	-48	12
+60	-46	24
+38	-64	8
+48	12	-30
+38	-70	20
+-48	-44	22
+-46	16	-16
+-48	-60	4
+10	-74	-12
+-42	-56	-28
+20	-2	-18
+26	-16	-14
+-18	18	4
+-12	12	-4
+22	8	-10
+-14	-8	6
+		
+//Redcay et al., 2010a; Recorded > Live; socialcommunication		
+// Subjects=16		
+-38	-20	58
+46	-24	58
+8	-18	64
+		
+//Redcay et al., 2010b; JA > SA; socialcommunication		
+// Subjects=13		
+48	-40	6
+54	-58	14
+50	-70	0
+-48	-56	14
+-48	-68	6
+-10	-106	14
+2	-88	-2
+46	30	-6
+6	50	44
+58	2	-24
+		
+//Pierno et al., 2008; [(Individual gaze + Social No-gaze) - (Individual No-gaze + Social Gaze); socialcommunication		
+// Subjects=17		
+12	42	56
+47	37	8
+-18	34	56
+-46	34	14
+-50	34	-4
+-54	20	28
+-2	-56	36
+-42	-60	36
+40	-62	38
+-28	-102	2
+28	-101	0
+		
+//Pierno et al., 2008; [( Social gaze + Individual gaze) - ( Social No-gaze + Individual No-gaze)]; socialcommunication		
+// Subjects=17		
+50	26	12
+56	-56	16
+4	-86	24
+24	-2	-18
+		
+// Pierno et al., 2008; Interaction [( Individual gaze + Social No-gaze) - (Individual No-gaze + Social gaze)];socialcommunication
+// Subjects=17		
+-4	32	61
+		
+//Bristow et al., 2007; Incorrect > correct masked by Gaze Shift > No Movement; socialcommunication		
+// Subjects=12		
+12	-69	54
+-18	-69	51
+-33	-45	39
+48	-33	48
+-48	-42	27
+-24	-69	33
+39	-75	33
+-39	-81	30
+48	-60	9
+63	-39	18
+-48	-66	0
+60	-63	-6
+51	-21	36
+-39	0	39
+-45	21	33
+-36	-6	66
+-45	3	54
+27	-3	51
+-21	-6	54
+-24	-9	75
+-33	21	0
+		
+//Bristow et al., 2007; Unsocial > social masked by Gaze Shift > No Movement; socialcommunication		
+// Subjects=12		
+12	-69	54
+-24	-72	36
+48	-33	48
+-36	-81	33
+-42	-69	15
+-36	-81	18
+39	-81	24
+-42	-69	-3
+48	-54	-3
+-54	9	27
+-9	-3	6
+		
+//Bristow et al., 2007; Unsocial > social masked by incorrect > correct; socialcommunication		
+// Subjects=12		
+12	-69	54
+-24	-72	36
+51	-33	48
+45	15	45
+48	33	30
+-42	21	27
+-45	-66	-3
+		
+//Bristow et al., 2007; Incorrect > correct; socialcommunication		
+// Subjects=12		
+9	30	-12
+-6	33	-9
+-6	63	21
+15	48	21
+-30	36	-12
+-12	45	-15
+3	60	0
+-3	42	-21
+-33	-15	27
+-66	-24	-6
+42	-87	0
+36	-69	-12
+6	-21	18
+-9	-33	15
+		
+//Bristow et al., 2007; Social > unsocial masked by gaze shift > no movement; socialcommunication		
+// Subjects=12		
+-18	-63	3
+30	-36	-3
+-39	42	-15
+33	39	-9
+-57	-42	-6
+51	-42	0
+-48	-81	3
+48	-75	0
+-48	-81	-6
+48	-72	-9
+39	-69	6
+-12	-9	78
+15	-24	78
+-45	12	45
+66	-33	6
+33	-69	27
+		
+//Bristow et al., 2007; Social > unsocial masked by correct > incorrect; socialcommunication		
+// Subjects=12		
+0	-51	30
+3	-60	18
+-3	48	-3
+9	54	24
+-6	63	9
+-12	39	45
+0	30	-30
+0	48	-24
+-27	33	-9
+45	0	-33
+-66	-21	-9
+-60	-3	-18
+-3	-84	-3
+-27	-87	3
+		
+//Hellbernd et al., 2018; Clear > Ambiguous; socialcommunication		
+// Subjects=22		
+30	2	-14
+33	-16	-17
+48	-7	1
+57	-22	7
+66	-34	16
+48	-4	-17
+57	-7	-20
+54	-13	13
+-21	-1	-17
+-27	-1	-2
+-27	-19	-17
+-21	-4	7
+-42	-13	-5
+-51	-4	7
+-42	-70	22
+-54	-58	34
+-60	-40	40
+-54	-28	19
+-12	-34	40
+12	-22	43
+-6	35	-20
+-3	38	-8
+6	41	-17
+-27	26	46
+		
+//Hellbernd et al., 2018; Ambiguous > Clear; socialcommunication		
+// Subjects=22		
+6	14	49
+3	26	40
+-3	11	55
+-30	32	-2
+-54	14	13
+30	29	-2
+36	23	1
+		
+//Catmur et al., 2008; observation of both hands and feet > baseline and action execution (hands and feet) > baseline (conjunction analysis); socialcommunication		
+// Subjects=20		
+57	3	36
+-51	0	36
+-54	0	36
+39	-39	45
+-33	-45	45
+-36	-45	48
+36	-54	-27
+-36	-57	-27
+-54	-39	24
+-12	-72	45
+15	-72	51
+0	18	48
+51	0	54
+		
+//Catmur et al., 2008; interaction between observed (hand and foot) and group (Compatible and Incompatible) > baseline during Action Observation task; socialcommunication		
+// Subjects=20		
+-51	0	36
+57	3	36
+-33	-45	45
+39	-39	45
+		
+//Scheuerecker et al., 2007; Implicit triplets > control stimuli; socialcommunication		
+// Subjects=12		
+-30	-82	-16
+24	-64	34
+22	-12	0
+8	-18	-2
+-24	-30	2
+12	-18	-14
+18	-28	-8
+-30	-20	-12
+40	40	14
+34	-2	26
+-38	28	-8
+-38	10	26
+58	-46	-2
+-34	-56	42
+48	4	32
+		
+//Scheuerecker et al., 2007; Explicit triplets > control stimuli; socialcommunication		
+// Subjects=12		
+34	-68	-24
+16	-42	-20
+-20	-34	-24
+20	-18	22
+2	14	14
+-18	-12	18
+20	-14	42
+-8	4	28
+40	36	12
+-26	10	54
+		
+//Scheuerecker et al., 2007; Explicit triplets > Implicit triplet; socialcommunication		
+// Subjects=12		
+40	-84	10
+28	-74	28
+-42	-86	8
+-32	-76	26
+40	-68	-12
+30	-68	-42
+-38	-66	-22
+-30	-70	-44
+-8	-78	-34
+2	-60	-40
+-36	-46	54
+-30	-60	52
+30	-58	42
+60	-62	-4
+-62	-56	6
+34	-88	-20
+6	26	38
+50	34	16
+-38	30	14
+34	54	4
+0	42	50
+		
+//Zahn et al., 2007; Social > animal masked by social > fixation; socialcommunication		
+// Subjects=26		
+48	21	-9
+57	12	0
+54	33	6
+-6	21	54
+-36	33	24
+-48	15	9
+-57	-45	30
+-63	-39	-12
+-42	-51	-30
+-33	-84	12
+-12	-15	-3
+		
+//Zahn et al., 2007; Positive > negative social concepts; socialcommunication		
+// Subjects=26		
+-12	54	18
+-42	30	-15
+-3	0	24
+		
+//Platek et al., 2005; distracter > null; socialcommunication		
+// Subjects=12		
+30	-84	-6
+0	10	48
+24	-34	0
+26	-48	42
+-8	-44	30
+36	-4	56
+		
+//Platek et al., 2005; familiar face > distracter; socialcommunication		
+// Subjects=12		
+42	-6	-14
+-32	18	4
+-20	-58	-36
+50	-46	0
+-50	-38	44
+-40	-2	44
+-34	40	22
+		
+//Platek et al., 2005; self face > distracter; socialcommunication		
+// Subjects=12		
+54	-22	48
+-22	-76	-26
+58	-48	24
+-12	8	-2
+12	8	-2
+16	-28	10
+56	12	-6
+		
+//Platek et al., 2005; familiar face > self face; socialcommunication		
+// Subjects=12		
+-2	24	-2
+		
+//Platek et al., 2005; self face > famililar face; socialcommunication		
+// Subjects=12		
+-52	4	-16
+26	34	34
+6	48	-12
+50	-62	40
+-58	-6	-4
+20	16	56
+26	-12	46
+		
+//Lotze et al., 2006; Watching opponent > Retaliation; socialcommunication		
+// Subjects=16		
+12	-78	0
+-42	-69	6
+-15	-54	-15
+60	-69	0
+57	-29	12
+-63	-12	12
+66	6	3
+-51	9	-3
+12	3	39
+24	0	-12
+36	0	-3
+-33	0	-3
+-54	6	-3
+60	0	-3
+12	-18	0
+-6	-15	0
+21	-45	-3
+30	21	-21
+60	-45	12
+		
+//Lotze et al., 2006; Retaliation > Watching opponent; socialcommunication		
+// Subjects=16		
+9	69	15
+18	-84	18
+-24	-90	6
+15	66	27
+		
+//Lotze et al., 2006; Watching opponent > Retaliation (conjunction); socialcommunication		
+// Subjects=16		
+15	66	27
+12	48	33
+54	27	6
+-42	33	-9
+48	-66	0
+-48	-69	6
+15	-96	9
+-15	-99	15
+27	-24	-18
+-18	-6	-15
+		
+//Lotze et al., 2006;  Retaliation interaction with low CU > High CU; socialcommunication		
+// Subjects=16		
+18	45	-9
+		
+//Sander et al., 2005; Anger > Neutral (AN + NA) > (NN); socialcommunication		
+// Subjects=15		
+62	-30	6
+-60	-24	0
+27	-87	24
+-33	-72	36
+-54	24	21
+-45	-15	-6
+60	-15	0
+27	-6	-15
+18	45	6
+		
+//Sander et al., 2005; Anger to-be-attended > Neutral; socialcommunication		
+// Subjects=15		
+9	-84	24
+27	-90	21
+-9	45	51
+-63	-27	0
+		
+//Sander et al., 2005; Anger to-be-ignored > Neutral; socialcommunication		
+// Subjects=15		
+66	-30	3
+57	-6	-15
+-3	-45	30
+39	33	-3
+		
+//Sander et al., 2005; Anger to be attended > to be ignored; socialcommunication		
+// Subjects=15		
+3	39	-12
+33	-57	27
+-36	0	3
+-48	24	6
+57	27	6
+9	-84	24
+-9	-87	9
+60	-30	3
+-60	-27	3
+-24	57	6
+		
+//Sander et al., 2005; anger to be ignored > to be attended; socialcommunication		
+// Subjects=15		
+9	-54	39
+42	-48	40
+-27	-51	3
+		
+//Sander et al., 2005; spatial attention to right ear> left ear; socialcommunication		
+// Subjects=15		
+-48	-63	51
+-36	21	6
+		
+//Sander et al., 2005; spatial attention to left ear > right ear; socialcommunication		
+// Subjects=15		
+60	-12	-9
+3	-33	24
+48	-60	18
+60	-39	48
+27	-69	27
+42	-21	6
+-9	45	9
+-9	-60	9
+6	54	18
+		
+//Schulte-Rüther et al., 2008; Self > high-level baseline; socialcommunication		
+// Subjects=26		
+-48	28	-10
+-54	24	12
+54	30	-6
+60	26	14
+-62	-46	2
+-56	-58	16
+50	-24	-12
+-54	2	-28
+-50	10	-36
+46	16	-38
+-8	60	32
+-44	8	50
+-6	18	64
+-10	-48	32
+		
+//Schulte-Rüther et al., 2008; Other > high-level baseline; socialcommunication		
+// Subjects=26		
+-48	28	-8
+-54	24	14
+56	32	0
+60	28	16
+-62	-46	2
+52	-32	-2
+-50	-20	-14
+-44	-46	-20
+-48	12	-36
+46	16	-36
+-8	54	42
+-44	8	52
+-6	18	64
+		
+//Takahashi et al., 2004; Guilt > Neutral; socialcommunication		
+// Subjects=19		
+-6	-95	12
+2	-85	6
+-16	49	9
+4	57	16
+-44	-61	20
+		
+//Takahashi et al., 2004;  Embarrassment > Neutral; socialcommunication		
+// Subjects=19		
+-2	-89	4
+20	-70	0
+-8	50	25
+2	59	17
+-42	-59	18
+-51	-31	-7
+-53	1	-24
+48	-7	-27
+-44	31	-7
+-34	-18	-18
+		
+//Takahashi et al., 2004;  G > N masked E > N; socialcommunication		
+// Subjects=19		
+-12	-77	6
+2	-85	6
+-10	36	52
+4	57	16
+-44	-61	20
+		
+//Takahashi et al., 2004;  Embarrassment > guilt; socialcommunication		
+// Subjects=19		
+12	-83	8
+38	-68	-5
+-10	-62	-2
+-8	-80	1
+42	-3	-27
+32	-18	-13
+-20	-14	-9
+		
+//Takahashi et al., 2004;  Guilt > Embarrassment; socialcommunication		
+// Subjects=19		
+-16	49	14
+		
+//Cuevas et al., 2019; low complexity > high complexity; socialcommunication		
+// Subjects=20		
+-56	-50	26
+10	44	10
+56	-50	14
+6	-56	34
+		
+//Cuevas et al., 2019; speech > gestures + speech; socialcommunication		
+// Subjects=20		
+-50	30	-8
+-44	-36	-2
+		
+//Cuevas et al., 2019; gestures + speech > speech; socialcommunication		
+// Subjects=20		
+-46	-74	6
+48	-68	2
+8	-72	56
+		
+//Cuevas et al., 2019; interaction (gestures x complexity); socialcommunication		
+// Subjects=20		
+-52	-2	-20
+		
+//Suslow et al., 2009; Masked sad faces > neutral faces; socialcommunication		
+// Subjects=51		
+-28	-2	-22
+24	-6	-16
+-22	-62	-16
+26	-78	-20
+-16	-68	-10
+12	-56	-2
+-44	-82	6
+42	-70	4
+-4	-88	26
+8	-90	24
+-54	10	-4
+62	-2	2
+-42	16	2
+40	-10	16
+-34	-14	10
+-46	-30	40
+60	-22	28
+-20	-34	70
+32	-34	54
+30	-44	66
+4	-36	50
+20	-66	56
+-14	-72	36
+10	-82	42
+		
+//Suslow et al., 2009; masked happy faces > neutral faces; socialcommunication		
+// Subjects=51		
+32	0	-26
+-36	-50	-20
+30	-44	-18
+-38	-82	2
+60	-46	4
+42	-12	-6
+30	26	-18
+-32	40	-18
+		
+//Suslow et al., 2009; Negative coorelation -- attachment avoidance with brain responsed to masked sad faces; socialcommunication
+// Subjects=51		
+-50	-26	32
+36	-40	62
+-30	-36	54
+34	-36	54
+34	-36	56
+18	-40	60
+-8	-58	48
+		
+//Suslow et al., 2009; Coorelation -- attachment avoidance with brain responses to masked sad faces; socialcommunication	
+// Subjects=51		
+-2	-40	58
+2	-40	58
+-56	-42	2
+-46	18	-4
+
+//Ziaei et al., 2016; Angry averted gaze > angry direct gaze; socialcommunication		
+// Subjects=20		
+51	26	27
+-58	8	26
+46	22	-1
+-44	20	-6
+-43	45	10
+0	24	41
+-31	17	10
+46	21	-1
+-36	-24	55
+54	-14	29
+-45	-26	41
+47	-27	41
+32	-68	30
+36	-52	48
+-26	-54	50
+48	-64	-9
+-39	67	-9
+-9	-76	-22
+9	-74	-22
+32	-82	3
+-34	-88	3
+32	-77	-9
+-34	-75	-9
+14	-12	9
+-9	20	9
+		
+//Ziaei et al., 2016; angry direct gaze > angry averted gaze; socialcommunication		
+// Subjects=20		
+23	-7	-13
+42	22	4
+-34	22	4
+6	20	46
+43	12	30
+		
+		
+//Ziaei et al., 2016; Happy direct + averted gaze; socialcommunication
+// Subjects=20	
+-7	36	-8
+-3	63	8
+-58	-50	38
+-44	-73	38
+-54	-8	-19
+-2	-32	44
+-12	-56	20
+32	-66	39
+-4	-58	16
+36	-87	12
+35	-35	-9
+4	60	13
+2	28	-14
+0	46	-5
+-25	35	43
+27	30	43
+50	-66	26
+-64	-31	6
+-47	-54	26
+-2	-45	43
+-2	-64	25
+-11	-57	-5
+		
+//Sato et al., 2019; expression > mosaic; socialcommunication		
+// Subjects=51		
+42	-76	-10
+38	-46	-20
+46	-56	0
+50	-66	-10
+46	-32	4
+50	-48	14
+50	-38	14
+-44	-82	-4
+-42	-54	-20
+-44	-68	2
+-56	-44	10
+-48	-52	8
+-44	-30	-20
+-38	-22	-26
+20	-6	-14
+28	0	-20
+32	8	-24
+16	-30	0
+12	-26	-6
+-20	-8	-14
+-30	0	-20
+-28	-6	-20
+-16	-32	0
+46	4	52
+44	20	24
+36	10	30
+-12	-70	-26
+54	4	-12
+50	-12	-6
+-10	-78	-38
+10	-14	10
+4	-54	20
+38	-2	-44
+30	2	-38
+6	40	-18
+-6	-46	-16
+52	32	8
+-34	-2	-36
+-32	-58	-50
+4	56	22
+		
+//Sato et al., 2019; (expression > mosaic) × laterality; socialcommunication		
+// Subjects=51		
+46	-56	4
+58	-50	0
+46	-32	4
+50	10	26
+26	-68	34
+-24	-64	-56
+		
+//Davies-Thompson et al., 2018; (Bimodal > Unimodal faces) ∩ (Bimodal > Unimodal Voices); socialcommunication		
+// Subjects=24		
+54	-46	8
+		
+//Davies-Thompson et al., 2018; Incongruent > Congruent; socialcommunication		
+// Subjects=24		
+-30	8	40
+-34	-54	42
+-42	38	-8
+-30	24	2
+-38	10	26
+-48	22	6
+44	32	20
+54	24	32
+38	10	38
+32	24	6
+26	-64	56
+40	32	-6
+52	-44	-6
+60	-44	10
+32	-54	42
+		
+//Derntl et al., 2009; emotion-by-gender of poser interaction (fearful male expressions > fearful female expressions; female expressions of disgust > male expressions of disgust); socialcommunication		
+// Subjects=21		
+20	-18	-16
+-18	-22	-18
+		
+//Derntl et al., 2009; interaction of testosterone and angry male expressions > baseline; socialcommunication		
+// Subjects=21		
+-6	24	-22
+		
+//Derntl et al., 2009; interaction of testosterone and fearful male expressions > baseline; socialcommunication		
+// Subjects=21		
+0	30	-22
+		
+//Fruhholz et al., 2020; vocal > nonvocal; socialcommunication		
+// Subjects=13		
+-52	-20	6
+-60	-4	0
+-60	-32	10
+-58	-20	6
+-60	-10	0
+-66	-18	6
+		
+//Habel et al., 2007; explicit (emotion) > baseline; socialcommunication		
+// Subjects=29		
+-10	-54	-18
+-4	-24	-10
+4	-26	-10
+14	-18	-8
+-18	-26	-8
+20	4	-14
+-52	16	-24
+-20	0	-20
+40	20	-22
+-44	20	-24
+		
+//Habel et al., 2007; implicit (age) > baseline; socialcommunication		
+// Subjects=29		
+42	-58	-22
+-10	-56	-18
+-26	-56	-18
+-12	-24	-10
+20	-28	-8
+-20	4	-18
+18	4	-18
+46	18	-18
+38	28	-28
+		
+//Habel et al., 2007; explicit (emotion) > implicit (age); socialcommunication		
+// Subjects=29		
+-28	-58	-16
+38	-40	-20
+-2	-24	-12
+48	18	-20
+-50	14	-24
+-16	-2	-12
+-40	20	-22
+		
+//Uddin et al., 2005; Self - Other; socialcommunication		
+// Subjects=10		
+32	-60	52
+64	-24	50
+42	-34	38
+46	-58	-12
+48	42	-2
+		
+//Uddin et al., 2005; Other - Self; socialcommunication		
+// Subjects=10		
+0	-48	38
+-6	52	44
+-18	34	52
+-22	22	52
+-54	-42	12
+2	44	-20
+70	-12	-16
+62	-4	-18
+		
+//Neukel et al., 2019; CON: own>unknown masked with group×(own>unknown); socialcommunication		
+// Subjects=53		
+-6	50	-5
+		
+//Kanazawa et al., 2017; Fingerspelling > Letter; socialcommunication		
+// Subjects=13		
+-26	-2	46
+-30	4	62
+-36	-36	34
+-38	-46	46
+-36	-54	52
+-8	-66	54
+-20	-70	52
+		
+//Kanazawa et al., 2017; Letter > Fingerspelling; socialcommunication		
+// Subjects=13		
+-32	-90	-4
+38	-84	16
+		
+//Vanlangendonck et al., 2018; Collaborative > Arbitrary; socialcommunication		
+// Subjects=70		
+0	-46	48
+8	-52	30
+-12	-50	38
+-52	-4	-32
+-48	10	-30
+-56	8	-26
+60	-40	46
+64	-36	36
+50	-66	28
+-58	-56	22
+-60	-46	40
+-62	-46	32
+40	16	-34
+52	4	-30
+44	6	-38
+6	56	4
+-4	54	8
+8	50	-4
+		
+//Vanlangendonck et al., 2018; Individual > Arbitrary; socialcommunication		
+// Subjects=70		
+-54	-58	26
+-52	-60	40
+-48	-74	36
+56	0	-34
+48	6	-34
+-54	-20	-20
+-50	-4	-34
+-60	2	-24
+		
+//Vanlangendonck et al., 2018; Collaborative > Individual; socialcommunication		
+// Subjects=70		
+-22	10	0
+14	-30	40
+-16	-60	58
+6	-52	56
+60	-42	36
+66	-42	30
+66	-38	20
+-28	36	30
+32	38	28
+20	30	28
+14	20	26
+2	0	48
+-16	-10	70
+-38	8	10
+8	56	4
+10	-14	72
+16	-24	76
+18	-56	-10
+		
+//Vanlangendonck et al., 2018; Arbitrary > Individual; socialcommunication		
+// Subjects=70		
+-54	-66	-16
+-46	-74	-22
+-30	-90	-20
+-12	14	-6
+-2	-16	12
+14	16	-4
+-6	10	28
+-2	34	22
+4	28	28
+-6	-56	-20
+-8	-72	-24
+-12	-14	32
+-32	18	-4
+-34	8	20
+-10	-32	28
+-18	-12	-10
+-30	-22	-8
+-22	-2	-10
+-8	-4	74
+-10	-4	72
+0	-6	68
+32	38	28
+-30	-60	-34
+32	24	4
+52	14	-6
+30	24	-4
+-30	-64	44
+16	-98	4
+2	-88	-10
+-28	-36	28
+20	-20	24
+18	-18	14
+-36	0	36
+-26	2	40
+-46	2	34
+-2	-46	-22
+-48	-14	44
+-42	-18	36
+66	0	12
+-48	-58	-34
+0	-14	-12
+2	-24	-12
+-8	-14	-4
+18	-66	24
+26	-64	28
+12	-78	12
+0	-36	4
+		
+//Vanlangendonck et al., 2018; Individual > Collaborative; socialcommunication		
+// Subjects=70		
+42	-90	4
+40	-68	-10
+30	-88	-8
+36	48	-10
+-32	-88	4
+-44	-80	-4
+-42	-72	-8
+40	-18	-20
+24	40	-16
+46	8	26
+54	10	30
+		
+//Vanlangendonck et al., 2018; Arbitrary > Collaborative; socialcommunication		
+// Subjects=70		
+34	24	-2
+36	38	-12
+34	46	-10
+-48	-66	-10
+-48	-64	-20
+-42	-62	-6
+-28	-70	46
+-28	-70	36
+50	22	28
+46	28	18
+50	12	32
+-46	22	26
+-44	28	20
+-42	8	30
+-8	-72	-24
+-2	-14	-14
+10	-24	-16
+2	-20	-30
+36	-90	10
+30	-84	0
+32	-90	-8
+-2	-20	12
+-4	-4	2
+10	-24	22
+30	-68	44
+40	-56	36
+4	28	46
+-6	32	22
+6	30	28
+-32	22	-4
+-44	14	-6
+-36	36	-6
+54	-60	20
+-16	-28	26
+-8	-16	26
+-32	-36	-24
+-48	44	-2
+		
+//Sumiya et al., 2017; self > other; socialcommunication		
+// Subjects=38		
+4	58	16
+		
+//Sumiya et al., 2017; group > no laughter; socialcommunication		
+// Subjects=38		
+56	-24	10
+62	-56	6
+52	-12	2
+-48	-28	8
+-52	-20	6
+6	-86	36
+-4	-96	8
+20	-58	6
+		
+//Sumiya et al., 2017; single > no laughter; socialcommunication		
+// Subjects=38		
+56	-24	10
+50	-16	4
+-48	-28	8
+-42	-26	4
+		
+//Sumiya et al., 2017; group > single laughter; socialcommunication		
+// Subjects=38		
+-14	44	48
+12	50	38
+14	-90	32
+-12	-76	12
+-4	-96	8
+16	-82	6
+14	42	10
+-6	32	-10
+2	42	-10
+-44	28	4
+-44	24	-6
+44	30	-2
+32	18	-16
+		
+//Sumiya et al., 2017; SELFGroup−SELFNo > OTHER Group–OTHERNo; socialcommunication		
+// Subjects=38		
+10	12	-2
+18	10	-8
+8	4	-10
+-10	14	-2
+-10	8	-8
+14	-72	-8
+16	-78	-14
+		
+//Ueda et al., 2017; Incongruent > Congruent; socialcommunication		
+// Subjects=27		
+-46	2	32
+-22	-58	-8
+-14	-68	6
+18	12	2
+		
+//Suslow et al., 2017; masked happy faces > masked neutral; socialcommunication		
+// Subjects=40		
+42	-56	42
+34	-68	24
+42	-64	24
+		
+//Suslow et al., 2017; masked disgust > masked neutral; socialcommunication		
+// Subjects=40		
+8	66	8
+12	48	10
+4	44	14
+		
+//Suslow et al., 2017; unmasked disgust > unmasked neutral; socialcommunication		
+// Subjects=40		
+36	-6	52
+42	-14	48
+44	-18	62
+		
+//Spunt et al., 2019, HumanEmotion>Expression & PrimateEmotion>Expression & DogEmotion>Expression; socialcommunication		
+// Subjects=16		
+-8	56	28
+-46	26	-14
+		
+//Spunt et al., 2019, HumanExpression>Emotion & PrimateExpression>Emotion & DogExpression>Emotion; socialcommunication		
+// Subjects=16		
+-32	-44	40
+-58	-34	46
+		
+//Spunt et al., 2019, HumanEmotion+Expression > PrimateEmotion+Expression & HumanEmotion+Expression > DogEmotion+Expression; socialcommunication
+// Subjects=16		
+-4	-54	26
+52	-8	16
+8	56	-12
+-52	-12	-16
+		
+//Spunt et al., 2019, PrimateEmotion+Expression > HumanEmotion+Expression & DogEmotion+Expression> HumanEmotion+Expression; socialcommunication
+// Subjects=16		
+34	-88	10
+-28	-92	12
+-40	-64	-8
+48	-60	-6
+		
+//Spunt et al., 2019, PrimateEmotion+Expression > HumanEmotion+Expression & DogEmotion+Expression> HumanEmotion+Expression; socialcommunication
+// Subjects=16		
+38	-48	-16
+-36	-82	-4
+-4	44	-18
+18	-8	-14
+-8	60	26
+-22	-12	-12
+-2	-52	22
+		
+//Spunt et al., 2019, PrimateFace > HumanFace & DogFace > HumanFace; socialcommunication		
+// Subjects=16		
+-30	-64	-4
+		
+//Tomova et al., 2017, (INJECTION > QTIP): STRESS > CONTROL \ (BIOPSY > QTIP): STRESS > CONTROL; socialcommunication		
+// Subjects=67		
+-2	-88	-8
+-6	4	-2
+56	-12	12
+50	4	16
+-14	-62	-28
+-44	-34	40
+58	10	22
+10	12	44
+32	-2	46
+68	-26	16
+20	-52	-8
+24	-18	58
+-50	2	44
+36	-16	-6
+-40	-46	64
+-6	8	50
+30	10	42
+		
+//Labek et al., 2016; attachment > neutral; socialcommunication		
+// Subjects=25		
+-46	-52	42
+-66	-24	-12
+-42	16	56
+		
+//Labek et al., 2016;  interaction of dyadic scenes with attachment > neutral; socialcommunication		
+// Subjects=25		
+56	-52	34
+		
+//Labek et al., 2016;   interaction of attachment > neutral with dyadic > monadic; socialcommunication		
+// Subjects=25		
+48	-78	6
+-40	-80	-6
+		
+//Koppe et al., 2015; FAC-Angry > FAC-Happy; socialcommunication		
+// Subjects=30		
+39	14	22
+-42	59	1
+-45	53	-5
+-51	44	1
+-48	20	-20
+30	26	-5
+54	26	10
+-27	23	-2
+		
+//Koppe et al., 2015; FAC-Angry > Control; socialcommunication		
+// Subjects=30		
+39	-46	-17
+48	32	16
+39	17	25
+-39	23	19
+-45	50	-8
+-27	23	-2
+33	29	-5
+42	41	-11
+39	-67	55
+39	-55	40
+-39	-49	-17
+-12	-79	-32
+48	-76	-8
+-6	35	40
+6	38	43
+57	-40	-2
+-66	-49	10
+-45	20	-23
+		
+//Koppe et al., 2015; FAC-Happy > Control; socialcommunication		
+// Subjects=30		
+39	-46	-17
+48	32	19
+-36	23	19
+48	17	31
+		
+//Koppe et al., 2015; [variable ISI > constant ISI] - control task; socialcommunication		
+// Subjects=30		
+-33	23	4
+-21	14	1
+51	11	43
+33	8	31
+45	26	1
+-15	-79	-38
+-6	-76	-35
+-21	-67	-47
+6	-16	1
+60	-43	-17
+39	-55	46
+48	-40	40
+-54	11	37
+-9	14	49
+15	11	46
+9	11	25
+3	-46	-41
+48	-37	1
+		
+//Koppe et al., 2015; [variable ISI > constant ISI] - FAC-angry; socialcommunication		
+// Subjects=30		
+-54	32	4
+-45	-37	4
+		
+//Koppe et al., 2015; [constant ISI > variable ISI] - control task; socialcommunication		
+// Subjects=30		
+0	23	1
+-18	-49	28
+18	50	7
+		
+//Koppe et al., 2015; [constant ISI > variable ISI] - FAC-happy; socialcommunication		
+// Subjects=30		
+-42	-10	4
+-42	-4	16
+-33	-25	-5
+-39	38	13
+-48	-22	28
+-33	-31	49
+-33	-28	40
+48	-46	-32
+21	-31	-38
+15	-25	-35
+45	-4	4
+18	-31	-8
+9	-43	76
+-12	-10	73
+-21	-4	64
+-18	-13	58
+-12	-40	79
+		
+//Koppe et al., 2015; [constant ISI > variable ISI] - FAC-Angry; socialcommunication		
+// Subjects=30		
+57	-13	28
+60	-22	34
+36	-25	37
+-27	-40	61
+-30	-34	49
+-42	-40	58
+-24	-4	64
+-36	41	19
+-12	-7	19
+6	-16	19
+		
+//Rice et al., 2016; Live > Social; socialcommunication		
+// Subjects=29		
+-34	-78	42
+-38	-56	32
+-8	50	28
+12	56	28
+-18	-94	-4
+22	-94	4
+		
+//Rice et al., 2016; Social > Live; socialcommunication		
+// Subjects=29		
+-18	-94	-4
+22	-94	4
+		
+//Rice et al., 2016; Social > Standard; socialcommunication		
+// Subjects=29		
+64	-22	6
+		
+//Zerubavel et al., 2015; target popularity during face-viewing task; socialcommunication		
+// Subjects=26		
+-6	51	-15
+-9	60	18
+-39	-54	21
+0	-48	39
+-24	30	39
+33	-3	-21
+-6	3	-3
+		
+//Hanawa et al., 2016; imitation x urge > baseline; socialcommunication		
+// Subjects=37 		
+8	-14	66
+-2	-14	50
+2	-10	56
+-4	-14	56
+6	-8	54
+		
+//Hanawa et al., 2016; observation x familiarity > baseline; socialcommunication		
+// Subjects=37 		
+-56	-66	28
+-6	36	58
+4	62	18
+-2	-78	34
+40	-26	52
+		
+//Hanawa et al., 2016; imitation x familiarity > baseline; socialcommunication		
+// Subjects=37 		
+12	58	32
+-6	44	52
+-4	-28	44
+-52	-72	32
+-32	-38	68
+-2	-62	30
+6	-72	26
+26	-50	-28
+-50	-22	8
+52	-20	10
+		
+//Hanawa et al., 2016;  observation x difficulty > baseline; socialcommunication		
+// Subjects=37 		
+-34	-50	44
+-50	-66	-8
+28	-52	42
+54	-58	-4
+8	10	52
+-2	20	44
+12	24	30
+-30	-4	48
+28	-6	50
+28	-58	40
+58	24	26
+		
+//Hanawa et al., 2016;  imitation x difficulty > baseline; socialcommunication		
+// Subjects=37 		
+-2	8	56
+8	10	54
+38	2	62
+-28	-4	50
+-24	-72	46
+18	-74	58
+		
+//Hanawa et al., 2016; observation x rhythm > baseline; socialcommunication		
+// Subjects=37 		
+38	-68	-28
+4	-86	-4
+		
+//Hanawa et al., 2016;  imitation x rhythm > baseline; socialcommunication		
+// Subjects=37 		
+-4	-66	-12
+-52	-34	14
+		
+//Barman et al., 2015; reward > neutral; socialcommunication		
+// Subjects=63		
+6	5	49
+42	-4	46
+33	23	-5
+9	8	-2
+-30	23	-2
+		
+//Barman et al., 2015;  monetary reward > social reward; socialcommunication		
+// Subjects=63		
+9	11	-5
+-9	5	-5
+24	59	1
+42	56	7
+6	32	25
+0	-22	31
+48	-46	43
+-3	-85	-14
+		
+//Barman et al., 2015;  social reward > monetary reward; socialcommunication		
+// Subjects=63		
+33	23	-5
+9	8	-2
+-30	23	-2
+24	59	19
+-12	56	19
+36	17	40
+48	-61	49
+6	-61	43
+6	44	-20
+33	32	-14
+-33	32	-14
+57	-4	-20
+-18	-10	-17
+42	-49	-20
+-42	-52	-20
+		
+//Bockler et al., 2016; eye contact > averted gaze; socialcommunication		
+// Subjects=21		
+18	-88	6
+24	-84	-2
+		
+//Bockler et al., 2016; averted gaze > eye contact; socialcommunication		
+// Subjects=21		
+24	-72	-4
+22	-58	56
+18	-28	12
+46	-2	26
+-36	-12	10
+-48	-18	-22
+16	34	22
+-50	10	-18
+-38	-60	30
+-16	62	-6
+-8	-74	54
+-2	42	-8
+-32	28	22
+-38	-10	46
+-56	-6	34
+48	-4	54
+-39	-14	17
+		
+//Bockler et al., 2016; congruent gaze cues > incongruent gaze cues; socialcommunication		
+// Subjects=21		
+-56	10	-14
+62	0	-2
+		
+//Bockler et al., 2016; incongruent gaze cues > congruent gaze cues; socialcommunication		
+// Subjects=21		
+-26	-2	54
+-36	12	34
+26	4	50
+50	16	34
+-42	-42	50
+38	-66	26
+-38	-70	20
+		
+//Bockler et al., 2016; eye contact x congruent > averted gaze x congruent; socialcommunication		
+// Subjects=21		
+42	-2	30
+-34	-52	46
+-48	-38	38
+-46	-46	8
+-48	-42	44
+		
+//Bockler et al., 2016; averted gaze x incongruent > averted  gaze x congruent; socialcommunication		
+// Subjects=21		
+38	-70	26
+-48	-18	-22
+-46	-46	48
+-27	-2	50
+36	2	46
+-14	-66	50
+		
+//Rauchbauer et al., 2015; Incongruent > Congruent; socialcommunication		
+// Subjects=41		
+-32	-46	44
+12	-64	52
+58	-40	32
+40	18	-6
+26	-10	54
+-30	-8	-62
+-34	14	-10
+-56	-64	2
+2	8	46
+-12	2	68
+28	34	24
+4	-48	-12
+-24	-58	-20
+6	28	26
+		
+//Rauchbauer et al., 2015; Happy (Incongruent > Congruent) masked inclusively with Happy (Incongruent > Congruent) > Angry (Incongruent > Congruent); socialcommunication
+// Subjects=41		
+30	-52	68
+64	-46	38
+22	-8	56
+-8	-6	68
+4	-52	-8
+		
+//Rauchbauer et al., 2015; Angry (Incongruent > Congruent) masked inclusively with Angry (Incongruent > Congruent) > Happy (Incongruent > Congruent); socialcommunication
+// Subjects=41		
+-38	-74	-4
+		
+//Rauchbauer et al., 2015; Out-group (Incongruent > Congruent) masked inclusively with Out-group (Incongruent > Congruent) > In-group (Incongruent > Congruent);socialcommunication
+// Subjects=41		
+-34	-42	40
+32	24	4
+22	-8	56
+2	8	46
+-52	2	10
+-28	22	12
+-48	-58	-2
+		
+//Rauchbauer et al., 2015; In-group (Incongruent > Congruent) masked inclusively with In-group (Incongruent > Congruent) > Out-group (Incongruent > Congruent); socialcommunication
+// Subjects=41		
+4	-64	-14
+		
+//Nagals., 2015; IC > NG; socialcommunication		
+// Subjects=37		
+-50	-72	4
+46	-66	0
+-42	-62	-14
+56	10	38
+54	10	22
+54	42	6
+-24	-28	-8
+-8	-22	-12
+-10	-20	8
+-4	36	46
+		
+//Nagals., 2015;  (IC > NG ∩ ego > allo) (conjunction analysis); socialcommunication		
+// Subjects=37		
+54	-30	54
+18	-100	12
+42	-32	44
+58	8	20
+		
+//Nagals., 2015; ego > allo; socialcommunication		
+// Subjects=37		
+18	-98	6
+12	-96	22
+18	-92	34
+38	0	8
+46	10	4
+58	8	20
+8	6	50
+0	4	50
+14	14	42
+50	-32	46
+42	-24	52
+54	-30	54
+-52	-22	24
+-42	-32	44
+-8	-82	-4
+-22	-74	0
+-32	-60	-2
+38	42	16
+30	46	32
+-14	-46	-26
+-22	-60	-34
+-22	-48	-30
+		
+//Nagals., 2015;  allo > ego; socialcommunication		
+// Subjects=37		
+-16	-94	-8
+-38	-84	-6
+-32	-88	8
+44	-76	26
+50	-54	16
+38	-80	44
+-60	-28	10
+-50	-10	-2
+-48	-20	2
+60	-24	10
+52	-4	-4
+-16	-10	34
+-2	-46	48
+0	-62	58
+14	-50	44
+		
+//Nagals., 2015; (IC-ego>IC-allo)> (NG-ego>NG-allo); socialcommunication		
+// Subjects=37		
+2	20	-10
+-6	38	-6
+4	36	-6
+-24	34	-28
+-32	-32	-18
+		
+//Nagals., 2015; (IC-allo>NG-allo)>(IC-ego>NG-ego); socialcommunication		
+// Subjects=37		
+-8	22	60
+8	22	48
+-6	28	42
+-54	22	6
+-32	24	-8
+-44	40	-8
+32	26	-4
+48	42	-10
+40	28	-12
+		
+//Wagner et al., 2015; Shared_emo > unshared_emo; socialcommunication		
+// Subjects=26		
+-18	32	19
+15	32	19
+-3	59	-5
+-18	59	22
+-33	26	43
+-18	35	49
+-24	35	40
+0	-55	31
+6	-49	37
+-3	-61	49
+-51	-61	40
+33	-82	-32
+		
+//Wagner et al., 2015;  Shared_emo > unshared_emo (masked with interaction sharing 􏰀 emotion); socialcommunication		
+// Subjects=26		
+-18	32	19
+15	32	19
+-33	26	43
+-18	35	49
+6	-49	37
+-6	-58	43
+-51	-61	40
+		
+//Mattan et al., 2018; EMS (covariate) + IMS x Perceived status (High vs. Low) (negative correlation with status); socialcommunication		
+// Subjects=60		
+-15	57	24
+-57	27	15
+60	-36	12
+-36	51	-24
+-18	3	12
+-60	-45	-3
+48	21	-27
+-3	-72	9
+-30	27	45
+-45	-48	21
+-33	-87	24
+		
+//Mattan et al., 2018; IMS x Perceived status (High vs. Low) (negative correlation with status; excluded EMS covariate); socialcommunication		
+// Subjects=60		
+-15	57	24
+-57	30	15
+60	-36	12
+-36	51	-24
+-18	3	12
+-60	-45	-3
+48	21	-27
+-30	27	45
+-45	-48	21
+-3	-72	9
+-33	-87	24
+60	24	18
+60	-15	-18
+		
+//Spunt et al., 2015; Why > How (All stimuli); socialcommunication		
+// Subjects=19 		
+-57	0	-21
+-9	45	51
+-48	33	-12
+-45	24	15
+-51	-69	33
+-42	-51	21
+		
+//Spunt et al., 2015; Why > How (social stimuli); socialcommunication		
+// Subjects=19 		
+-9	57	18
+0	51	36
+-9	29	58
+12	57	12
+		
+//Cooper et al., 2013; Yes (Match + Unrequited) > No (Rejection + Disinterest); socialcommunication		
+// Subjects=38		
+-21	26	53
+-45	-70	28
+-3	38	15
+-54	-49	-7
+-18	-19	57
+-15	65	17
+9	14	-4
+30	-58	-15
+42	-61	-4
+-42	-64	-25
+6	29	14
+6	-58	-18
+36	-76	-32
+		
+//Cooper et al., 2013; Mismatched (Rejection + Unrequited) > matched (Match + Disinterest); socialcommunication		
+// Subjects=38		
+-51	-43	0
+-36	20	-18
+		
+//Cooper et al., 2013; Unsigned prediction errors from RL model; socialcommunication		
+// Subjects=38		
+9	53	25
+		
+//Cooper et al., 2013; Match > Unrequited; socialcommunication		
+// Subjects=38		
+-3	-61	21
+-3	-34	39
+-3	44	-15
+-33	-49	0
+33	-34	-4
+-21	32	42
+-33	-70	35
+18	-4	28
+		
+//Cooper et al., 2013; Rejection > Disinterest; socialcommunication		
+// Subjects=38		
+12	41	14
+		
+//Cooper et al., 2013; Partners who were given a yes > those given a no; socialcommunication		
+// Subjects=38		
+-36	-82	0
+39	-79	-14
+33	29	0
+9	11	64
+24	-46	46
+-3	-19	0
+-6	11	-4
+6	-43	-43
+-6	-70	-22
+-6	38	-15
+-6	-73	21
+48	8	18
+39	-4	46
+9	-34	42
+		
+//Cooper et al., 2013; Partners who were given a no > those given a yes; socialcommunication		
+// Subjects=38		
+54	-55	28
+		
+//Kedia et al., 2013; Distance effect in the beauty condition > height condition; socialcommunication		
+// Subjects=25		
+45	38	28
+3	23	49
+-33	17	-5
+-39	5	31
+-33	-58	43
+27	-58	43
+39	-58	-14
+-27	-64	-32
+-6	-79	-35
+		
+//Kedia et al., 2013; Distance effect in the height condition > beauty condition; socialcommunication		
+// Subjects=25		
+-3	29	37
+-39	23	28
+51	20	-5
+-51	14	-8
+-39	-55	52
+27	-61	52
+-42	-61	-47
+36	-64	-32
+6	-67	-26
+		
+//Kedia et al., 2013; Distance effect in the women condition > dog condition; socialcommunication		
+// Subjects=25		
+-36	23	25
+0	23	49
+-30	20	-5
+-33	-52	37
+24	-58	52
+45	-58	-14
+-27	-64	-32
+-36	-79	-11
+		
+//Kedia et al., 2013; Distance effect in the dog condition > women condition; socialcommunication		
+// Subjects=25		
+45	41	19
+3	26	46
+-48	14	-8
+30	23	-8
+-39	5	31
+-36	-58	52
+30	-64	52
+30	-67	-50
+-6	-79	-29
+		
+//Kedia et al., 2013; Conjunction analyses of the beauty and height distance effects; socialcommunication		
+// Subjects=25		
+0	26	43
+-36	-58	52
+27	-61	52
+-39	-64	-32
+		
+//Kedia et al., 2013; Conjunction analyses of the women and dog distance effects; socialcommunication		
+// Subjects=25		
+51	26	31
+3	26	46
+-36	-55	49
+27	-61	49
+-33	-61	-32
+		
+//Kedia et al., 2013; Main effect of judgment: Beauty > height comparisons; socialcommunication		
+// Subjects=25		
+33	-49	-23
+-33	-52	-23
+		
+//Kedia et al., 2013; Main effect of judgment: Height > beauty comparisons; socialcommunication		
+// Subjects=25		
+24	2	52
+-57	-34	40
+21	-58	58
+-15	-64	55
+33	-76	43
+		
+//Kedia et al., 2013; Main effect of judgment: Height > control condition; socialcommunication		
+// Subjects=25		
+24	2	52
+21	-58	58
+-18	-61	55
+		
+//Kedia et al., 2013; Main effect of target: Women > dogs; socialcommunication		
+// Subjects=25		
+48	20	25
+42	-40	-20
+48	-61	10
+-45	-70	13
+9	-88	22
+		
+//Kedia et al., 2013; Main effect of target: Dogs > Women; socialcommunication		
+// Subjects=25		
+-54	-34	34
+-27	-82	-11
+27	-82	-5
+		
+//Gilead et al., 2013; Concrete conjunction > abstract conjunction; socialcommunication		
+// Subjects=24		
+-44	30	32
+10	24	48
+-28	-6	60
+-52	-54	52
+		
+//Gilead et al., 2013; Abstract conjunction > Concrete conjunction; socialcommunication		
+// Subjects=24		
+-38	-72	-2
+		
+//Gilead et al., 2013; Exemplars > Categories; socialcommunication		
+// Subjects=24		
+58	-54	30
+30	22	44
+-32	32	50
+6	38	62
+2	38	32
+4	-48	44
+-54	-62	44
+-4	6	24
+8	-8	-16
+		
+//Gilead et al., 2013; How > Why; socialcommunication		
+// Subjects=24		
+-44	32	34
+-22	8	44
+-32	-54	42
+-46	-52	60
+-52	-54	-14
+		
+//Gilead et al., 2013; Task x Concreteness; socialcommunication		
+// Subjects=24		
+-4	56	0
+4	10	26
+6	-6	-18
+0	-40	34
+		
+//Luo et al., 2013; painful > non-painful stimuli; socialcommunication		
+// Subjects=36		
+8	46	36
+-2	8	38
+-46	32	14
+-42	18	0
+54	26	18
+50	30	0
+-58	-34	36
+62	-24	32
+60	-42	8
+32	-62	44
+-50	-60	-2
+		
+//Thornton et al., 2013; sociality > working memory load; socialcommunication		
+// Subjects=16		
+58	-59	-34
+38	-37	-32
+-26	-85	-24
+-32	-69	-20
+-40	-55	-20
+56	21	16
+-52	39	14
+-46	21	-22
+40	-87	-8
+-34	-99	-12
+-6	-107	2
+10	-105	12
+22	31	-18
+44	29	-8
+2	-63	62
+-30	54	20
+		
+//Thornton et al., 2013; working memory load > sociality; socialcommunication		
+// Subjects=16		
+-30	17	2
+6	-7	14
+-34	-37	-42
+8	-77	-32
+38	-65	-34
+-36	-67	-34
+-24	-19	-38
+-62	-63	-42
+-20	-81	-28
+-4	39	-24
+-4	27	-22
+2	-39	-48
+18	-37	40
+-8	-71	58
+-30	1	62
+-54	41	-8
+		
+//Thornton et al., 2013; interaction between sociality and working memory load; socialcommunication		
+// Subjects=16		
+32	25	0
+34	-41	-48
+-40	1	34
+50	9	36
+40	33	38
+-52	33	42
+28	9	50
+32	-69	42
+-38	-49	50
+-36	-31	38
+-10	-59	58
+-26	-59	24
+-8	11	52
+		
+//Love et al., 2011; A > Fix; socialcommunication		
+// Subjects=20		
+-45	-25	7
+51	16	1
+-42	-19	55
+21	-52	-23
+-6	-1	58
+-24	-1	-2
+48	-1	46
+		
+//Love et al., 2011; V > Fix; socialcommunication		
+// Subjects=20		
+-9	-94	4
+-45	-19	55
+51	-37	7
+51	2	49
+-54	-46	13
+-21	-25	-2
+24	-25	-2
+42	44	-14
+-27	-1	-2
+-6	2	58
+		
+//Love et al., 2011; A > V; socialcommunication		
+// Subjects=20		
+51	-13	1
+-45	-25	7
+27	-46	13
+-21	-49	61
+		
+//Love et al., 2011; V > A; socialcommunication		
+// Subjects=20		
+-9	-97	4
+18	-94	7
+-21	-28	-2
+21	-28	1
+30	38	-17
+		
+//Love et al., 2011; AV > Fix; socialcommunication		
+// Subjects=20		
+-9	-94	4
+-45	-25	7
+51	-16	1
+-45	-19	58
+42	44	-14
+39	14	55
+-6	2	55
+12	56	34
+27	5	-2
+		
+//Lazar et al., 2014; house + faces; socialcommunication		
+// Subjects=24		
+38	-56	-18
+-37	-67	-18
+50	8	30
+		
+//Sperduti et al., 2014;  imitating > rest; socialcommunication		
+// Subjects=23		
+-36	-24	62
+36	-24	62
+-16	-52	-22
+20	-50	-20
+-14	-20	8
+16	-20	8
+60	-32	24
+-26	38	24
+		
+//Sperduti et al., 2014; being imitated > rest; socialcommunication		
+// Subjects=23		
+-36	-24	62
+-36	-22	54
+36	-24	62
+16	-52	22
+20	-50	-20
+-2	-62	-16
+16	-18	10
+62	-32	24
+-32	40	28
+30	-76	32
+		
+//Sperduti et al., 2014; observation > rest; socialcommunication		
+// Subjects=23		
+48	-74	0
+-42	-80	0
+34	-36	54
+-36	-36	54
+42	-6	62
+54	2	46
+30	-8	58
+-38	-6	58
+60	-32	24
+-4	-4	58
+-10	-20	10
+46	12	20
+-52	-38	24
+		
+//Sugiura et al., 2008; Face (simple effect) [Sf–Ff]; socialcommunication		
+// Subjects=35		
+42	40	14
+46	4	24
+54	-28	58
+48	-52	-4
+		
+//Sugiura et al., 2008; Face specific (interaction) [(Sf–Ff)–(Sn–Fn) masked by Sf–Ff]; socialcommunication		
+// Subjects=35		
+42	38	12
+-46	-52	-6
+		
+//Sugiura et al., 2008; Main effect [(Ff+Fn)–(Sf+Sn) masked by Ff–Sf and Fn–Sn]; socialcommunication		
+// Subjects=35		
+58	-50	34
+-60	-32	6
+		
+//Sugiura et al., 2008; Face (simple effect) [Ff–Sf]; socialcommunication		
+// Subjects=35		
+70	-40	26
+-66	-30	10
+64	-14	-16
+4	-74	36
+		
+//Sugiura et al., 2008; Main effect [(Sf+Ff+Sn+Fn)–2(Cf+Cn) masked by Sf–Cf, Ff–Cf, Sn–Cn, and Fn–Cn]; socialcommunication		
+// Subjects=35		
+-10	44	-6
+10	56	8
+-12	56	12
+		
+//Sugiura et al., 2008; Face (simple effect) [Sf+Ff–2Cf masked by Sf–Cf, and Ff–Cf]; socialcommunication		
+// Subjects=35		
+52	-58	-6
+		
+//Sugiura et al., 2008; Name (simple effect) [Sn+Fn–2Cn masked by Sn–Cn, and Fn–Cn]; socialcommunication		
+// Subjects=35		
+-10	42	-8
+6	50	-8
+0	10	-8
+8	-54	24
+-12	-56	16
+26	-100	10
+22	-90	30
+		
+//Sugiura et al., 2008; Face specific (interaction) [(Sf+Ff–2Cf)–(Sn+Fn–2Cn) masked by Sf+Ff–2Cf]; socialcommunication		
+// Subjects=35		
+54	-54	-10
+		
+//Güroğlu et al., 2008; (peer vs. celebrity) x (positive vs. non-positive); socialcommunication		
+// Subjects=28		
+6	32	-2
+4	20	-4
+-2	32	4
+-8	6	-6
+-6	-10	0
+34	2	-24
+30	-4	22
+38	8	-22
+-28	-4	-26
+-28	-12	-8
+-32	-4	-12
+52	-8	8
+58	2	6
+32	-22	-4
+-44	-26	2
+-44	-76	28
+-40	-62	20
+-50	-64	18
+		
+//Chen et al., 2010; Preference > Gender; socialcommunication		
+// Subjects=21		
+-6	33	39
+0	54	30
+-3	54	-18
+-6	-51	33
+-39	21	-18
+48	30	-12
+45	21	45
+-54	-60	30
+54	-57	48
+-21	-84	-33
+36	-81	-33
+-6	-57	-42
+48	6	-42
+-9	9	9
+		
+//Chen et al., 2010; Gender > Preference; socialcommunication		
+// Subjects=21		
+3	-48	63
+60	-57	-6
+-54	-69	-3
+		
+//Dichter et al., 2008; Shape Targets > Novels; socialcommunication		
+// Subjects=19		
+-38	-30	62
+48	-30	60
+4	-56	2
+2	8	48
+6	-26	26
+12	40	12
+46	38	20
+		
+//Dichter et al., 2008; Face Targets > Novels; socialcommunication		
+// Subjects=19		
+2	-68	14
+-38	-30	64
+42	-34	60
+6	16	32
+29	32	33
+-36	-4	10
+-56	-50	10
+2	-30	22
+38	14	-8
+		
+//Dichter et al., 2008; (Face Targets > Novels) > (Shape Targets > Novels); socialcommunication		
+// Subjects=19		
+-16	-66	8
+36	-62	-10
+-34	-60	-10
+-2	26	36
+0	-62	48
+		
+//Harrison et al., 2009; Main effect of viewing eyes; socialcommunication		
+// Subjects=14		
+40	-72	-2
+54	-60	0
+-22	-92	2
+16	-92	-6
+48	8	-2
+		
+//Harrison et al., 2009; Main effect of change in observed and observer’s pupil size; socialcommunication		
+// Subjects=14		
+8	-40	4
+-12	-2	-16
+-18	-36	-22
+14	-34	-26
+-36	-20	38
+42	-20	12
+		
+//Harrison et al., 2009; Interaction between feedback condition and variance in pupil size (positive > negative); socialcommunication	
+// Subjects=14		
+40	-8	54
+		
+//Sugiura et al., 2010; First (P1–F1); socialcommunication		
+// Subjects=24		
+-30	-24	-26
+-28	-36	-16
+32	-32	-18
+-28	-18	-28
+22	-30	-18
+-18	-4	-14
+-38	14	-18
+28	18	-26
+-58	-4	-22
+56	-2	-22
+64	-42	-8
+-56	-58	16
+64	-52	14
+48	-64	18
+-44	-76	24
+-10	-58	14
+-6	-68	24
+12	-58	24
+12	-58	8
+8	-58	38
+8	-48	32
+10	46	34
+6	48	18
+0	56	-16
+-8	36	-2
+-4	42	2
+2	44	8
+54	22	26
+54	30	8
+42	14	36
+-6	0	-10
+-4	-10	2
+2	-22	-16
+-8	-52	-44
+		
+//Sugiura et al., 2010; Second (P2–F2); socialcommunication		
+// Subjects=24		
+26	22	-24
+54	-6	-22
+52	-58	24
+-36	-74	32
+30	-74	44
+38	-50	36
+34	-50	54
+-8	-68	22
+-4	-66	28
+10	-62	28
+8	-56	12
+6	-56	34
+4	-38	38
+-6	-48	24
+6	-42	26
+8	52	34
+0	62	24
+0	56	-16
+-10	44	8
+10	44	14
+-22	60	8
+52	12	22
+48	44	2
+44	16	30
+-2	-24	2
+8	-24	-14
+		
+//Seitz et al., 2008; Emotional Faces > Control(Scrambled Images); socialcommunication		
+// Subjects=14		
+-34	-66	-12
+32	-54	-13
+-28	-62	54
+30	-54	42
+50	-22	-14
+-56	-64	10
+-27	18	-3
+37	23	-8
+-46	5	38
+42	9	37
+-7	17	49
+7	15	51
+-2	-22	26
+6	-26	29
+-18	-33	-2
+36	-13	-35
+18	-4	-18
+-10	-56	-36
+		
+//Seitz et al., 2008; Shared Emotion > Control (Object Detection); socialcommunication		
+// Subjects=14		
+-11	10	45
+6	12	54
+-17	7	-5
+4	12	-10
+		
+//Seitz et al., 2008; Perception of Emotion > Control (Object Detection); socialcommunication		
+// Subjects=14		
+-10	12	50
+10	12	54
+-46	26	-14
+		
+//Singer et al., 2004; Affective > Neutral faces; socialcommunication		
+// Subjects=11		
+0	51	-21
+-42	18	-12
+-21	0	-21
+-45	-66	-21
+-36	3	39
+-45	36	-6
+		
+//Singer et al., 2004; Cooperator > Neutral faces; socialcommunication		
+// Subjects=11		
+-39	18	-15
+-18	3	-15
+-21	0	-18
+-24	6	-9
+-45	39	-6
+		
+//Singer et al., 2004; Defector > Neutral faces; socialcommunication		
+// Subjects=11		
+0	54	-21
+-33	6	39
+		
+		
+//Spunt et al., 2013; Conjunction of all Conditions > Fixation Baseline; socialcommunication		
+// Subjects=19		
+27	-93	18
+-18	-93	12
+45	-78	0
+18	-78	-6
+-45	-78	6
+36	-48	-12
+-24	-54	54
+-18	-30	0
+24	-51	54
+24	-30	0
+-54	-45	12
+48	-39	12
+33	-33	51
+21	-54	15
+-18	-54	9
+-45	0	54
+-33	9	27
+-6	12	57
+-42	39	-15
+-51	24	33
+-24	-54	51
+-51	0	48
+-42	0	57
+-24	-3	48
+54	12	36
+		
+//Spunt et al., 2013;  Load x Goal > Fixation Baseline; socialcommunication		
+// Subjects=19		
+-12	-36	-18
+30	0	-24
+-24	66	9
+-9	57	6
+-54	3	-24
+-9	57	6
+-3	48	36
+		
+//Spunt et al., 2013; Conjunction of low-load/how-goal condition > low-load/observe-goal condition and high-load/how-goal condition > high-load/observe-goal condition; socialcommunication		
+// Subjects=19		
+-39	3	30
+		
+//Spunt et al., 2013; Modulation by load for any of the four goals; socialcommunication		
+// Subjects=19		
+-54	3	-24
+-6	63	6
+		
+//Spunt et al., 2013; Low-load/why-goal condition compared with high-load/why-goal condition, low-load/how-goal condition, and high-load/how-goal condition combined; socialcommunication		
+// Subjects=19		
+-54	3	-24
+-6	51	36
+		
+//Toki et al, 2013; Task by face type interaction; socialcommunication		
+// Subjects=30		
+-26	-8	-18
+-2	40	42
+-44	18	-4
+-36	22	-6
+-44	36	-4
+0	18	50
+-4	26	52
+4	-14	0
+48	24	16
+-50	20	24
+-48	32	16
+		
+//Toki et al, 2013; Main effect of task; socialcommunication		
+// Subjects=30		
+-48	18	10
+-48	22	-4
+		
+//Toki et al, 2013; Main effect of face type; socialcommunication		
+// Subjects=30		
+46	-60	-18
+56	-56	-8
+52	-64	-6
+16	34	34
+16	42	36
+		
+//Falk et al., 2013; Intention effect; socialcommunication		
+// Subjects= 19		
+-3	51	-3
+-3	-57	21
+-21	33	48
+-39	-18	66
+		
+//Falk et al., 2013; Salesperson effect; socialcommunication		
+// Subjects= 19		
+-54	-51	30
+45	-57	27
+		
+//Falk et al., 2013; Buzz effect; socialcommunication		
+// Subjects= 19		
+-48	-51	15
+51	-60	18
+6	54	36
+3	-60	48
+-3	9	3
+3	-36	-27
+		
+//Wildgruber et al., 2013; CSL > TIC; socialcommunication		
+// Subjects=18		
+30	-45	-6
+-24	-45	-6
+-42	-81	21
+9	54	6
+-12	-39	51
+21	-39	63
+-54	-6	-18
+-6	-57	33
+48	-69	33
+		
+//Wildgruber et al., 2013; TIC > CSL; socialcommunication		
+// Subjects=18		
+36	15	30
+63	-30	18
+-60	-36	33
+6	-18	3
+		
+//Wildgruber et al., 2013; CAT > COU; socialcommunication		
+// Subjects=18		
+51	27	9
+-42	24	-6
+45	-45	3
+27	-87	18
+3	39	48
+30	-60	-3
+-42	21	33
+12	-81	-18
+		
+//Smith et al., 2017; Social Judgment > Perceptual Judgment; socialcommunication		
+// Subjects=23		
+-44	24	28
+40	-76	-8
+-8	-76	-38
+-38	-84	-4
+46	32	18
+-2	-46	-36
+0	18	50
+-32	20	-2
+-44	50	-2
+6	-12	4
+-24	-64	46
+4	-32	-4
+		
+//Cassidy et al., 2016; Black > White faces: A. Increased activation with more racial trust disparities; socialcommunication		
+// Subjects=30		
+54	51	54
+		
+//Cassidy et al., 2016; Black > White faces: A. Increased activation with less racial trust disparities; socialcommunication		
+// Subjects=30		
+-18	-78	21
+51	-54	-45
+18	66	0
+		
+//Cassidy et al., 2016; Black > White faces: B. Increased connectivity with orbitofrontal cortex (18, 66, 0) with less racial trust disparity; socialcommunication		
+// Subjects=30		
+24	-51	-9
+-6	-75	-6
+33	-27	-27
+45	-78	-3
+63	-45	-24
+-51	6	-12
+48	-42	-3
+66	-36	24
+-21	9	-27
+-24	-63	33
+51	-33	54
+21	-57	54
+57	-9	30
+-18	60	9
+-48	3	57
+-27	18	51
+42	-9	48
+48	54	0
+-45	36	36
+45	21	36
+15	-3	6
+30	-18	12
+-18	6	12
+42	-69	-24
+		
+//Cassidy et al., 2016; Black > White faces: A. Increased activation with more differentiation disparity; socialcommunication
+// Subjects=30		
+33	-81	-9
+-45	-39	-3
+36	-66	24
+		
+//Cassidy et al., 2016; Black > White faces: A. Increased activation with less differentiation disparity; socialcommunication
+// Subjects=30		
+-30	51	3
+24	42	21
+27	48	15
+		
+//Cassidy et al., 2016; Black > White faces: B. Increassed connectivity with dorsolateral prefrontal seed (24, 42, 21) with less differentiation disparity; socialcommunication	
+// Subjects=30		
+-12	-18	48
+0	60	-18
+-27	-6	45
+36	-27	57
+51	-6	48
+39	-27	42
+51	-15	-18
+-51	-6	-9
+54	3	-24
+-15	-39	-3

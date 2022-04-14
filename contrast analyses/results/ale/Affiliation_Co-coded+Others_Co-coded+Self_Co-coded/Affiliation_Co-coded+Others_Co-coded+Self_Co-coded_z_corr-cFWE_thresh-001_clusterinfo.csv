@@ -1,0 +1,41 @@
+Cluster,x,y,z,Value,Volume (mm^3),Hemisphere,Label
+    1,  -48,  -60,   24,10.0193,23168,L,Angular
+    1,  -46,  -70,   10,7.09521,23168,L,Temporal Mid
+    1,  -54,  -50,   14,6.35204,23168,L,Temporal Mid
+    1,  -36,  -58,   52,5.3182,23168,L,Parietal Inf
+    1,  -44,  -38,   44,5.04145,23168,L,Parietal Inf
+    1,  -56,  -36,   22,4.98149,23168,L,Temporal Sup
+    1,  -58,  -46,    0,4.51389,23168,L,Temporal Mid
+    1,  -36,  -88,   -4,4.45543,23168,L,Occipital Mid
+    1,  -42,  -52,  -20,4.41086,23168,L,Fusiform
+    2,   50,  -68,    4,8.22513,21016,R,Temporal Mid
+    2,   60,  -42,   16,7.08598,21016,R,Temporal Sup
+    2,   52,  -58,   28,6.02232,21016,R,Angular
+    2,   48,  -62,  -10,5.69277,21016,R,Temporal Inf
+    2,   42,  -50,  -20,5.2684,21016,R,Fusiform
+    2,   52,  -28,   20,4.50528,21016,R,Rolandic Oper
+    2,   34,  -90,    6,4.16976,21016,R,Occipital Mid
+    3,    2,   56,   -6,8.56685,20824,R,Frontal Med Orb
+    3,    0,   56,   16,8.54228,20824,L,Frontal Sup Medial
+    3,   -6,   52,   34,5.96921,20824,L,Frontal Sup Medial
+    3,    0,   36,    6,5.8129,20824,L,Cingulate Ant
+    4,   32,   24,   -4,7.71088,14000,R,Insula
+    4,   54,   30,    0,6.58516,14000,R,Frontal Inf Tri
+    4,   50,   10,   28,5.60083,14000,R,Frontal Inf Oper
+    4,   48,    2,   44,5.04463,14000,R,Precentral
+    4,   54,   26,   18,4.7905,14000,R,Frontal Inf Tri
+    5,    4,   24,   46,7.7079, 9672,R,Supp Motor Area
+    5,   -6,   16,   60,7.16222, 9672,L,Supp Motor Area
+    6,    0,  -58,   32,9.95434, 9336,L,Precuneus
+    6,   -8,  -56,   16,5.50175, 9336,L,Precuneus
+    6,    6,  -46,   40,3.68512, 9336,R,Precuneus
+    7,  -32,   20,   -2,9.81966, 7720,L,Insula
+    7,  -46,   28,  -10,8.7011, 7720,L,Frontal Inf Orb 2
+    8,   56,   -4,  -22,7.23698, 3680,R,Temporal Mid
+    8,   60,   -2,   -4,4.02301, 3680,R,Temporal Sup
+    8,   52,   10,  -26,3.89911, 3680,R,Temporal Pole Mid
+    9,  -60,  -10,  -14,6.56002, 3208,L,Temporal Mid
+    9,  -54,    0,  -24,5.13547, 3208,L,Temporal Mid
+    9,  -48,   12,  -34,3.88227, 3208,L,Temporal Pole Mid
+   10,   10,   10,   -4,7.7452, 2904,R,Caudate
+   11,   48,  -30,    2,6.05459,  880,R,Temporal Sup
