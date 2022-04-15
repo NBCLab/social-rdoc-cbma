@@ -1,0 +1,51 @@
+Cluster,x,y,z,Value,Volume (mm^3),Hemisphere,Label
+    1,  -48,  -70,    6,8.37196,32904,L,Temporal Mid
+    1,  -48,  -60,   24,8.11053,32904,L,Angular
+    1,  -54,  -48,   12,7.98982,32904,L,Temporal Mid
+    1,  -40,  -54,  -20,7.45525,32904,L,Fusiform
+    1,  -36,  -56,   50,6.88762,32904,L,Parietal Inf
+    1,  -44,  -36,   42,4.69232,32904,L,Parietal Inf
+    1,  -62,  -30,    4,4.1799,32904,L,Temporal Mid
+    1,  -58,  -34,   36,3.45009,32904,L,SupraMarginal
+    2,   48,  -70,    2,9.00964,26464,R,Temporal Mid
+    2,   40,  -50,  -20,7.81996,26464,R,Fusiform
+    2,   56,  -48,   12,7.6736,26464,R,Temporal Mid
+    2,   48,  -32,    2,5.3825,26464,R,Temporal Sup
+    2,   52,  -58,   26,5.29417,26464,R,Angular
+    2,   62,  -32,   24,5.0185,26464,R,SupraMarginal
+    3,    4,   56,   20,7.82191,18552,R,Frontal Sup Medial
+    3,    0,   56,   -6,7.34828,18552,L,Frontal Med Orb
+    3,   -6,   54,   34,6.43835,18552,L,Frontal Sup Medial
+    3,   -2,   44,  -16,5.4613,18552,L,Rectus
+    3,    0,   38,   12,3.48019,18552,L,Cingulate Ant
+    4,   34,   24,    2,9.19925,18456,R,Insula
+    4,   50,   10,   30,7.59539,18456,R,Precentral
+    4,   54,   28,    4,7.1638,18456,R,Frontal Inf Tri
+    4,   46,   36,   20,4.9263,18456,R,Frontal Mid 2
+    4,   48,    2,   46,4.76781,18456,R,Precentral
+    4,   30,   20,  -22,3.95079,18456,R,OFCpost
+    5,  -32,   20,   -2,12.0815,12664,L,Insula
+    5,  -46,   28,  -10,8.63582,12664,L,Frontal Inf Orb 2
+    5,  -54,   26,   12,5.11556,12664,L,Frontal Inf Tri
+    5,  -46,   22,   28,4.34106,12664,L,Frontal Inf Tri
+    5,  -54,    8,   10,4.17501,12664,L,Frontal Inf Oper
+    6,    4,   24,   46,8.97134, 9688,R,Supp Motor Area
+    6,   -2,   10,   50,7.37573, 9688,L,Supp Motor Area
+    6,   10,   32,   32,3.59323, 9688,R,Cingulate Mid
+    7,    0,  -56,   30,9.53319, 8824,L,Precuneus
+    7,  -10,  -56,   12,5.45037, 8824,L,Precuneus
+    8,   28,  -62,   52,7.31382, 5168,R,Parietal Sup
+    8,   48,  -34,   46,5.11556, 5168,R,Parietal Inf
+    8,   42,  -54,   40,4.28849, 5168,R,Parietal Inf
+    9,   12,  -26,   -4,6.49762, 3688,,no label
+    9,   10,  -14,    8,5.23881, 3688,R,Thalamus
+   10,  -54,    0,  -24,6.4903, 3616,L,Temporal Mid
+   10,  -48,   10,  -34,3.93218, 3616,L,Temporal Pole Mid
+   11,   56,   -2,  -22,7.73149, 3440,R,Temporal Mid
+   11,   60,   -2,   -6,3.51986, 3440,R,Temporal Sup
+   11,   46,   14,  -34,3.30661, 3440,R,Temporal Pole Mid
+   12,  -20,   -6,  -14,6.76281, 3072,L,Amygdala
+   12,   -8,    6,   -4,5.98882, 3072,,no label
+   13,  -46,    4,   52,5.6652, 2664,L,Frontal Mid 2
+   13,  -38,    6,   32,5.60275, 2664,L,Precentral
+   14,   -8,   42,   50,4.48376,  616,L,Frontal Sup Medial

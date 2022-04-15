@@ -1,0 +1,14 @@
+Cluster,x,y,z,Value,Volume (mm^3),Hemisphere,Label
+    1,    0,   54,   14,6.53871, 8344,L,Frontal Sup Medial
+    1,   -8,   50,    0,5.38189, 8344,L,Cingulate Ant
+    1,    0,   34,    6,4.83438, 8344,L,Cingulate Ant
+    2,  -40,  -56,   28,5.33933, 5408,L,Angular
+    2,  -48,  -72,   12,4.91664, 5408,L,Temporal Mid
+    2,  -58,  -58,   16,4.8479, 5408,L,Temporal Mid
+    3,  -44,   28,  -10,5.22266, 2192,L,Frontal Inf Orb 2
+    3,  -32,   20,   -2,4.90506, 2192,L,Insula
+    4,   10,    8,   -4,6.51001, 2088,,no label
+    5,   -8,  -50,   32,5.1539, 1904,L,Cingulate Post
+    5,   -8,  -56,   18,3.91839, 1904,L,Precuneus
+    6,   -6,   16,   60,5.25909, 1656,L,Supp Motor Area
+    6,    0,    4,   50,4.35613, 1656,L,Supp Motor Area

@@ -1,0 +1,23 @@
+Cluster,x,y,z,Value,Volume (mm^3),Hemisphere,Label
+    1,   40,  -50,  -20,6.21278,15488,R,Fusiform
+    1,   48,  -74,   -2,6.01239,15488,R,Occipital Mid
+    1,   58,  -46,   10,5.96243,15488,R,Temporal Mid
+    1,   60,  -66,    6,3.50946,15488,,no label
+    2,  -48,  -70,    4,6.93874, 6040,L,Occipital Mid
+    2,  -40,  -82,   -4,5.70252, 6040,L,Occipital Inf
+    3,   52,    8,   30,5.55443, 4872,R,Precentral
+    3,   52,   24,   26,4.89217, 4872,R,Frontal Inf Tri
+    3,   54,   28,    8,4.05036, 4872,R,Frontal Inf Tri
+    4,  -32,   20,   -2,8.59205, 4616,L,Insula
+    4,  -46,   28,  -10,5.10498, 4616,L,Frontal Inf Orb 2
+    5,  -54,  -48,   12,6.58604, 4056,L,Temporal Mid
+    6,   34,   24,    2,6.56789, 3760,R,Insula
+    6,   50,   16,   -2,4.8196, 3760,R,Frontal Inf Oper
+    7,    4,   24,   46,5.18302, 3688,R,Supp Motor Area
+    7,    2,    8,   48,4.8715, 3688,L,Supp Motor Area
+    8,  -34,  -50,   44,5.24957, 2240,L,Parietal Inf
+    8,  -46,  -30,   38,3.79361, 2240,L,Parietal Inf
+    9,   12,  -26,   -4,5.40445, 2208,,no label
+    9,    6,   -6,    2,3.39332, 2208,,no label
+   10,   28,  -60,   52,5.37356, 1912,R,Parietal Sup
+   11,  -54,   24,   12,4.41765,  824,L,Frontal Inf Tri

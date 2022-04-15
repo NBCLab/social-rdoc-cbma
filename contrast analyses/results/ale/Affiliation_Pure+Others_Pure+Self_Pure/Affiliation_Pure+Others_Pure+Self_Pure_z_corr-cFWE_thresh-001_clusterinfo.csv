@@ -1,0 +1,27 @@
+Cluster,x,y,z,Value,Volume (mm^3),Hemisphere,Label
+    1,    0,   56,   16,7.30271,13184,L,Frontal Sup Medial
+    1,   -8,   52,   36,6.2148,13184,L,Frontal Sup Medial
+    1,    2,   56,   -6,6.18896,13184,R,Frontal Med Orb
+    1,    0,   38,  -10,5.12235,13184,R,Frontal Med Orb
+    1,   -8,   46,    0,5.05871,13184,L,Cingulate Ant
+    2,  -48,  -58,   24,9.75442,12840,L,Angular
+    2,  -42,  -48,   52,5.59737,12840,L,Parietal Inf
+    2,  -34,  -90,   -6,4.32971,12840,L,Occipital Inf
+    2,  -54,  -48,   14,3.67128,12840,L,Temporal Mid
+    2,  -36,  -86,   10,3.30475,12840,L,Occipital Mid
+    3,   54,   28,    0,6.63413, 8968,R,Frontal Inf Tri
+    3,   32,   24,   -4,6.07698, 8968,R,Insula
+    3,   46,    8,   28,5.57029, 8968,R,Frontal Inf Oper
+    4,    0,  -56,   32,9.48616, 6296,L,Precuneus
+    5,   54,  -46,   16,5.3556, 5448,R,Temporal Sup
+    5,   54,  -56,   28,4.85614, 5448,R,Angular
+    6,  -32,   20,   -2,6.59974, 5200,L,Insula
+    6,  -46,   28,  -10,5.85339, 5200,L,Frontal Inf Orb 2
+    7,   50,  -70,    2,6.9901, 4760,R,Temporal Mid
+    7,   34,  -90,    6,5.74874, 4760,R,Occipital Mid
+    8,   56,   -4,  -20,6.42534, 3736,R,Temporal Mid
+    8,   50,    8,  -32,4.2115, 3736,R,Temporal Pole Mid
+    9,  -60,   -8,  -16,4.75318, 2616,L,Temporal Mid
+    9,  -50,   -2,  -34,3.96731, 2616,L,Temporal Inf
+   10,   16,  -88,   -2,4.42976,  544,R,Calcarine
+   11,   48,  -50,   26,3.22187,   32,R,Angular

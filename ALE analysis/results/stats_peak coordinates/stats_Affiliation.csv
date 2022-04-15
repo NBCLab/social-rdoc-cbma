@@ -1,0 +1,19 @@
+Viewer,Image,Type,Value,X,Y,Z,Series,Label 1,Label 2,Label 3,Label 4
+MNI152_T1_2mm_brain,Affiliation_MNI-z_level-voxel_corr-FWE_method-montecarlo-27_08_2020,Cluster 1 of 6,8.125890731811523,32,24,-8,1,Right Cerebrum,Sub-lobar,Insula,Brodmann area 13
+MNI152_T1_2mm_brain,Affiliation_MNI-z_level-voxel_corr-FWE_method-montecarlo-27_08_2020,Cluster 1 of 6,2.039501428604126,28,22,-8,1,Right Cerebrum,Sub-lobar,Claustrum,
+MNI152_T1_2mm_brain,Affiliation_MNI-z_level-voxel_corr-FWE_method-montecarlo-27_08_2020,Cluster 1 of 6,8.125890731811523,32,24,-8,1,Right Cerebrum,Sub-lobar,Insula,Brodmann area 13
+MNI152_T1_2mm_brain,Affiliation_MNI-z_level-voxel_corr-FWE_method-montecarlo-27_08_2020,Cluster 2 of 6,3.121389150619507,-32,18,-6,1,Left Cerebrum,Sub-lobar,Insula,Brodmann area 47
+MNI152_T1_2mm_brain,Affiliation_MNI-z_level-voxel_corr-FWE_method-montecarlo-27_08_2020,Cluster 2 of 6,2.033520221710205,-34,18,0,1,Left Cerebrum,Sub-lobar,Insula,Brodmann area 13
+MNI152_T1_2mm_brain,Affiliation_MNI-z_level-voxel_corr-FWE_method-montecarlo-27_08_2020,Cluster 2 of 6,2.1469156742095947,-34,20,-4,1,Left Cerebrum,Sub-lobar,Insula,Brodmann area 13
+MNI152_T1_2mm_brain,Affiliation_MNI-z_level-voxel_corr-FWE_method-montecarlo-27_08_2020,Cluster 3 of 6,3.238880157470703,2,26,44,1,Right Cerebrum,Frontal Lobe,Med Frontal Gyrus,Brodmann area 8
+MNI152_T1_2mm_brain,Affiliation_MNI-z_level-voxel_corr-FWE_method-montecarlo-27_08_2020,Cluster 3 of 6,2.1519663333892822,0,24,46,1,Left Cerebrum,Frontal Lobe,Sup Frontal Gyrus,Brodmann area 8
+MNI152_T1_2mm_brain,Affiliation_MNI-z_level-voxel_corr-FWE_method-montecarlo-27_08_2020,Cluster 3 of 6,2.878161668777466,2,26,46,1,Right Cerebrum,Frontal Lobe,Sup Frontal Gyrus,Brodmann area 8
+MNI152_T1_2mm_brain,Affiliation_MNI-z_level-voxel_corr-FWE_method-montecarlo-27_08_2020,Cluster 4 of 6,2.7064833641052246,-2,58,-6,1,Left Cerebrum,Frontal Lobe,Med Frontal Gyrus,Brodmann area 10
+MNI152_T1_2mm_brain,Affiliation_MNI-z_level-voxel_corr-FWE_method-montecarlo-27_08_2020,Cluster 4 of 6,2.1369752883911133,-2,58,-4,1,Left Cerebrum,Frontal Lobe,Med Frontal Gyrus,Brodmann area 10
+MNI152_T1_2mm_brain,Affiliation_MNI-z_level-voxel_corr-FWE_method-montecarlo-27_08_2020,Cluster 4 of 6,2.7064833641052246,-2,58,-6,1,Left Cerebrum,Frontal Lobe,Med Frontal Gyrus,Brodmann area 10
+MNI152_T1_2mm_brain,Affiliation_MNI-z_level-voxel_corr-FWE_method-montecarlo-27_08_2020,Cluster 5 of 6,2.7588789463043213,0,-14,40,1,Left Cerebrum,Limbic Lobe,Cingulate Gyrus,Brodmann area 24
+MNI152_T1_2mm_brain,Affiliation_MNI-z_level-voxel_corr-FWE_method-montecarlo-27_08_2020,Cluster 5 of 6,2.172738552093506,-2,-12,40,1,Left Cerebrum,Limbic Lobe,Cingulate Gyrus,Brodmann area 24
+MNI152_T1_2mm_brain,Affiliation_MNI-z_level-voxel_corr-FWE_method-montecarlo-27_08_2020,Cluster 5 of 6,2.172738552093506,-2,-12,40,1,Left Cerebrum,Limbic Lobe,Cingulate Gyrus,Brodmann area 24
+MNI152_T1_2mm_brain,Affiliation_MNI-z_level-voxel_corr-FWE_method-montecarlo-27_08_2020,Cluster 6 of 6,2.333918333053589,28,-62,52,1,Right Cerebrum,Parietal Lobe,Sup Parietal Lob,Brodmann area 7
+MNI152_T1_2mm_brain,Affiliation_MNI-z_level-voxel_corr-FWE_method-montecarlo-27_08_2020,Cluster 6 of 6,2.333918333053589,28,-62,52,1,Right Cerebrum,Parietal Lobe,Sup Parietal Lob,Brodmann area 7
+MNI152_T1_2mm_brain,Affiliation_MNI-z_level-voxel_corr-FWE_method-montecarlo-27_08_2020,Cluster 6 of 6,2.333918333053589,28,-62,52,1,Right Cerebrum,Parietal Lobe,Sup Parietal Lob,Brodmann area 7

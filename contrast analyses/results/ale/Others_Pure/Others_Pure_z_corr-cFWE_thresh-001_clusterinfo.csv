@@ -1,0 +1,21 @@
+Cluster,x,y,z,Value,Volume (mm^3),Hemisphere,Label
+    1,   50,  -70,    2,6.46116, 9128,R,Temporal Mid
+    1,   54,  -46,   16,5.91974, 9128,R,Temporal Sup
+    1,   36,  -90,    6,5.04674, 9128,R,Occipital Mid
+    1,   52,  -58,   28,4.3191, 9128,R,Angular
+    2,  -48,  -58,   24,8.97575, 8312,L,Angular
+    2,  -42,  -82,    2,4.71123, 8312,L,Occipital Mid
+    2,  -54,  -48,   14,4.15184, 8312,L,Temporal Mid
+    3,    2,  -54,   32,8.55637, 5680,R,Cingulate Mid
+    4,   -2,   56,   18,6.57734, 5408,L,Frontal Sup Medial
+    4,   -8,   54,   34,5.79976, 5408,L,Frontal Sup Medial
+    5,   56,   -4,  -22,6.55562, 3744,R,Temporal Mid
+    6,   56,   28,    2,5.54098, 3032,R,Frontal Inf Tri
+    6,   34,   24,    0,4.28131, 3032,R,Insula
+    7,   48,   10,   28,5.15846, 2920,R,Frontal Inf Oper
+    8,  -60,  -10,  -14,4.98649, 2432,L,Temporal Mid
+    8,  -50,   10,  -26,4.19526, 2432,L,Temporal Pole Mid
+    9,  -42,  -48,   52,5.98403, 2360,L,Parietal Inf
+   10,  -46,   28,  -12,5.84152, 1720,L,Frontal Inf Orb 2
+   11,  -30,   22,   -2,5.6616, 1288,L,Insula
+   12,   48,   38,   22,3.55178,  144,R,Frontal Mid 2

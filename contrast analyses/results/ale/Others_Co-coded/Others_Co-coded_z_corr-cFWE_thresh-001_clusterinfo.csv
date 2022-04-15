@@ -1,0 +1,33 @@
+Cluster,x,y,z,Value,Volume (mm^3),Hemisphere,Label
+    1,  -48,  -60,   24,8.90332,14776,L,Angular
+    1,  -40,  -48,   52,5.47533,14776,L,Parietal Inf
+    1,  -54,  -48,   14,5.44056,14776,L,Temporal Mid
+    1,  -42,  -80,    0,5.20454,14776,L,Occipital Mid
+    1,  -48,  -66,   10,5.10192,14776,L,Temporal Mid
+    1,  -48,  -64,   -8,3.99384,14776,L,Temporal Inf
+    2,   48,  -72,    2,6.59135,13320,R,Temporal Mid
+    2,   54,  -46,   16,6.34931,13320,R,Temporal Sup
+    2,   48,  -32,    2,4.92167,13320,R,Temporal Sup
+    2,   52,  -60,   28,4.91349,13320,R,Angular
+    2,   60,  -32,   24,3.97149,13320,R,SupraMarginal
+    3,    4,   56,   22,7.25453,11096,R,Frontal Sup Medial
+    3,   -8,   52,   36,6.09026,11096,L,Frontal Sup Medial
+    3,    2,   56,   -6,5.93268,11096,R,Frontal Med Orb
+    3,   -8,   56,    6,5.16579,11096,L,Frontal Sup Medial
+    3,   -2,   44,  -18,4.10182,11096,L,Rectus
+    3,   -8,   44,   50,3.36706,11096,L,Frontal Sup Medial
+    4,    2,  -56,   32,8.39336, 6896,L,Precuneus
+    4,   -8,  -56,   14,4.05681, 6896,L,Precuneus
+    5,   -4,   14,   58,5.65068, 6248,L,Supp Motor Area
+    5,   -2,   22,   44,5.33976, 6248,L,Supp Motor Area
+    6,  -46,   28,  -10,7.30935, 4896,L,Frontal Inf Orb 2
+    6,  -32,   20,   -2,7.23753, 4896,L,Insula
+    7,   34,   24,    2,5.80316, 3800,R,Insula
+    7,   54,   28,    2,5.53016, 3800,R,Frontal Inf Tri
+    8,   56,   -2,  -22,6.7863, 3712,R,Temporal Mid
+    8,   50,    8,  -32,4.01958, 3712,R,Temporal Pole Mid
+    8,   52,  -16,  -16,3.40388, 3712,R,Temporal Mid
+    9,  -60,  -10,  -14,6.18955, 3104,L,Temporal Mid
+    9,  -54,    2,  -24,4.91093, 3104,L,Temporal Mid
+   10,   50,   10,   28,6.02037, 3080,R,Frontal Inf Oper
+   11,   10,   32,   32,3.46309,   88,R,Cingulate Mid

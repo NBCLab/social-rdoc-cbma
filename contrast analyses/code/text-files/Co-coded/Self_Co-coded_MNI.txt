@@ -1,0 +1,1501 @@
+//Reference=MNI
+//Liu et al., 2018; Self vs Celebrity; self		
+// Subjects=37		
+-9	53	1
+-39	-10	-11
+51	-28	13
+33	11	4
+36	-25	67
+		
+//Rudorf et al., 2018; controlled > free condition; self		
+// Subjects=51		
+39	-40	40
+-42	-40	47
+15	-73	57
+-21	-64	43
+39	-79	33
+		
+//Sun et al., 2016; CC > A; self		
+// Subjects=18		
+-20	42	38
+-6	54	-2
+-4	40	-6
+-18	-86	-10
+16	-92	4
+-40	-38	16
+70	-26	6
+-6	-8	22
+		
+//Sun et al., 2016; A > CC; self		
+// Subjects=18		
+10	-78	0
+-26	-54	52
+		
+//Sun et al., 2016; Gain > Loss; self		
+// Subjects=18		
+-12	 58	16	
+16	-80	28
+14	18	2
+		
+//Sun et al., 2016; (CC-A)Gain > (CC-A)Loss; self		
+// Subjects=18		
+-38	-28	-14
+14	26	-2
+-4	18	0
+		
+//Jiang et al., 2018; SC > SA; self		
+// Subjects=31		
+-9	51	-6
+		
+//Jiang et al., 2018; SA vs. Fixation; self		
+// Subjects=31		
+39	12	48
+9	-27	-9
+-9	-18	0
+		
+//Xie et al., 2016; Social-Reg > Social-Look; self		
+// Subjects=19		
+51	-58	37
+-48	-61	46
+18	56	25
+45	29	40
+-18	47	34
+9	32	61
+-36	53	-2
+-3	53	43
+0	41	25
+27	53	-2
+-36	44	13
+-3	-70	43
+9	-67	37
+-6	-52	28
+-42	11	52
+-39	23	31
+		
+//Xie et al., 2016; Social-Look > Social-Reg; self		
+// Subjects=19		
+-51	-1	31
+		
+//Miedl et al., 2016; Negative > neutral; self		
+// Subjects=37		
+48	-67	7
+45	-28	-2
+57	-37	4
+-6	59	25
+-3	59	13
+9	56	19
+-27	11	-11
+-39	-13	-8
+-3	-7	1
+-45	-55	7
+-51	-73	7
+-42	-70	7
+54	-34	19
+66	-22	16
+63	-37	13
+39	-13	52
+-54	-25	16
+-57	-34	22
+-57	-43	22
+54	11	-26
+48	-1	43
+-57	-16	13
+		
+//Miedl et al., 2016; positive > neutral; self		
+// Subjects=37		
+45	-64	4
+0	59	4
+12	56	7
+3	32	7
+-48	14	-35
+		
+//Miedl et al., 2016; positive > neutral and negative > neutral (conjunction analysis); self		
+// Subjects=37		
+-3	59	16
+-6	53	1
+6	35	4
+51	-67	4
+-24	8	-11
+		
+//Mclatchie et al., 2016; Guilt memory reflect > neutral memory reflect; self		
+// Subjects=20		
+36	24	-16
+-6	50	4
+26	-4	-14
+36	20	-14
+-4	56	28
+8	54	24
+-28	16	18
+50	10	-28
+-6	-52	30
+-50	-60	28
+		
+//Mclatchie et al., 2016; Guilt memory reflect > guilt hypothetical reflect; self		
+// Subjects=20		
+-8	46	6
+8	30	22
+-44	18	2
+32	18	-16
+-14	18	-6
+-2	66	-2
+31	20	13
+-40	18	-16
+-8	-50	32
+		
+//Kawasaki et al., 2016; Positive > Neutral; self		
+// Subjects=28		
+-45	29	-11
+-6	17	61
+-48	-61	25
+48	-34	1
+3	-58	-32
+		
+//Kawasaki et al., 2016; Negative > Neutral; self		
+// Subjects=28		
+-42	29	-8
+-6	17	58
+-48	2	52
+-3	-49	25
+-36	-73	-11
+48	-28	1
+		
+//Kawasaki et al., 2016; (Positive > Neutral) inclusively masked with (Negative > Neutral); self		
+// Subjects=28		
+-45	29	-11
+-6	17	61
+-39	-61	-14
+0	-46	28
+48	-34	1
+		
+//Kawasaki et al., 2016; (Positive vs. Neutral) > (Negative vs. Neutral); self		
+// Subjects=28		
+-6	23	-8
+		
+//Trapp et al., 2014; triad ∩ self ∩ other; self		
+// Subjects=19		
+-5	63	24
+-47	-67	31
+55	-63	31
+-1	-60	34
+-61	-11	-15
+31	-77	-33
+-5	14	59
+-47	25	-8
+-8	-53	3
+		
+//Trapp et al., 2014;  Triad > (self & other); self		
+// Subjects=19		
+-50	14	20
+-57	-53	-8
+-43	-46	41
+-43	46	3
+		
+//Trapp et al., 2014;  Self > (other & triad); self		
+// Subjects=19		
+-1	42	-5
+		
+//Cikara et al., 2014;  Self > other; self		
+// Subjects=21		
+-4	34	-4
+4	40	-4
+-2	36	4
+		
+//Cikara et al., 2014;  Communication > moral (collapsing across self/other); self	
+// Subjects=21		
+16	-52	-20
+4	-62	-12
+14	10	4
+-36	16	-2
+-30	16	6
+-48	6	28
+-46	-38	44
+-26	-64	42
+-28	-66	40
+-56	-54	-14
+-42	-76	-10
+-42	-80	-18
+36	-46	40
+34	-60	42
+32	-64	38
+42	46	-2
+42	44	14
+40	42	16
+34	28	2
+52	12	40
+54	12	24
+6	18	46
+4	32	42
+-4	8	50
+-36	52	-14
+-26	46	-18
+-44	42	4
+		
+//Cikara et al., 2014;  Moral > communication (collapsing across self/other); self	
+// Subjects=21		
+42	-16	18
+-14	-58	12
+48	-12	-12
+-8	48	10
+32	32	-16
+4	48	-12
+		
+//Cikara et al., 2014;  Self > other (collapsing across moral/communication); self	
+// Subjects=21		
+-40	52	10
+-32	48	20
+-44	48	-4
+-42	-56	52
+-38	-58	50
+-36	-60	52
+-62	-46	-10
+-56	-34	-8
+-56	-24	-18
+-48	12	42
+-42	10	36
+-36	6	34
+		
+//Bergström et al., 2014;  Old > new; self		
+// Subjects=18		
+-33	-55	40
+-39	8	40
+-6	17	46
+-6	-67	34
+-27	26	1
+-12	5	-2
+9	5	-2
+		
+//Bergström et al., 2014;  New > old; self		
+// Subjects=18		
+-9	-94	16
+12	-70	-2
+54	-28	28
+		
+//Will et al., 2014;  Excluders > Includers; self		
+// Subjects=26		
+3	-6	30
+-42	0	21
+3	21	60
+-48	-45	57
+-54	-45	42
+-57	-36	48
+36	24	-18
+30	21	-9
+42	42	-18
+-30	21	-15
+-36	21	-9
+		
+//Will et al., 2014;  Includers > Excluders; self		
+// Subjects=26		
+-12	-99	12
+-15	-96	0
+		
+//Will et al., 2014; Excluders equality > Includers equality; self		
+// Subjects=26		
+12	30	57
+12	21	66
+21	36	54
+42	42	-15
+57	-57	45
+48	-63	48
+57	-51	51
+42	24	51
+48	24	30
+45	12	48
+30	21	-9
+36	21	-15
+30	18	-24
+15	66	21
+-57	-60	39
+-45	-69	48
+-42	-63	42
+-36	18	54
+-30	18	54
+		
+//Will et al., 2014; Positive correlation with punishment frequency (percentage inequality for excluders - percentage inequality for includers); self		
+// Subjects=26		
+-51	-48	36
+-51	-39	42
+-54	-27	39
+45	-54	36
+24	-60	42
+57	-54	42
+-33	18	54
+-6	18	51
+9	36	36
+-30	21	-6
+-30	51	0
+-33	54	-9
+-42	48	3
+-42	30	24
+-36	9	36
+-39	18	27
+-9	-9	3
+-12	0	-3
+-3	-18	-6
+42	24	30
+45	30	24
+51	24	30
+45	24	9
+51	21	3
+-30	-6	48
+-21	-9	48
+15	60	24
+33	18	-12
+39	-72	24
+33	54	9
+9	-27	30
+9	-30	24
+3	-33	27
+		
+//Kestemont et al., 2014; Self > Truth; self		
+// Subjects=20		
+-10	-48	34
+66	-48	24
+-38	-56	28
+-60	-48	30
+-60	-56	16
+		
+//Kestemont et al., 2014; Situation > Truth; self		
+// Subjects=20		
+52	-6	-24
+-4	-18	28
+-10	-48	34
+66	-48	22
+-38	-56	28
+-62	-48	30
+-60	-58	16
+-46	-36	-6
+		
+//Kestemont et al., 2014; Conjunction analysis (self + other + situation > truth); self		
+// Subjects=20		
+-4	-20	28
+-10	-48	34
+66	-48	22
+-38	-56	28
+-60	-48	30
+-60	-56	16
+		
+//Tamir et al., 2010; self–other discrepancy during Other judgments; self		
+// Subjects=64		
+6	60	20
+-48	20	-14
+28	22	-20
+-8	-4	8
+		
+//Tamir et al., 2010; self–other discrepancy during self trials; self		
+// Subjects=64		
+50	52	27
+		
+//Benoit et al., 2010; Self > syllables; self		
+// Subjects=13		
+-8	36	52
+50	30	-8
+-48	28	-8
+-50	-2	-32
+68	-10	-20
+-2	-12	36
+-6	-50	24
+-44	-56	26
+58	-64	24
+-10	-92	24
+		
+//Benoit et al., 2010; Self > other; self		
+// Subjects=13		
+26	50	26
+-12	34	26
+-42	32	10
+46	28	4
+52	10	-6
+42	4	24
+34	4	6
+38	-4	-34
+-32	0	2
+0	-2	18
+62	-36	40
+		
+//Platek et al., 2005; self face > distracter; self		
+// Subjects=12		
+54	-22	48
+-22	-76	-26
+58	-48	24
+-12	8	-2
+12	8	-2
+16	-28	10
+56	12	-6
+		
+//Platek et al., 2005; self face > famililar face; self		
+// Subjects=12		
+-52	4	-16
+26	34	34
+6	48	-12
+50	-62	40
+-58	-6	-4
+20	16	56
+26	-12	46
+		
+//Schulte-Rüther et al., 2008; Self > high-level baseline; self		
+// Subjects=26		
+-48	28	-10
+-54	24	12
+54	30	-6
+60	26	14
+-62	-46	2
+-56	-58	16
+50	-24	-12
+-54	2	-28
+-50	10	-36
+46	16	-38
+-8	60	32
+-44	8	50
+-6	18	64
+-10	-48	32
+		
+//Takahashi et al., 2004; Guilt > Neutral; self		
+// Subjects=19		
+-6	-95	12
+2	-85	6
+-16	49	9
+4	57	16
+-44	-61	20
+		
+//Takahashi et al., 2004;  Embarrassment > Neutral; self		
+// Subjects=19		
+-2	-89	4
+20	-70	0
+-8	50	25
+2	59	17
+-42	-59	18
+-51	-31	-7
+-53	1	-24
+48	-7	-27
+-44	31	-7
+-34	-18	-18
+		
+//Takahashi et al., 2004;  G > N masked E > N; self		
+// Subjects=19		
+-12	-77	6
+2	-85	6
+-10	36	52
+4	57	16
+-44	-61	20
+		
+//Takahashi et al., 2004;  Embarrassment > guilt; self		
+// Subjects=19		
+12	-83	8
+38	-68	-5
+-10	-62	-2
+-8	-80	1
+42	-3	-27
+32	-18	-13
+-20	-14	-9
+		
+//Takahashi et al., 2004;  Guilt > Embarrassment; self		
+// Subjects=19		
+-16	49	14
+		
+//Jankowski et al., 2014; DA > CA; self		
+// Subjects=19		
+0	-57	33
+-3	-48	6
+-3	45	-6
+6	33	-6
+0	51	12
+0	33	12
+		
+//Jankowski et al., 2014; DP > CP; self		
+// Subjects=19		
+-12	48	0
+-3	18	21
+0	51	12
+-12	-45	18
+-6	-45	48
+		
+//Jankowski et al., 2014; DS > CS; self		
+// Subjects=19		
+-3	51	12
+-9	48	0
+3	33	15
+-6	-60	21
+0	-51	12
+		
+//Jankowski et al., 2014; RA > CA; self		
+// Subjects=19		
+0	-60	33
+-39	-57	27
+-51	-54	18
+-54	-24	-9
+0	57	-3
+		
+//Jankowski et al., 2014; RP > CP; self		
+// Subjects=19		
+0	-57	33
+0	54	15
+3	57	-3
+		
+//Jankowski et al., 2014; RS > CS; self		
+// Subjects=19		
+0	-54	36
+3	57	-3
+0	54	12
+3	30	3
+-39	-60	27
+-54	-57	21
+		
+//van den Bos et al., 2009; defect > reciprocate; self		
+// Subjects=18		
+-6	51	15
+6	-93	12
+		
+//van den Bos et al., 2009; reciprocate > defect; self		
+// Subjects=18		
+9	-63	3
+		
+//van den Bos et al., 2009; regression defect > reciprocity (Positive corr. avg. reciprocity); self		
+// Subjects=18		
+-3	27	33
+36	24	0
+-33	21	1
+45	-43	32
+-24	-72	45
+6	-30	0
+		
+//van den Bos et al., 2009;  regression defect > reciprocity (Negative corr. avg. reciprocity); self		
+// Subjects=18		
+14	12	-5
+		
+//Wade-Bohleber et al., 2019; self-relevant > control; self		
+// Subjects=35		
+32	-54	6
+32	16	10
+-24	16	10
+-14	-54	30
+-54	-68	8
+52	-70	0
+-2	2	50
+		
+//Zimmermann et al., 2018; Touch > Close; self		
+// Subjects=24		
+-54	-22	20
+-42	-22	20
+-39	-1	11
+-66	-22	26
+-48	2	5
+-42	8	-4
+-12	5	-1
+-3	23	23
+-3	14	35
+57	-19	20
+57	-40	14
+54	-34	26
+-48	-64	8
+45	11	-1
+39	8	5
+15	5	-4
+		
+//Hartung et al., 2019: before treatment > after treatment (increased activation); self		
+// Subjects=21		
+-28	-98	8
+34	-90	2
+42	8	26
+		
+//Hartung et al., 2019: before treatment > after treatment (decreased activation); self		
+// Subjects=21		
+-2	36	10
+6	-88	12
+		
+//Uddin et al., 2005; Self - Other; self		
+// Subjects=10		
+32	-60	52
+64	-24	50
+42	-34	38
+46	-58	-12
+48	42	-2
+		
+//Safron et al., 2018; (Heterosexual Women) Female > Male Pictures; self		
+// Subjects=76		
+-33	-76	-10
+30	-67	-7
+42	-70	-16
+30	-58	-10
+		
+//Safron et al., 2018; (Bisexual Women) Female > Male Pictures; self		
+// Subjects=76		
+36	-70	-10
+48	-64	-10
+33	-55	-13
+-39	-85	-7
+-30	-88	5
+-24	-94	-4
+30	79	17
+30	-82	26
+-24	-85	-13
+15	-100	-4
+42	-82	-1
+27	-85	2
+33	-91	8
+		
+//Safron et al., 2018; (Bisexual Women) Male > Female Pictures; self		
+// Subjects=76		
+-51	-64	41
+0	-22	35
+48	-61	35
+51	-61	44
+15	-52	29
+57	-49	35
+-36	-61	44
+		
+//Safron et al., 2018; (Homosexual Women) Female > Male Pictures; self		
+// Subjects=76		
+-27	-82	14
+-33	-88	-1
+-18	-97	2
+33	-79	14
+42	-85	2
+33	-70	8
+33	-52	-10
+33	-70	-13
+18	-94	-1
+-33	-61	-7
+-39	-61	-13
+24	-73	41
+		
+//Safron et al., 2018; (Heterosexual Women) Female > Male Videos; self		
+// Subjects=76		
+-57	-25	8
+-42	-31	11
+-66	-28	8
+54	-16	-1
+		
+//Safron et al., 2018; (Heterosexual Women) Male > Female Videos; self		
+// Subjects=76		
+-9	-82	2
+60	-16	29
+33	-49	62
+		
+//Safron et al., 2018; (Bisexual Women) Female > Male Videos; self		
+// Subjects=76		
+-54	-10	5
+63	-25	2
+		
+//Safron et al., 2018; (Bisexual Women) Male > Female Videos; self		
+// Subjects=76		
+36	-46	59
+36	-37	53
+33	-31	41
+-36	-37	56
+-33	-49	59
+30	-10	59
+-24	-13	62
+-9	-82	2
+		
+//Safron et al., 2018; (Homosexual Women) Female > Male Videos; self		
+// Subjects=76		
+51	-10	2
+54	-19	5
+60	-1	-4
+-63	-19	2
+-45	-25	8
+-66	-28	5
+		
+//Safron et al., 2018;  (Homosexual Women) Male > Female Videos; self		
+// Subjects=76		
+33	-34	47
+42	-28	41
+		
+		
+//Hamilton et al., 2017; monogamous men compared to nonmonogamous, romantic > neutral contrast; self		
+// Subjects=20		
+14	-6	14
+10	18	-6
+12	18	8
+10	6	6
+12	6	-8
+24	8	-8
+32	24	-4
+42	42	-6
+		
+//Hamilton et al., 2017; monogamous men compared to nonmonogamous, romantic > sexual contrast; self		
+// Subjects=20		
+42	-16	14
+-38	-30	18
+58	-10	2
+-56	-26	0
+24	-26	70
+28	-30	18
+28	58	0
+-34	52	2
+-36	58	-8
+36	52	-8
+-46	-62	46
+		
+//Baek et al., 2017; Select > content; self		
+// Subjects=41		
+-9	59	4
+-18	38	43
+-51	-64	34
+-9	-55	19
+66	-10	-14
+-60	-10	-17
+		
+//Baek et al., 2017; Share > content; self		
+// Subjects=41		
+-6	53	10
+-6	-55	25
+51	-61	25
+-54	-67	43
+-63	-7	-14
+-30	17	-14
+63	-7	-17
+-27	-34	-11
+		
+//Baek et al., 2017; Share > select; self		
+// Subjects=41		
+9	-61	28
+		
+//Scholz et al., 2017; reading screen > rating screen; self		
+// Subjects=41		
+-3	59	1
+-3	47	10
+3	8	-5
+-12	38	31
+6	65	25
+-27	53	31
+-3	38	-11
+-21	62	10
+-6	-16	34
+0	-22	40
+-18	-49	31
+12	-28	28
+-4	-28	7
+		
+//Scholz et al., 2017;  abstract triasl > reading screen; self		
+// Subjects=39		
+15	50	1
+-15	50	-2
+3	38	-8
+-3	32	10
+3	8	4
+15	8	-8
+-12	20	1
+12	17	1
+3	-40	19
+6	-22	31
+-9	-43	19
+		
+//Kirk et al., 2016; interaction of accepting unfair offers and  Pre-MT > Pre-CT (conjunction analysis); self		
+// Subjects=50		
+-32	14	14
+		
+//Kirk et al., 2016; interaction of accepting unfair offers and  (Post-MT > Pre-MT) > (Post-CT > Pre-CT); self		
+// Subjects=50		
+-4	4	-6
+8	16	-2
+50	-26	18
+		
+//Whitman et al., 2016; S-performance > O - performance; self		
+// Subjects=24		
+0	40	6
+-6	-64	18
+		
+//Whitman et al., 2016; O-performance > S - performance; self		
+// Subjects=24		
+2	44	36
+		
+//Beckes et al., 2013;  threat-to-self (friend handholding) > threat-to-friend; self		
+// Subjects=22		
+54	-26	34
+-36	26	-4
+48	30	0
+4	50	16
+0	-70	18
+48	6	32
+34	-94	-2
+		
+//Beckes et al., 2013;  threat-to-self (stranger handholding) > threat-to-stranger; self		
+// Subjects=22		
+-30	-100	-4
+42	-90	-2
+		
+//Beckes et al., 2013;  threat-to-self (across all handholding) > threat-to-friend; self		
+// Subjects=22		
+48	-36	58
+48	22	8
+-20	-62	16
+-38	24	-4
+42	58	-2
+6	-40	76
+-2	36	50
+-26	62	-4
+-44	-10	48
+36	-94	-2
+58	-26	-8
+-34	-58	38
+		
+//Beckes et al., 2013;  threat-to-self (across all handholding) > threat-to-stranger; self		
+// Subjects=22		
+-16	-54	52
+		
+//Cheng et al., 2010;  pain > no pain; self		
+// Subjects=36		
+-2	20	40
+-2	12	46
+1	4	62
+14	6	-14
+-8	6	0
+8	10	-2
+-36	50	26
+-40	12	-6
+42	10	-8
+-52	10	2
+34	20	20
+-66	-26	24
+64	-24	26
+-2	-22	-24
+		
+//Cheng et al., 2010;  self > loved one; self		
+// Subjects=36		
+-34	18	10
+-8	-12	60
+-6	10	28
+-12	-2	6
+16	-16	12
+		
+//Cheng et al., 2010;  self > stranger; self		
+// Subjects=36		
+0	2	50
+-34	18	8
+32	28	0
+20	8	72
+54	6	8
+-36	40	26
+30	-20	-6
+-10	6	6
+16	-18	12
+-44	2	-12
+44	14	-14
+		
+//Han et al., 2016; Activation > Deactivation; self		
+// Subjects=42		
+26	-54	-24
+22	-50	-24
+-14	-8	74
+-4	6	52
+2	6	54
+-32	-14	68
+-24	-98	-2
+28	-94	0
+-26	-96	-6
+28	-94	-2
+-36	-86	-14
+40	-52	-24
+44	-74	-8
+24	-90	-2
+-56	-24	50
+-60	-18	26
+-44	0	6
+-24	-6	14
+		
+//Han et al., 2016; Deactivation > Activation; self		
+// Subjects=42		
+-21	21	48
+24	33	42
+-21	27	42
+24	36	42
+3	54	-9
+0	54	-12
+-9	45	-3
+-9	-42	42
+3	-42	42
+-15	-63	18
+6	-84	3
+-27	-78	39
+42	-78	21
+-18	-81	39
+24	-75	45
+45	-72	21
+-57	6	-18
+54	-3	-12
+-21	-45	-9
+24	-60	-3
+18	-75	51
+18	-75	48
+-9	-45	45
+36	-78	42
+		
+//Han et al., 2016; Agency vs. Communion; self		
+// Subjects=42		
+0	24	-10
+0	24	-6
+2	24	-6
+-4	18	-6
+		
+//Han et al., 2016; Communion vs. Agency; self		
+// Subjects=42		
+30	-86	8
+26	-66	-12
+		
+//Herold et al., 2016; Self-referential > social; self		
+// Subjects=28		
+-32	34	-14
+-50	36	6
+-54	8	26
+-18	38	46
+-6	40	20
+-4	32	-12
+-4	46	2
+22	-66	10
+-6	-94	2
+-32	-88	18
+14	-84	10
+16	-82	-6
+-58	-54	-14
+-34	-70	42
+30	-42	-6
+-40	-6	8
+44	-14	56
+10	0	54
+-26	-52	-18
+		
+//Herold et al., 2016; Social > self-referential; self		
+// Subjects=28		
+50	-74	0
+-44	-64	14
+6	-56	54
+10	-84	44
+22	-4	-22
+34	2	-38
+-44	-48	-26
+-38	-6	64
+44	12	58
+-36	-24	62
+-28	-38	66
+		
+//Cazzato et al., 2015; [incongruent > congruent trials]; self		
+// Subjects=28		
+12	-58	58
+18	-64	58
+62	-38	38
+64	-40	24
+-24	-2	58
+18	0	62
+8	20	36
+-32	20	6
+-10	-74	4
+		
+//Powers et al., 2016; social scenes vs non-social scenes; self		
+// Subjects=33		
+9	54	18
+-66	-3	-24
+3	51	-21
+51	-72	3
+-51	-78	9
+45	0	45
+-33	-6	45
+45	24	15
+-3	-78	-27
+		
+//Barman et al., 2015; reward > neutral; self		
+// Subjects=63		
+6	5	49
+42	-4	46
+33	23	-5
+9	8	-2
+-30	23	-2
+		
+//Barman et al., 2015;  monetary reward > social reward; self		
+// Subjects=63		
+9	11	-5
+-9	5	-5
+24	59	1
+42	56	7
+6	32	25
+0	-22	31
+48	-46	43
+-3	-85	-14
+		
+//Barman et al., 2015;  social reward > monetary reward; self		
+// Subjects=63		
+33	23	-5
+9	8	-2
+-30	23	-2
+24	59	19
+-12	56	19
+36	17	40
+48	-61	49
+6	-61	43
+6	44	-20
+33	32	-14
+-33	32	-14
+57	-4	-20
+-18	-10	-17
+42	-49	-20
+-42	-52	-20
+		
+//Ramsey et al., 2013; Consistent Self (CS) > Consistent Other (CO); self		
+// Subjects=16		
+-51	-13	-2
+-48	-25	7
+33	17	58
+21	35	55
+27	26	58
+42	2	49
+45	17	49
+51	11	43
+21	-13	4
+12	-16	4
+30	-19	7
+54	-55	28
+51	-58	40
+45	-49	28
+-51	-58	25
+-54	-55	43
+-45	14	-5
+63	-25	-11
+63	-43	-14
+54	-49	-11
+-33	-67	43
+54	11	-5
+57	17	7
+-39	8	58
+-42	-7	58
+-39	5	49
+30	-70	-8
+21	-70	1
+6	-79	49
+6	-67	61
+-3	-70	34
+-45	11	34
+-45	10	34
+-42	17	46
+		
+//Ramsey et al., 2013; Inconsistent Self (IS) > Consistent Other (CO); self		
+// Subjects=16		
+12	-7	4
+-15	-4	4
+-3	-10	-2
+-42	-55	34
+-33	-64	46
+-51	-46	43
+-30	47	-5
+-30	23	19
+-42	38	25
+-27	17	61
+-39	-4	61
+-30	2	58
+24	11	67
+39	20	34
+33	5	52
+-33	-70	-32
+-33	-55	-35
+-33	-46	-41
+30	-79	-32
+15	-79	-32
+3	-79	-29
+-51	-43	-11
+-57	-46	7
+-63	-58	-8
+-3	-22	13
+-12	-40	7
+-18	-25	13
+		
+//Ramsey et al., 2013; Inconsistent Self (IS) > Consistent Self (CS); self		
+// Subjects=16		
+3	23	7
+21	-16	34
+24	-31	34
+21	-16	43
+		
+//Ramsey et al., 2013; Inconsistent Self (IS) > Inconsistent Other (IO); self		
+// Subjects=16		
+27	-37	-2
+-30	-67	-5
+-21	-55	4
+-15	-70	7
+		
+//Van Der Heiden et al., 2013; Self > Other; self		
+// Subjects=18		
+-54	-28	40
+		
+//Van Der Heiden et al., 2013; Conjunction of Other and Self; self		
+// Subjects=18		
+30	-73	4
+15	-94	1
+-36	44	-11
+-48	44	-5
+-57	-49	1
+-6	20	49
+-12	23	31
+9	17	40
+-51	11	7
+60	17	1
+54	41	1
+-42	41	25
+36	44	-11
+-27	26	-14
+-45	-43	-17
+		
+//Janowski et al., 2012; bid-for-self during self-oriented choice; self		
+// Subjects=32		
+-45	-36	39
+-39	36	12
+-39	-72	30
+-6	27	-12
+		
+//Janowski et al., 2012; Self-oriented > Empathic; self		
+// Subjects=32		
+-51	-54	36
+51	-57	42
+-63	-33	-9
+57	-27	-24
+-9	-18	27
+39	12	57
+48	-6	0
+		
+//Korn et al., 2014; SELF > OTHER; self		
+// Subjects=51		
+33	17	-14
+-3	56	16
+-30	14	-17
+27	-82	-35
+-30	-82	-38
+9	-10	-14
+-3	-4	4
+		
+//Korn et al., 2014; (SELF > OTHER) × (GERMAN > CHINESE); self		
+// Subjects=51		
+-3	32	4
+		
+//Korn et al., 2014; SELF > OTHER (CORRELATION); self		
+// Subjects=51		
+-42	-52	19
+-9	-40	-20
+		
+//Zhou et al., 2014; FAIR > UNFAIR; self		
+// Subjects=28 		
+6	45	-12
+		
+//Zhou et al., 2014; FAIR < UNFAIR; self		
+// Subjects=28		
+9	24	42
+42	33	27
+42	51	-12
+36	21	-3
+		
+//Zhou et al., 2014;  HUMAN > COMPUTER; self		
+// Subjects=28		
+45	9	30
+-27	24	-6
+-45	9	24
+-9	27	33
+		
+//Zhou et al., 2014; HIGH(UNFAIR–FAIR) > LOW(UNFAIR–FAIR); self		
+// Subjects=28		
+-33	-6	12
+36	-9	9
+48	9	18
+		
+//Zhou et al., 2014; HIGH(UNFAIR–FAIR) > LOW(UNFAIR–FAIR) WITHIN HUMAN; self		
+// Subjects=28		
+-36	-18	15
+36	-6	3
+-15	6	-6
+54	39	9
+15	39	48
+		
+//Telzer et al., 2011; Costly-Donation relative to Noncostly-Reward (accept); self		
+// Subjects=25		
+3	27	48
+-24	-90	3
+39	-90	-6
+-36	-45	48
+33	-48	51
+-48	30	33
+		
+//Telzer et al., 2011; Costly-Donation versus Noncostly-Reward (Family obligtations); self		
+// Subjects=25		
+54	-36	27
+48	-42	6
+3	30	21
+-24	36	36
+-42	-48	18
+		
+//Balslev et al., 2006; Active conditions > passive conditions; self		
+// Subjects=16		
+54	-42	33
+-42	-51	45
+-54	-48	27
+51	-24	-12
+		
+//Balslev et al., 2006; Active conditions > passive conditions; self		
+// Subjects=16		
+42	-57	48
+-3	-27	36
+33	39	42
+		
+//Sugiura et al., 2008; Face (simple effect) [Sf–Ff]; self		
+// Subjects=35		
+42	40	14
+46	4	24
+54	-28	58
+48	-52	-4
+		
+//Sugiura et al., 2008; Face specific (interaction) [(Sf–Ff)–(Sn–Fn) masked by Sf–Ff]; self		
+// Subjects=35		
+42	38	12
+-46	-52	-6
+
+//Chiao et al., 2009; Individualism > Collectivism; self		
+// Subjects=24		
+9	-11	12
+30	-6	-2
+-15	-17	15
+-3	-49	11
+24	6	11
+15	-84	10
+-36	-71	-17
+30	-77	-16
+15	65	11
+		
+//Chiao et al., 2009; Collectivism > Individualism; self		
+// Subjects=24		
+-45	-9	-15
+		
+//Chiao et al., 2009; General > Contextual; self		
+// Subjects=24		
+-50	-6	-47
+56	-21	51
+-56	-18	40
+-12	-39	-18
+0	34	-12
+		
+//Chiao et al., 2009; Contextual > General; self		
+// Subjects=24		
+56	-29	-4
+15	-23	15
+-53	2	-18
+-18	-26	12
+36	48	22
+3	23	46
+-33	14	-3
+6	-37	27
+50	24	7
+33	-71	-27
+3	36	29
+3	-73	4
+3	10	24
+21	52	-10
+42	-40	10
+39	-7	36
+24	6	52
+		
+//Chiao et al., 2009; Self Judgement ( Contextual > General) > Self-Construal Style Index ( Collectivism > Individualism); self		
+// Subjects=24		
+-59	-37	16
+0	44	6
+-33	-86	24
+-24	-24	-19
+33	-82	-16
+15	-46	8
+62	-1	-13
+15	-27	-24
+-39	-28	21
+		
+//Bacha-Trams et al., 2017; clusters genetic>non-genetic; self		
+// Subjects=30		
+8	-86	44
+0	54	-8
+-42	-26	6
+62	-26	4
+18	16	-10
+-40	18	-10
+52	-46	-30
+66	-4	-16
+-36	34	20
+8	62	26
+-52	-60	48
+56	-6	38
+-14	-58	72
+		
+//Bacha-Trams et al., 2017; clusters non-genetic>genetic; self		
+// Subjects=30		
+40	-66	-8
+-32	-84	4
+30	-86	-32
+38	22	-34
+-54	-64	-4
+-42	-54	28
+64	-28	20
+52	20	16
+64	0	-4
+-44	10	52
+-8	20	60
+		
+//Bacha-Trams et al., 2017; moral dilemma decision task; self		
+// Subjects=30		
+20	-54	-30
+-8	10	48
+-34	-18	58
+-52	12	22
+-28	-56	48
+-14	-12	-12
+24	10	8
+26	-62	54
+-48	-52	22
+40	22	0
+-62	-24	-12
+-56	8	-24
+		
+//Silani et al., 2013;  Incongruent > Congruent; self		
+// Subjects=32		
+44	-26	64
+54	-16	14
+-36	-78	-12
+		
+//Murch et al., 2014; task trials vs control trials; self		
+// Subjects=21		
+-8	18	64
+-6	48	38
+-46	16	12
+-44	14	36
+12	22	40
+-48	-38	0
+		
+//Murch et al., 2014; positive minus negative frame; self		
+// Subjects=21		
+0	18	-10
+-2	48	-10
+-44	-78	30
+		
+//Murch et al., 2014; negative minus positive frame; self		
+// Subjects=21		
+32	28	4
+-32	18	2
+-56	12	24
+50	16	30
+-8	8	54
+-34	-44	36
+42	-42	40
+0	-68	-30
+28	-66	36
+		
+//Murch et al., 2014; frame inconsistent minus frame consistent; self		
+// Subjects=21		
+8	28	42
+0	26	22
+		
+//Weng et al., 2015; [SUFFERING-NEUTRAL] – PRE[SUFFERING-NEUTRAL]; self		
+// Subjects=41		
+46	-62	36
+38	22	46
+-18	-2	-30
+		
+//Weng et al., 2015; SUFFERING vs. NEUTRAL; self		
+// Subjects=41		
+12	8	-10
+		
+//Kawamichi et al., 2016; Significant activation for the (toss – button press) high-frequency effect; self		
+// Subjects=31		
+6	-44	42
+8	-30	46
+6	-34	46
+2	-34	48
+14	-52	54
+12	-48	52
+12	-46	48
+8	-46	50
+-10	-36	46
+8	-44	6
+28	-58	22
+-14	-86	38
+-4	-32	48
+-6	-36	48
+-2	-68	10
+18	-42	36
+22	0	-8
+6	12	-4
+10	12	-6
+22	10	-6
+34	2	-10
+16	6	-8
+22	18	0
+24	14	0
+36	2	-4
+36	-2	-6
+		
+//Tylén et al., 2016; Meaning > Physical; self		
+// Subjects=25		
+-14	48	44
+-46	-60	28
+-52	28	-8
+-34	-24	48
+		
+//Tylén et al., 2016; Physical > Meaning; self		
+// Subjects=25		
+-24	-54	-14
+-14	-88	-10
+		
+//Tylén et al., 2016; Own > Other (meaning related task); self		
+// Subjects=25		
+4	32	10
+-44	-58	40
+-8	-56	18
+		
+//Tylén et al., 2016; Own > Other × Collective > Individual (meaning related task); self		
+// Subjects=25		
+-2	38	2
+-35	12	-8
+		
+//Seehausen et al., 2016; negative vs positive performance; self		
+// Subjects=20		
+-27	-6	-3
+-54	-24	33
+45	18	-9
+		
+//Seehausen et al., 2016; Emotional Empathic (EE) > emotional unempathic (EN); self		
+// Subjects=20		
+-45	45	-9
+-30	-72	51
+		
+//Seehausen et al., 2016; Unempathic (EN + CN) > empathic (EE + CE); self		
+// Subjects=20		
+-51	3	-9
+27	-3	3
+		
+//Seehausen et al., 2016;  Cognitive unempathic (CN) > cognitive empathic (CE); self		
+// Subjects=20		
+-6	45	-15
+		
+//Seehausen et al., 2016;  Empathic (EE + CE) > high level baseline; self		
+// Subjects=20		
+39	-21	45
+-21	-51	-21
+		
+//Seehausen et al., 2016;  Emotional empathic (EE) > high level baseline; self		
+// Subjects=20		
+39	-21	42
+-21	-51	-21
+-36	9	27
+-57	-33	-3
+		
+//Seehausen et al., 2016;  Cognitive empathic (CE) > high level baseline; self		
+// Subjects=20		
+39	-21	45
+-18	-48	-21
+		
+//Seehausen et al., 2016;  Emotional (EE + EN) > cognitive (CE + CN); self		
+// Subjects=20		
+-63	-24	3
+60	-3	-3
+		
+//Seehausen et al., 2016; Emotional empathic (EE) > cognitive empathic (CE); self		
+// Subjects=20		
+-45	45	-3
+		
+//Seehausen et al., 2016; Emotional unempathic (EN) > cognitive unempathic (CN); self		
+// Subjects=20		
+-57	-6	-3
+60	-6	-3
+		
+//Seehausen et al., 2016; Cognitive unempathic (CN) > emotional unempathic (EN); self		
+// Subjects=20		
+36	9	51
