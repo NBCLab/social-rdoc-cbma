@@ -17,7 +17,7 @@ usage: nimare-ales.py [-h] [--iters ITERS] [--cores CORES]
 Read in text file(s) and
 
 positional arguments:
-  in_file        Sleuth-style text files with coordinates to be meta-analyzed
+  in_file        Sleuth-style text file(s) with coordinates to be meta-analyzed
                  (separate files for MNI, Talairach).
   out_dir        Absolute or relative path to directory where output (figures
                  and results) will be saved.
@@ -55,11 +55,39 @@ optional arguments:
                      Default is 'z'
   --verbose          If selected, script will narrate its progress. 
 ```
+5. Compare patterns of convergent activation with `nimare-ale-subtraction.py`
+```
+usage: nimare-ale-subtraction.py [-h] [-1 DSET1 [DSET1 ...]]
+                                 [-2 DSET2 [DSET2 ...]] [--out_dir OUT_DIR]
+                                 [--iters ITERS]
+
+Read in text or dataset files and perform an activation likelihood estimation
+subtraction analysis to compare patterns of convergent activation between
+meta-analytic datasets.
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -1 DSET1 [DSET1 ...], --dset1 DSET1 [DSET1 ...]
+                        Sleuth-style text file(s) with coordinates of first
+                        dataset (separate files for MNI, Talairach) OR a
+                        gzipped, pickled file (`.pkl.gz`) containing both MNI
+                        and Talairach coordinateds.
+  -2 DSET2 [DSET2 ...], --dset2 DSET2 [DSET2 ...]
+                        Sleuth-style text files with coordinates tof second
+                        dataset (separate files for MNI, Talairach) OR a
+                        gzipped, pickled file (`.pkl.gz`) containing both MNI
+                        and Talairach coordinateds..
+  --out_dir OUT_DIR     Absolute or relative path to directory where output
+                        (figures and results) will be saved.
+  --iters ITERS         The number of iterations the FWE corrector should run.
+```
 Overall, you can use the code included here to run a meta-analysis and make figures with 3 commands, once you've prepared your Sleuth-style coordinate text files, navigate to the folder in which you've saved the `code` folder and run the following commands in a command line (e.g., Terminal on MacOS):
 ```
 bash code/setup.sh
 python code/nimare-ales.py /path/to/sleuth_file-mni.txt /path/to/sleuth_file-tal.txt /path/to/output-directory
 python code/make-figs.py /path/to/output-directory/results /path/to/output-directory/figures
+# optionally
+python code/nimare-ale-subtraction.py -1 /path/to/dataset1_file [/path/to/dataset1_file2 ...] -2 /path/to/dataset2_file [/path/to/dataset2_file2 ...] /path/to/output-directory
 ```
 All other arguments are optional and without them, you'll run a perfectly good ALE meta-analysis. Make sure you replace all the `path/to/...` with file paths to your text files and to your output directory, respectively.
 

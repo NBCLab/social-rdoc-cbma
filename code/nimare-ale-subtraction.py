@@ -7,6 +7,7 @@ from datetime import date
 from nilearn.plotting import plot_stat_map, plot_surf_stat_map
 from nilearn.surface import vol_to_surf
 from nilearn.datasets import fetch_surf_fsaverage
+from nimare.dataset import Dataset
 
 print('NiMARE version:', nim.__version__)
 print('Nibabel version:', nib.__version__)
@@ -22,11 +23,11 @@ parser.add_argument('--iters', type=int,
                     help='The number of iterations the FWE corrector should run.')
 args = parser.parse_args()
 
-sleuth1 = args.dset1
-print('dset1:', sleuth1)
-sleuth2 = args.dset2
-print('dset2:', sleuth2)
-basename = sleuth1[0].split('/')[-1][:-4] + '+' + sleuth2[0].split('/')[-1][:-4]
+dset1 = args.dset1
+print('dset1:', dset1)
+dset2 = args.dset2
+print('dset2:', dset2)
+basename = dset1[0].split('/')[-1][:-4] + '-' + dset2[0].split('/')[-1][:-4]
 print(basename)
 out_dir = args.out_dir
 today = date.today().strftime('%d_%m_%Y')
@@ -40,11 +41,25 @@ if args.iters:
 else:
     n_iters = 10000
 
-print(sleuth1, '\n', sleuth2, '\n', basename, '\n', out_dir, '\n', today, '\nniters =', n_iters)
+print(dset1, '\n', dset2, '\n', basename, '\n', out_dir, '\n', today, '\nniters =', n_iters)
 
-dset1 = nim.io.convert_sleuth_to_dataset(sleuth1)
-dset2 = nim.io.convert_sleuth_to_dataset(sleuth2)
+if any('.txt' in string for string in dset1):
+    print('Converting Sleuth coordinate file to NiMARE dataset...')
+    dset1 = nim.io.convert_sleuth_to_dataset(dset1)
 
+elif any('.pkl' in string for string in dset1):
+    print('Converting pickled dataset file to NiMARE dataset...')
+    dset1 = Dataset.load(dset1[0])
+
+if any('.txt' in string for string in dset2):
+    print('Converting Sleuth coordinate file to NiMARE dataset...')
+    dset2 = nim.io.convert_sleuth_to_dataset(dset2)
+
+elif any('.pkl' in string for string in dset2):
+    print('Converting pickled dataset file to NiMARE dataset...')
+    dset2 = Dataset.load(dset2[0])
+
+print('Starting subtraction analysis...')
 meta = nim.meta.ale.ALESubtraction(n_iters=n_iters)
 result = meta.fit(dset1, dset2)
 print(result.maps)

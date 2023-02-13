@@ -1,0 +1,109 @@
+//Reference=Talairach
+//Krämer et al., 2010; Emotional > neutral stimuli; self		
+// Subjects=16		
+31	26	51
+-2	44	34
+-63	-30	28
+-49	-57	13
+-42	28	-8
+-3	38	-9
+		
+//Krämer et al., 2010; Neutral > emotional stimuli; self		
+// Subjects=16		
+39	47	25
+		
+//Krämer et al., 2010; Social relation > single person; self		
+// Subjects=16		
+2	-55	33
+3	-80	18
+-43	-65	14
+55	-36	7
+54	3	-15
+47	-53	13
+2	44	24
+50	22	22
+		
+//Anderson et al., 2013; Sex × Condition; self		
+// Subjects=48		
+42	-1	-17
+30	56	7
+12	-31	10
+-12	-22	-2
+6	-55	-35
+3	-37	-23
+0	-7	-9
+-6	26	13
+-24	47	13
+-24	-40	-26
+-27	-10	-17
+-45	14	-23
+-45	-19	-11
+		
+//Gordon et al., 2011; arm > baseline; self		
+// Subjects=22		
+42	-28	22
+51	-46	4
+30	32	10
+45	-7	-26
+18	-61	-20
+12	32	40
+-3	29	34
+-9	23	52
+-36	-61	-29
+-48	-46	43
+-54	-22	19
+		
+//Gordon et al., 2011; palm > baseline; self		
+// Subjects=22		
+51	-40	28
+42	-28	22
+36	29	31
+42	41	4
+27	-40	-23
+18	-49	-41
+-18	-10	16
+-21	-52	-32
+-48	-22	25
+		
+//Gordon et al., 2011; arm > palm; self		
+// Subjects=22		
+57	-55	13
+36	-28	7
+27	-25	61
+6	-91	16
+-24	-31	55
+9	41	22
+15	-43	-20
+-45	-52	46
+		
+//Dimenichi et al., 2016; Competition > No Competition; self		
+// Subjects=20		
+50	-53	21
+47	22	21
+11	58	18
+29	22	-6
+17	-47	-6
+-28	71	6
+-37	16	45
+-49	-62	18
+-40	58	3
+-55	-35	-3
+		
+//Dimenichi et al., 2016; No Competition > Competition; self		
+// Subjects=20		
+29	-92	12
+-22	1	57
+-16	-71	45
+-22	10	15
+-34	-83	6
+-40	-35	42
+-55	1	33
+		
+//Reniers et al., 2014; Self-reference >  Empathy; self		
+// Subjects=15		
+-25	34	31
+23	36	34
+
+//Reniers et al., 2014; Self-reference SRS–SRN; self		
+// Subjects=15		
+43	-62	-12
